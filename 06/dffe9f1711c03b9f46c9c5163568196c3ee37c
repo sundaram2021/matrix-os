@@ -1,0 +1,21 @@
+desktop/src/renderer/src/features/terminal/TerminalView.tsx
+  s_1bcada4fdb1b6a::t_df8d9603ff8277 283-293,455-495,536-539
+tests/e2e/desktop/terminal-clipboard.e2e.test.ts
+  s_1bcada4fdb1b6a::t_df8d9603ff8277 5,235-238,290-489,497,502-506,509-510,513,515-516,551-568,575-579,582-584,590-591,593,595,598,600,606-610,612-613,617-618,624,629,632-633,635,637,640,643,646-647,657-662,664-665,667,670-671,682-685,687,689-713,715-717,724-727,729,731-732,734,744-747,749-750,754-768,770-776,780-782,784,792-805,807,836-839,841-842,844-845,849,853-863,865,871,877-878,880-881,884,892-902,907,913-914
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "06dffe9f1711c03b9f46c9c5163568196c3ee37c",
+  "prompts": {},
+  "sessions": {
+    "s_1bcada4fdb1b6a": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f69971f66ffeoIZ6atEU96kCW2",
+        "model": "unknown"
+      },
+      "human_author": "Sundaram Kumar Jha <jhasundaram@outlook.com>"
+    }
+  }
+}
