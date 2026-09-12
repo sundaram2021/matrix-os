@@ -1,0 +1,19 @@
+tests/e2e/desktop/terminal-clipboard.e2e.test.ts
+  s_1bcada4fdb1b6a::t_aee73842d60ecd 877-878
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "54e9d598dc46e0f7efc90a9b2277d8f4cecfe95d",
+  "prompts": {},
+  "sessions": {
+    "s_1bcada4fdb1b6a": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f69971f66ffeoIZ6atEU96kCW2",
+        "model": "unknown"
+      },
+      "human_author": "Sundaram Kumar Jha <jhasundaram@outlook.com>"
+    }
+  }
+}
