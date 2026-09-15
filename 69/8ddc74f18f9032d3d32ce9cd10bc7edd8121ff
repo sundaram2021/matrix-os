@@ -1,0 +1,26 @@
+packages/gateway/src/routes/conversations.ts
+  s_63e0bb7599ea02::t_5071f46b9f8e54 14
+  s_63e0bb7599ea02::t_b6048038eaa12b 1-13,15-65
+packages/gateway/src/server.ts
+  s_63e0bb7599ea02::t_034fbcb627056e 3256-3269,3272,3276-3277
+  s_63e0bb7599ea02::t_e50610608b9ed5 335-336
+packages/gateway/src/routes/bridge.ts
+  s_63e0bb7599ea02::t_5fe2d7bee79c16 1-23,25-57,59-373
+  s_63e0bb7599ea02::t_af5bfaa40feef2 24,58
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "698ddc74f18f9032d3d32ce9cd10bc7edd8121ff",
+  "prompts": {},
+  "sessions": {
+    "s_63e0bb7599ea02": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f5a25c02dffeH85VIE7O9KwVXK",
+        "model": "unknown"
+      },
+      "human_author": "Sundaram Kumar Jha <jhasundaram@outlook.com>"
+    }
+  }
+}
