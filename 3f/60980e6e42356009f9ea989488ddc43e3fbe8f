@@ -1,0 +1,27 @@
+scripts/review/check-budgets.mjs
+  s_63e0bb7599ea02::t_f4263e122e1881 26-28,72-75
+  s_63e0bb7599ea02::t_8f656b6a0aedc6 272,279-280
+  s_63e0bb7599ea02::t_2850036dd466a2 169-180,194-195,197-204,206,208,210-226,233,235,239-243,281
+  s_63e0bb7599ea02::t_1426660b77629c 114-117,125,135
+scripts/review/check-patterns.sh
+  s_63e0bb7599ea02::t_a3108120aa6ecd 247-257
+tests/scripts/check-budgets.test.ts
+  s_63e0bb7599ea02::t_0b71c3599a0fc1 138-169
+  s_63e0bb7599ea02::t_3e0a92490a4f68 170
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "3f60980e6e42356009f9ea989488ddc43e3fbe8f",
+  "prompts": {},
+  "sessions": {
+    "s_63e0bb7599ea02": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f5a25c02dffeH85VIE7O9KwVXK",
+        "model": "unknown"
+      },
+      "human_author": "Sundaram Kumar Jha <jhasundaram@outlook.com>"
+    }
+  }
+}
