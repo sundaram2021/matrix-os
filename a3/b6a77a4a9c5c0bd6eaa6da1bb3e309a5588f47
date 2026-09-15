@@ -1,0 +1,33 @@
+package.json
+  s_63e0bb7599ea02::t_7040be59690bfe 54
+scripts/review/check-patterns.sh
+  s_63e0bb7599ea02::t_e2f5357852d375 236-253
+scripts/review/arch-budgets.json
+  s_63e0bb7599ea02::t_eda3c712ba402f 83-86
+  s_63e0bb7599ea02::t_566619490428d5 1-38,43-82,87-88
+  s_63e0bb7599ea02::t_8ab1b5480afb4c 39-42
+scripts/review/check-budgets.mjs
+  s_63e0bb7599ea02::t_4fde05c5054398 123
+  s_63e0bb7599ea02::t_1c5c6f47cfbc18 23-25
+  s_63e0bb7599ea02::t_3f6aa71a5a6f74 1-22,26-34,38-122,124-154,157-255
+  s_63e0bb7599ea02::t_34d01a40261d30 35-37,155-156
+tests/scripts/check-budgets.test.ts
+  s_63e0bb7599ea02::t_7304fc273deb8b 1-136,153
+  s_63e0bb7599ea02::t_cdeafce47d03e0 137-152
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "a3b6a77a4a9c5c0bd6eaa6da1bb3e309a5588f47",
+  "prompts": {},
+  "sessions": {
+    "s_63e0bb7599ea02": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f5a25c02dffeH85VIE7O9KwVXK",
+        "model": "unknown"
+      },
+      "human_author": "Sundaram Kumar Jha <jhasundaram@outlook.com>"
+    }
+  }
+}
