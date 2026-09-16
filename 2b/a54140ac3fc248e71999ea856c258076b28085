@@ -1,0 +1,611 @@
+tests/shell/chat-agents-page.test.tsx
+  s_e99143c1f502a5::t_04097d47a0844b 1-76
+packages/contracts/src/index.ts
+  s_e99143c1f502a5::t_04097d47a0844b 38-40,1405-1408
+tests/contracts/canonical-chat-api.test.ts
+  s_e99143c1f502a5::t_04097d47a0844b 129,131,133,137,141
+specs/122-window-management/evidence/launchbar/README.md
+  s_e99143c1f502a5::t_04097d47a0844b 1-33
+tests/e2e/desktop/terminal-snapshot.e2e.test.ts
+  s_e99143c1f502a5::t_04097d47a0844b 1-68
+packages/integrations-mcp/src/chat-agents.ts
+  s_e99143c1f502a5::t_04097d47a0844b 1-66
+docs/review-assets/terminal-snapshot/README.md
+  s_e99143c1f502a5::t_04097d47a0844b 1-27
+tests/contracts/xai-marketplace-inventory.test.ts
+  s_e99143c1f502a5::t_04097d47a0844b 1-47
+tests/shell/canonical-chat-agent-submit.test.tsx
+  s_e99143c1f502a5::t_04097d47a0844b 1-186
+tests/shell/desktop-window-controls.test.tsx
+  s_e99143c1f502a5::t_04097d47a0844b 21-52
+desktop/src/renderer/src/features/terminal/DesktopTerminalSharing.tsx
+  s_e99143c1f502a5::t_04097d47a0844b 2-3,5,11-12
+tests/e2e/fixtures/viewer-scroll-runtime.ts
+  s_e99143c1f502a5::t_04097d47a0844b 1-36
+tests/desktop/chat-copy-id.test.tsx
+  s_e99143c1f502a5::t_04097d47a0844b 58-70
+tests/desktop/queued-turn-edit-context.test.tsx
+  s_e99143c1f502a5::t_04097d47a0844b 1-99
+tests/gateway/chat-service.test.ts
+  s_e99143c1f502a5::t_04097d47a0844b 29,42,46,100,103,107,151-157,163,177
+tests/platform/custom-mcp-fallback.test.ts
+  s_e99143c1f502a5::t_04097d47a0844b 1-95
+tests/gateway/chat-routes.test.ts
+  s_e99143c1f502a5::t_04097d47a0844b 50-51,191-211,224,232,238,245
+desktop/src/renderer/src/lib/canonical-chat-client.ts
+  s_e99143c1f502a5::t_04097d47a0844b 1-2,4,87,105,114,186,191-196,199-200,204,249-253
+apps/mobile/__tests__/canonical-chat-order.test.ts
+  s_e99143c1f502a5::t_04097d47a0844b 1-19
+tests/terminal-runtime/attachment-bootstrap.test.ts
+  s_e99143c1f502a5::t_04097d47a0844b 1-59
+packages/gateway/src/coding-agents/codex-provider-output.d.mts
+  s_e99143c1f502a5::t_04097d47a0844b 1-10
+tests/shell/launchbar-window-bounds.test.ts
+  s_e99143c1f502a5::t_04097d47a0844b 1-105
+specs/127-provider-auth-terminal/spec.md
+  s_e99143c1f502a5::t_04097d47a0844b 1-45
+desktop/src/renderer/src/components/conversation/transcript.tsx
+  s_e99143c1f502a5::t_04097d47a0844b 1,409
+tests/e2e/desktop/provider-auth-terminal.e2e.test.ts
+  s_e99143c1f502a5::t_04097d47a0844b 1-92
+tests/desktop/chat-composer-drafts.test.tsx
+  s_e99143c1f502a5::t_04097d47a0844b 8-68
+packages/gateway/src/chat/run-lifecycle-repository.ts
+  s_e99143c1f502a5::t_04097d47a0844b 188-195
+packages/gateway/src/chat/ordered-run-controls.ts
+  s_e99143c1f502a5::t_04097d47a0844b 1-48
+tests/shell/window-manager.test.ts
+  s_e99143c1f502a5::t_04097d47a0844b 82,106,195,228,253,255,459-465,513,558,561,583,607
+tests/desktop/chat-context-receipt.test.tsx
+  s_e99143c1f502a5::t_04097d47a0844b 1-41
+packages/gateway/src/chat/database.ts
+  s_e99143c1f502a5::t_04097d47a0844b 1,15-17,44-45,113-114,141-142,415-416,475-476,695-696,709-722
+shell/src/components/canvas/CanvasWindow.tsx
+  s_e99143c1f502a5::t_04097d47a0844b 476-481,492
+packages/gateway/src/chat/turn-admission.ts
+  s_e99143c1f502a5::t_04097d47a0844b 1-242
+packages/ui/src/chat-agents/theme.ts
+  s_e99143c1f502a5::t_04097d47a0844b 1-20
+tests/desktop/providers-section.test.tsx
+  s_e99143c1f502a5::t_04097d47a0844b 150-153,163-177
+tests/terminal-runtime/socket-api.test.ts
+  s_e99143c1f502a5::t_04097d47a0844b 216,272-274
+packages/contracts/src/chat-agent-context.ts
+  s_e99143c1f502a5::t_04097d47a0844b 1-36
+packages/platform/src/main.ts
+  s_e99143c1f502a5::t_04097d47a0844b 81,626-631
+packages/contracts/src/canonical-chat.ts
+  s_e99143c1f502a5::t_04097d47a0844b 2,88-89,136-137,188,207-209
+packages/gateway/src/chat/repository.ts
+  s_e99143c1f502a5::t_04097d47a0844b 1-6,139,190,316,325,377,579-581,605,650,832,834-837,841-857,860,862-865,867,953-956,958-961,963-968,978-981,1183,1204,1224
+packages/kernel/src/index.ts
+  s_e99143c1f502a5::t_04097d47a0844b 33-34
+packages/ui/src/index.ts
+  s_e99143c1f502a5::t_04097d47a0844b 89-98,105,107-110
+shell/src/components/chat/ChatTitleRename.tsx
+  s_e99143c1f502a5::t_04097d47a0844b 8,24-26,68,79,122-123,128
+desktop/src/renderer/src/features/chat/CanonicalChatIndex.tsx
+  s_e99143c1f502a5::t_04097d47a0844b 2,28,41,129,139
+packages/gateway/src/chat/admission-replay.ts
+  s_e99143c1f502a5::t_04097d47a0844b 1-59
+shell/src/lib/canonical-chat-client.ts
+  s_e99143c1f502a5::t_04097d47a0844b 1-3,5-7,44-45,49,52-53,55,135,137-139,144-146,148,153,161-165,179-185,204-218,232,234-240
+tests/gateway/provider-auth-actions.test.ts
+  s_e99143c1f502a5::t_04097d47a0844b 1-48
+packages/contracts/src/chat-agents.ts
+  s_e99143c1f502a5::t_04097d47a0844b 1-43
+skills/matrix/personal-daily-brief/SKILL.md
+  s_e99143c1f502a5::t_04097d47a0844b 1-50
+tests/shell/canonical-chat-state.test.tsx
+  s_e99143c1f502a5::t_04097d47a0844b 13,50,114,147-148,179,196-225,329,344,391,402,416,429,501-519
+tests/gateway/chat-read-wire.test.ts
+  s_e99143c1f502a5::t_04097d47a0844b 1-86
+packages/contracts/src/chat-message-wire.ts
+  s_e99143c1f502a5::t_04097d47a0844b 70-93
+shell/src/components/mobile/MobileShell.tsx
+  s_e99143c1f502a5::t_04097d47a0844b 561-565,577
+tests/ui/chat-agents-motion.test.ts
+  s_e99143c1f502a5::t_04097d47a0844b 1-32
+packages/ui/src/collaboration/ShareChoiceDialog.tsx
+  s_e99143c1f502a5::t_04097d47a0844b 22,29,34
+tests/shell/canonical-chat-client.test.ts
+  s_e99143c1f502a5::t_04097d47a0844b 34,37,48,66,71-72,82,86,89-90,140
+packages/gateway/src/chat/routes.ts
+  s_e99143c1f502a5::t_04097d47a0844b 1-4,93,129-130,143,295-299,307-308,311-312,314-320,335,353,362,373,382,407,423,432,434-450,452,468,490,511,533,555,571,589,607,625,652,676,698,720,740
+tests/ui/chat-collaboration-sharing.test.tsx
+  s_e99143c1f502a5::t_04097d47a0844b 20,33-42,63
+packages/contracts/package.json
+  s_e99143c1f502a5::t_04097d47a0844b 24-26,38,54
+packages/contracts/src/terminal-snapshot.ts
+  s_e99143c1f502a5::t_04097d47a0844b 1-4
+tests/gateway/chat-agent-store.test.ts
+  s_e99143c1f502a5::t_04097d47a0844b 1-218
+tests/gateway/chat-agent-recipe.test.ts
+  s_e99143c1f502a5::t_04097d47a0844b 1-198
+apps/mobile/lib/requests/settings.ts
+  s_e99143c1f502a5::t_04097d47a0844b 10,15-17,19
+packages/ui/src/chat-agents/recipe-skills.ts
+  s_e99143c1f502a5::t_04097d47a0844b 1-11
+shell/src/hooks/useCanonicalChatState.ts
+  s_e99143c1f502a5::t_04097d47a0844b 3,6,13,37,43,47-48,54,56-57,61,79,83-95,97,99-112,114,117,121,126,135-142,193,282,287,290,294,296-297,300,314,316,322-325,335-366,368-383,386,393-394,396-415,513,516-526,531-532,536-554,565-568,575-577
+specs/121-chat-agent-templates/implementation.md
+  s_e99143c1f502a5::t_04097d47a0844b 1-184
+packages/gateway/src/chat/read-state-repository.ts
+  s_e99143c1f502a5::t_04097d47a0844b 1-63
+packages/contracts/src/canonical-chat-api.ts
+  s_e99143c1f502a5::t_04097d47a0844b 1,101,105-111,128-138,142,159,171-173,191,207-208,274-292,294
+packages/contracts/src/chat-agent-recipe.ts
+  s_e99143c1f502a5::t_04097d47a0844b 1-74
+packages/ui/src/chat-agents/chat-agents.css
+  s_e99143c1f502a5::t_04097d47a0844b 1-341
+tests/contracts/terminal-snapshot.test.ts
+  s_e99143c1f502a5::t_04097d47a0844b 1-20
+tests/desktop/canonical-chat-route.test.tsx
+  s_e99143c1f502a5::t_04097d47a0844b 252
+tests/gateway/chat-agent-execution.test.ts
+  s_e99143c1f502a5::t_04097d47a0844b 1-542
+tests/shell/chat-agent-context-projection.test.ts
+  s_e99143c1f502a5::t_04097d47a0844b 1-15
+tests/gateway/chat-control-admission.test.ts
+  s_e99143c1f502a5::t_04097d47a0844b 1-124
+tests/shell/canonical-chat-title.test.tsx
+  s_e99143c1f502a5::t_04097d47a0844b 11
+tests/gateway/chat-async-steer.test.ts
+  s_e99143c1f502a5::t_04097d47a0844b 1-163
+packages/terminal-runtime/src/mouse-mode-state.ts
+  s_e99143c1f502a5::t_04097d47a0844b 1-110
+specs/121-chat-agent-templates/evidence/README.md
+  s_e99143c1f502a5::t_04097d47a0844b 1-30
+specs/121-chat-agent-templates/recipe-handoff-validation.md
+  s_e99143c1f502a5::t_04097d47a0844b 1-103
+tests/gateway/chat-hermes-provider.test.ts
+  s_e99143c1f502a5::t_04097d47a0844b 1,168
+packages/ui/src/chat-agents/AgentAvatar.tsx
+  s_e99143c1f502a5::t_04097d47a0844b 1-11
+distro/customer-vps/cloud-init.yaml
+  s_e99143c1f502a5::t_04097d47a0844b 396,438
+shell/src/lib/canonical-chat-terminal-notices.ts
+  s_e99143c1f502a5::t_04097d47a0844b 8-14
+tests/e2e/desktop/fixtures/terminal-snapshot.ts
+  s_e99143c1f502a5::t_04097d47a0844b 1-8
+tests/gateway/chat-read-state.test.ts
+  s_e99143c1f502a5::t_04097d47a0844b 1-97
+packages/gateway/src/chat/async-input-adapter.ts
+  s_e99143c1f502a5::t_04097d47a0844b 1,14-16,22-24,41,47,52-53,55-56,70-73,114-116,119,122-125,131-133,135,141-161,176,178
+tests/shell/window-placement.test.ts
+  s_e99143c1f502a5::t_04097d47a0844b 8-16
+specs/105-coding-agent-shells/codex-resume-transport.md
+  s_e99143c1f502a5::t_04097d47a0844b 1-50
+packages/ui/src/chat/ChatSharingButton.tsx
+  s_e99143c1f502a5::t_04097d47a0844b 17,19,94
+packages/ui/src/chat-agents/ChatAgentsEntry.tsx
+  s_e99143c1f502a5::t_04097d47a0844b 1-250
+packages/gateway/src/chat/metadata-wire.ts
+  s_e99143c1f502a5::t_04097d47a0844b 1-23
+desktop/src/renderer/src/features/settings/provider-settings-desktop-adapter.ts
+  s_e99143c1f502a5::t_04097d47a0844b 19,114-115
+shell/src/components/chat/ChatMentionPicker.tsx
+  s_e99143c1f502a5::t_04097d47a0844b 1-43
+tests/shell/collaboration-runtime.test.ts
+  s_e99143c1f502a5::t_04097d47a0844b 8-9,13-25
+tests/terminal-runtime/mouse-mode-state.test.ts
+  s_e99143c1f502a5::t_04097d47a0844b 1-83
+tests/platform/golden-snapshot-dev-gate.test.ts
+  s_e99143c1f502a5::t_04097d47a0844b 25
+tests/terminal-runtime/viewer-output.test.ts
+  s_e99143c1f502a5::t_04097d47a0844b 1-68
+tests/ui/recipe-handoff.test.ts
+  s_e99143c1f502a5::t_04097d47a0844b 1-38
+tests/shell/chat-title-retry.test.tsx
+  s_e99143c1f502a5::t_04097d47a0844b 1-28
+shell/src/app/globals.css
+  s_e99143c1f502a5::t_04097d47a0844b 2,7
+packages/gateway/src/coding-agents/provider-registry.ts
+  s_e99143c1f502a5::t_04097d47a0844b 1,358
+packages/ui/src/canonical-chat-record.ts
+  s_e99143c1f502a5::t_04097d47a0844b 1-21
+packages/gateway/src/coding-agents/codex-provider-output.mjs
+  s_e99143c1f502a5::t_04097d47a0844b 1-51
+desktop/src/renderer/src/features/coding-agents/provider-setup-terminal.ts
+  s_e99143c1f502a5::t_04097d47a0844b 9,51,62-65
+specs/123-chat-unread/spec.md
+  s_e99143c1f502a5::t_04097d47a0844b 1-68
+shell/src/components/ChatApp.tsx
+  s_e99143c1f502a5::t_04097d47a0844b 2-4,8-14,118-123,136-140,148,184-190,196-197,202,211-226,228-240,276,278,281,287-288,300,375,391-395,397,408-411,421-425,444,484-488,548,552,557-558,610,641,645-646,660,666,677-678,682,703
+specs/121-chat-agent-templates/recipe-plan.md
+  s_e99143c1f502a5::t_04097d47a0844b 1-50
+tests/desktop/chat-agent-recipe-skills.test.tsx
+  s_e99143c1f502a5::t_04097d47a0844b 1-90
+tests/gateway/chat-ordered-controls.test.ts
+  s_e99143c1f502a5::t_04097d47a0844b 1-50
+tests/shell/chat-composer-draft.test.tsx
+  s_e99143c1f502a5::t_04097d47a0844b 1-20
+desktop/src/renderer/src/lib/shell-socket.ts
+  s_e99143c1f502a5::t_04097d47a0844b 6,503-506
+packages/ui/src/chat-agents/recipe-handoff.ts
+  s_e99143c1f502a5::t_04097d47a0844b 1-17
+shell/src/components/chat/useChatComposerDraft.ts
+  s_e99143c1f502a5::t_04097d47a0844b 1-40
+packages/ui/src/chat-agents/AgentRecipeIntegrations.tsx
+  s_e99143c1f502a5::t_04097d47a0844b 1-82
+packages/ui/src/canonical-chat-content.ts
+  s_e99143c1f502a5::t_04097d47a0844b 1,54
+desktop/src/renderer/src/features/project/DesktopProjectSharing.tsx
+  s_e99143c1f502a5::t_04097d47a0844b 2-3,5,11-12
+shell/src/components/chat/ChatQueuedRequests.tsx
+  s_e99143c1f502a5::t_04097d47a0844b 1-26
+packages/gateway/src/chat/queue-repository.ts
+  s_e99143c1f502a5::t_04097d47a0844b 1-2,5,51,64,72,173,210-227,337,398-400,411,415,417-421,428-429,452-453,469,652-656,838,856,915,933-938
+packages/ui/src/chat-agents/AgentRecipeSkills.tsx
+  s_e99143c1f502a5::t_04097d47a0844b 1-68
+packages/contracts/src/canonical-chat-surface.ts
+  s_e99143c1f502a5::t_04097d47a0844b 207,218,220
+tests/desktop/chat-agents-fixture.ts
+  s_e99143c1f502a5::t_04097d47a0844b 1-48
+desktop/src/renderer/src/features/work/work-rail/WorkRailChatRow.tsx
+  s_e99143c1f502a5::t_04097d47a0844b 10,31-32,47-48,68,129-131
+apps/mobile/components/shell/DrawerContent.tsx
+  s_e99143c1f502a5::t_04097d47a0844b 40,52,107,130
+desktop/src/renderer/src/features/mission-control/AccountMenu.tsx
+  s_e99143c1f502a5::t_04097d47a0844b 16,67-107,144-145,183
+packages/gateway/src/chat/agent-routes.ts
+  s_e99143c1f502a5::t_04097d47a0844b 1-126
+apps/mobile/__tests__/drawer-layout.test.tsx
+  s_e99143c1f502a5::t_04097d47a0844b 11,29-32,89,116-122,158,203
+desktop/src/renderer/src/features/plugins/McpServersSection.tsx
+  s_e99143c1f502a5::t_04097d47a0844b 2,4,26-27,35-48,50-55,170-186,195,203
+.github/workflows/ci.yml
+  s_e99143c1f502a5::t_04097d47a0844b 414-416,585-599,612-626
+desktop/src/renderer/src/features/work/WorkTab.tsx
+  s_e99143c1f502a5::t_04097d47a0844b 1-4,16,202-206,258,260-261,276,286-287,330,334,478,489-497,528-534,536,539-540,542-560,569,695,720-721,723,757,759-760,777,875-878
+tests/gateway/codex-provider-output.test.ts
+  s_e99143c1f502a5::t_04097d47a0844b 1-42
+scripts/generate-chat-agent-inspirations.mjs
+  s_e99143c1f502a5::t_04097d47a0844b 1-47
+tests/platform/customer-vps-cloud-init.test.ts
+  s_e99143c1f502a5::t_04097d47a0844b 221,404
+scripts/install-hermes-matrix-skills.sh
+  s_e99143c1f502a5::t_04097d47a0844b 30
+desktop/src/renderer/src/features/chat/chat-agent-draft.ts
+  s_e99143c1f502a5::t_04097d47a0844b 1-12
+packages/gateway/src/chat/agent-recipe-skills.ts
+  s_e99143c1f502a5::t_04097d47a0844b 1-130
+tests/desktop/header-injection.test.ts
+  s_e99143c1f502a5::t_04097d47a0844b 171-181
+apps/mobile/app/(drawer)/_layout.tsx
+  s_e99143c1f502a5::t_04097d47a0844b 12,29,43,87-89
+tests/desktop/provider-settings-adapter.test.ts
+  s_e99143c1f502a5::t_04097d47a0844b 1,221-224,226
+tests/desktop/chat-mention-controls.test.tsx
+  s_e99143c1f502a5::t_04097d47a0844b 1-91
+desktop/src/renderer/src/features/chat/QueuedTurnsPanel.tsx
+  s_e99143c1f502a5::t_04097d47a0844b 1,169
+packages/gateway/src/chat/orchestrator.ts
+  s_e99143c1f502a5::t_04097d47a0844b 1-4,168,174-175,177,204,216-218,303,306-316,334,359-363,372-373,411,441,617,668-671,692,1322
+shell/src/components/projects/ProjectSharing.tsx
+  s_e99143c1f502a5::t_04097d47a0844b 28-30
+shell/src/components/settings/sections/CustomMcpServersPanel.tsx
+  s_e99143c1f502a5::t_04097d47a0844b 3,70-76,98-99,107-120,122,124,127-128,255-271,282,310
+tests/desktop/chat-unread-menu.test.tsx
+  s_e99143c1f502a5::t_04097d47a0844b 1-62
+packages/ui/src/chat-agents/ChatAgentsContent.tsx
+  s_e99143c1f502a5::t_04097d47a0844b 1-27
+tests/desktop/chat-agents-entry.test.tsx
+  s_e99143c1f502a5::t_04097d47a0844b 1-481
+desktop/src/renderer/src/features/settings/sections/ProvidersSection.tsx
+  s_e99143c1f502a5::t_04097d47a0844b 12,68,72,114-115,119,131-132,176,282
+packages/gateway/src/chat/agent-store.ts
+  s_e99143c1f502a5::t_04097d47a0844b 1-256
+packages/ui/src/chat-agents/ChatMentionControls.tsx
+  s_e99143c1f502a5::t_04097d47a0844b 1-76
+tests/desktop/work-rail.test.tsx
+  s_e99143c1f502a5::t_04097d47a0844b 480-491,494-495,497-499,502,510,512-514,974-987,1145,1166,1184
+desktop/src/renderer/src/features/collaboration/useCollaborationRuntime.ts
+  s_e99143c1f502a5::t_04097d47a0844b 1-31
+packages/gateway/src/system-info.ts
+  s_e99143c1f502a5::t_04097d47a0844b 177-179,431-433
+tests/desktop/plugins-mcp.test.tsx
+  s_e99143c1f502a5::t_04097d47a0844b 7,37-56,60,70
+tests/desktop/provider-auth-cold-launch.test.tsx
+  s_e99143c1f502a5::t_04097d47a0844b 1-67
+packages/gateway/src/chat/metadata-schema.ts
+  s_e99143c1f502a5::t_04097d47a0844b 1-45
+packages/ui/src/chat-agents/mentions.ts
+  s_e99143c1f502a5::t_04097d47a0844b 1-24
+packages/gateway/src/chat/agent-recipe.ts
+  s_e99143c1f502a5::t_04097d47a0844b 1-123
+packages/gateway/src/chat/event-http-route.ts
+  s_e99143c1f502a5::t_04097d47a0844b 1-2,64-67,107-111
+tests/contracts/fixtures/matrix-recipes.v1.ts
+  s_e99143c1f502a5::t_04097d47a0844b 1-63
+packages/integrations-mcp/package.json
+  s_e99143c1f502a5::t_04097d47a0844b 13
+tests/desktop/chat-read-behavior.test.tsx
+  s_e99143c1f502a5::t_04097d47a0844b 1-40
+tests/shell/canonical-chat-wiring.test.ts
+  s_e99143c1f502a5::t_04097d47a0844b 12
+tests/terminal-runtime/snapshot-scroll-integration.test.ts
+  s_e99143c1f502a5::t_04097d47a0844b 1-55
+shell/src/lib/desktop-work-area.ts
+  s_e99143c1f502a5::t_04097d47a0844b 1-23
+tests/desktop/chat-queue-acknowledgement.test.tsx
+  s_e99143c1f502a5::t_04097d47a0844b 1-30
+packages/kernel/src/skill-sources.ts
+  s_e99143c1f502a5::t_04097d47a0844b 1-16
+desktop/src/main/auth/header-injection.ts
+  s_e99143c1f502a5::t_04097d47a0844b 258
+packages/integrations-mcp/src/server.ts
+  s_e99143c1f502a5::t_04097d47a0844b 2,134
+packages/terminal-runtime/src/attachment-bootstrap.ts
+  s_e99143c1f502a5::t_04097d47a0844b 1-47
+packages/contracts/src/custom-mcp-availability.ts
+  s_e99143c1f502a5::t_04097d47a0844b 1-3
+tests/desktop/terminal-sharing-runtime.test.tsx
+  s_e99143c1f502a5::t_04097d47a0844b 28,39,41,45-73
+packages/gateway/src/server.ts
+  s_e99143c1f502a5::t_04097d47a0844b 179-180,902,4312-4313,4324,4380-4390,4740-4741
+tests/contracts/chat-agents.test.ts
+  s_e99143c1f502a5::t_04097d47a0844b 1-77
+tests/desktop/api-client.test.ts
+  s_e99143c1f502a5::t_04097d47a0844b 61
+tests/desktop/canonical-chat-client.test.ts
+  s_e99143c1f502a5::t_04097d47a0844b 149,160,172,176,189,209,226,229-230,247,265,285,305,332,356,380-381,384,390,431,475-476,481,487,492,501,532
+desktop/src/renderer/src/lib/collaboration.ts
+  s_e99143c1f502a5::t_04097d47a0844b 6,11
+packages/ui/src/chat-title.ts
+  s_e99143c1f502a5::t_04097d47a0844b 1-8
+tests/desktop/chat-agent-client.test.ts
+  s_e99143c1f502a5::t_04097d47a0844b 1-36
+tests/e2e/desktop/fixtures/provider-auth-gateway.ts
+  s_e99143c1f502a5::t_04097d47a0844b 1-65
+packages/gateway/src/chat/steering-repository.ts
+  s_e99143c1f502a5::t_04097d47a0844b 224-227,447
+tests/shell/canonical-chat-content.test.tsx
+  s_e99143c1f502a5::t_04097d47a0844b 7,14,19-20,27,42
+desktop/src/renderer/src/features/work/work-rail/WorkRailProjectGroup.tsx
+  s_e99143c1f502a5::t_04097d47a0844b 20-21,39-40,102-103
+packages/ui/src/chat-agents/recipe-integrations.ts
+  s_e99143c1f502a5::t_04097d47a0844b 1-31
+desktop/src/renderer/src/stores/desktop-surfaces.ts
+  s_e99143c1f502a5::t_04097d47a0844b 94-96
+packages/platform/src/customer-vps.ts
+  s_e99143c1f502a5::t_04097d47a0844b 249
+tests/gateway/system-info.test.ts
+  s_e99143c1f502a5::t_04097d47a0844b 16-35
+tests/gateway/chat-agent-routes.test.ts
+  s_e99143c1f502a5::t_04097d47a0844b 1-193
+tests/desktop/work-rail-model.test.ts
+  s_e99143c1f502a5::t_04097d47a0844b 220
+apps/mobile/lib/queries/use-canonical-chats.ts
+  s_e99143c1f502a5::t_04097d47a0844b 31
+packages/gateway/src/chat/turn-admission-repository.ts
+  s_e99143c1f502a5::t_04097d47a0844b 1-192
+packages/ui/src/chat-agents/client.ts
+  s_e99143c1f502a5::t_04097d47a0844b 1-57
+tests/desktop/chat-sharing-dialog.test.tsx
+  s_e99143c1f502a5::t_04097d47a0844b 31,51
+desktop/src/renderer/src/features/work/HostedWorkSidebar.tsx
+  s_e99143c1f502a5::t_04097d47a0844b 16,23-26,55-58
+desktop/src/renderer/src/features/work/WorkSurfaceRuntime.tsx
+  s_e99143c1f502a5::t_04097d47a0844b 1-2,18-19,26,44-50,55,87-88,93,100-101,103
+packages/ui/src/chat/read-state.ts
+  s_e99143c1f502a5::t_04097d47a0844b 1-23
+shell/src/components/chat/ChatInputExtras.tsx
+  s_e99143c1f502a5::t_04097d47a0844b 1-21
+packages/ui/src/chat-agents/AgentEditor.tsx
+  s_e99143c1f502a5::t_04097d47a0844b 1-68
+packages/ui/src/chat-agents/AgentRecipesPanel.tsx
+  s_e99143c1f502a5::t_04097d47a0844b 1-50
+tests/contracts/chat-agent-recipe.test.ts
+  s_e99143c1f502a5::t_04097d47a0844b 1-134
+packages/gateway/src/chat/queue-admission.ts
+  s_e99143c1f502a5::t_04097d47a0844b 1,61,65,76-78,85-86,90-93,147,151,153,178
+packages/ui/src/chat/use-chat-read-state.ts
+  s_e99143c1f502a5::t_04097d47a0844b 1-40
+tests/gateway/chat-order-title.test.ts
+  s_e99143c1f502a5::t_04097d47a0844b 1-272
+packages/gateway/src/chat/orchestration-errors.ts
+  s_e99143c1f502a5::t_04097d47a0844b 13,37-43
+desktop/src/renderer/src/features/chat/CanonicalChatRoute.tsx
+  s_e99143c1f502a5::t_04097d47a0844b 3,24,40,151
+tests/platform/collaboration-deployment.test.ts
+  s_e99143c1f502a5::t_04097d47a0844b 1-22
+desktop/src/renderer/src/features/work/work-rail-model.ts
+  s_e99143c1f502a5::t_04097d47a0844b 1,47,111
+shell/src/hooks/useWindowManager.ts
+  s_e99143c1f502a5::t_04097d47a0844b 18,76-77,111,114-116,247,250,260,266,291-296,614-617
+docs/dev/chat-metadata.md
+  s_e99143c1f502a5::t_04097d47a0844b 1-24
+packages/gateway/src/chat/runtime.ts
+  s_e99143c1f502a5::t_04097d47a0844b 1-26
+shell/src/components/desktop/DesktopWindow.tsx
+  s_e99143c1f502a5::t_04097d47a0844b 1,8,90,117,213-218,229
+tests/gateway/chat-agent-context.test.ts
+  s_e99143c1f502a5::t_04097d47a0844b 1-211
+tests/desktop/work-tab.test.tsx
+  s_e99143c1f502a5::t_04097d47a0844b 34,83,90,93,239,262-263,282,286,305-311,410,423-428,701,831-832
+desktop/src/renderer/src/features/chat/ComposerResourceRows.tsx
+  s_e99143c1f502a5::t_04097d47a0844b 1-62
+specs/126-provider-input/design.md
+  s_e99143c1f502a5::t_04097d47a0844b 16-47
+desktop/src/renderer/src/features/chat/ComposerResourceGlyph.tsx
+  s_e99143c1f502a5::t_04097d47a0844b 4-5,114-115
+packages/ui/src/chat-agents/ChatAgentsRailSection.tsx
+  s_e99143c1f502a5::t_04097d47a0844b 1-61
+packages/gateway/src/chat/agent-context.ts
+  s_e99143c1f502a5::t_04097d47a0844b 1-195
+specs/121-chat-agent-templates/xai-marketplace-research.md
+  s_e99143c1f502a5::t_04097d47a0844b 1-58
+desktop/src/renderer/src/features/chat/QueuedTurnEditContext.tsx
+  s_e99143c1f502a5::t_04097d47a0844b 1-27
+desktop/src/renderer/src/lib/api.ts
+  s_e99143c1f502a5::t_04097d47a0844b 95-97
+packages/kernel/src/skills.ts
+  s_e99143c1f502a5::t_04097d47a0844b 14
+shell/src/components/chat/ChatInput.tsx
+  s_e99143c1f502a5::t_04097d47a0844b 1-148
+tests/shell/chat-record-merge.test.ts
+  s_e99143c1f502a5::t_04097d47a0844b 1-36
+packages/ui/src/chat-agents/AgentRecipeEditor.tsx
+  s_e99143c1f502a5::t_04097d47a0844b 1-84
+tests/shell/custom-mcp-settings.test.tsx
+  s_e99143c1f502a5::t_04097d47a0844b 13-27
+tests/desktop/shell-socket.test.ts
+  s_e99143c1f502a5::t_04097d47a0844b 310-311,524,527,587,614,617
+tests/contracts/chat-agent-inspirations-generation.test.ts
+  s_e99143c1f502a5::t_04097d47a0844b 1-72
+tests/desktop/canonical-chat-input.test.ts
+  s_e99143c1f502a5::t_04097d47a0844b 22
+packages/gateway/src/chat/steer-delivery-error.ts
+  s_e99143c1f502a5::t_04097d47a0844b 1-4
+desktop/src/renderer/src/components/conversation/presentation.ts
+  s_e99143c1f502a5::t_04097d47a0844b 1,118-119
+packages/ui/src/chat-agents/ChatContextReceipt.tsx
+  s_e99143c1f502a5::t_04097d47a0844b 1-41
+scripts/install-agent-matrix-skills.sh
+  s_e99143c1f502a5::t_04097d47a0844b 23
+specs/121-chat-agent-templates/xai-marketplace-inventory.json
+  s_e99143c1f502a5::t_04097d47a0844b 1-2752
+packages/ui/src/chat/ChatContextMenu.tsx
+  s_e99143c1f502a5::t_04097d47a0844b 6,10,52-53
+desktop/src/renderer/src/features/chat/ChatTitleEditor.tsx
+  s_e99143c1f502a5::t_04097d47a0844b 19-21
+desktop/src/renderer/src/features/chat/SharedChatComposer.tsx
+  s_e99143c1f502a5::t_04097d47a0844b 1,13,270,273-274
+tests/integrations/mcp-server.test.ts
+  s_e99143c1f502a5::t_04097d47a0844b 47-48
+packages/platform/src/custom-mcp-route-registration.ts
+  s_e99143c1f502a5::t_04097d47a0844b 1-70
+packages/ui/package.json
+  s_e99143c1f502a5::t_04097d47a0844b 10-11
+desktop/src/renderer/src/features/work/WorkRail.tsx
+  s_e99143c1f502a5::t_04097d47a0844b 1-5,37-39,41-42,46,50,66-71,86-87,97-104,106-108,137,146-149,154-155,172,174-177,200,207-224,238,298,303,306-307,312-321,340-346,363-364,416-417,459-460
+packages/ui/src/chat-agents/request-tracker.ts
+  s_e99143c1f502a5::t_04097d47a0844b 1-25
+tests/e2e/terminal-viewer-scroll.e2e.test.ts
+  s_e99143c1f502a5::t_04097d47a0844b 1-126
+tests/terminal-runtime/viewer-scroll-initialization.test.ts
+  s_e99143c1f502a5::t_04097d47a0844b 1-115
+specs/122-window-management/exploration.md
+  s_e99143c1f502a5::t_04097d47a0844b 12,36
+tests/gateway/chat-repository.test.ts
+  s_e99143c1f502a5::t_04097d47a0844b 224,813,817
+shell/src/lib/collaboration.ts
+  s_e99143c1f502a5::t_04097d47a0844b 11-13,20,22-23,28-29
+packages/ui/src/window/window-placement.ts
+  s_e99143c1f502a5::t_04097d47a0844b 38-39,46,53
+packages/gateway/src/coding-agents/provider-auth-actions.ts
+  s_e99143c1f502a5::t_04097d47a0844b 1-28
+desktop/src/renderer/src/features/chat/CanonicalChatWorkspace.tsx
+  s_e99143c1f502a5::t_04097d47a0844b 1-4,59-60,88,106,119,149,162,174,180-186,204-205,335-347,395-396,416,424-432,434-443,456,459,485-492,495-498,628,678-680,693,756,765
+shell/src/hooks/useChatState.ts
+  s_e99143c1f502a5::t_04097d47a0844b 4-5,11,28-35,55,69-70
+.github/workflows/platform-cloud-run.yml
+  s_e99143c1f502a5::t_04097d47a0844b 59-61,87,101-102,151-190,630-631,667-669,680-688,896-898
+packages/gateway/src/chat/records.ts
+  s_e99143c1f502a5::t_04097d47a0844b 35,158-159,255
+packages/terminal-runtime/src/runtime.ts
+  s_e99143c1f502a5::t_04097d47a0844b 13,15-16,88,99,516,522,527,531-532,534-537,545-546,555-556,560-561,564-576,594-595,954,963,966-969,982,1026-1029
+desktop/src/renderer/src/features/chat/use-canonical-chat-route-controller.ts
+  s_e99143c1f502a5::t_04097d47a0844b 1-2,36,122,129-131,152-155,221,322,410,421,437,539,542,548,552-556,854-874,876
+tests/e2e/desktop/fixtures/stub-gateway.ts
+  s_e99143c1f502a5::t_04097d47a0844b 9,47,1336-1340
+packages/ui/src/chat-agents/RecipeRabbit.tsx
+  s_e99143c1f502a5::t_04097d47a0844b 1-113
+desktop/src/renderer/src/features/work/OverflowingChatTitle.tsx
+  s_e99143c1f502a5::t_04097d47a0844b 3-4
+docs/pr-evidence/custom-mcp-fallback/README.md
+  s_e99143c1f502a5::t_04097d47a0844b 1-72
+tests/desktop/hosted-work-sidebar.test.tsx
+  s_e99143c1f502a5::t_04097d47a0844b 4,6,10-13,40-41,43-45,63-73,75-76,86-123
+desktop/src/renderer/src/features/settings/sections/AgentSection.tsx
+  s_e99143c1f502a5::t_04097d47a0844b 9-10,272-273,299,333-334,338
+shell/src/components/chat/chat-input-placeholder.ts
+  s_e99143c1f502a5::t_04097d47a0844b 1-12
+desktop/src/renderer/src/features/settings/use-provider-terminal-action.ts
+  s_e99143c1f502a5::t_04097d47a0844b 1-50
+tests/shell/canonical-chat-refresh-recovery.test.tsx
+  s_e99143c1f502a5::t_04097d47a0844b 32
+tests/shell/chat-agent-mentions.test.tsx
+  s_e99143c1f502a5::t_04097d47a0844b 1-208
+packages/gateway/src/coding-agents/codex-app-server-runner.mjs
+  s_e99143c1f502a5::t_04097d47a0844b 7,618,1274-1285,1298-1299
+tests/gateway/chat-message-compatibility.test.ts
+  s_e99143c1f502a5::t_04097d47a0844b 7,21,112-136
+desktop/src/renderer/src/features/chat/canonical-chat-presentation.ts
+  s_e99143c1f502a5::t_04097d47a0844b 1,673-674
+packages/terminal-runtime/src/viewer-output.ts
+  s_e99143c1f502a5::t_04097d47a0844b 1-66
+packages/gateway/src/chat/service.ts
+  s_e99143c1f502a5::t_04097d47a0844b 1-2,71,73,87,89,125,217,224-235,266,276,278,528-529
+tests/gateway/coding-agents-provider-registry.test.ts
+  s_e99143c1f502a5::t_04097d47a0844b 91-92,94-96
+packages/gateway/src/chat/hermes-provider-adapter.ts
+  s_e99143c1f502a5::t_04097d47a0844b 1,888-889
+desktop/src/renderer/src/features/chat/use-chat-composer-drafts.ts
+  s_e99143c1f502a5::t_04097d47a0844b 8,27,52,70,82-84
+packages/gateway/src/chat/orchestration-input.ts
+  s_e99143c1f502a5::t_04097d47a0844b 1-63
+tests/desktop/collaboration-runtime.test.ts
+  s_e99143c1f502a5::t_04097d47a0844b 8-15
+tests/integrations/chat-agent-tools.test.ts
+  s_e99143c1f502a5::t_04097d47a0844b 1-70
+tests/terminal-runtime/viewer-scroll-lifecycle.test.ts
+  s_e99143c1f502a5::t_04097d47a0844b 1-155
+docs/review-assets/terminal-viewer-scroll/README.md
+  s_e99143c1f502a5::t_04097d47a0844b 1-65
+tests/desktop/canonical-chat-agents.test.tsx
+  s_e99143c1f502a5::t_04097d47a0844b 1-132
+tests/gateway/codex-resume-transport.test.ts
+  s_e99143c1f502a5::t_04097d47a0844b 1-69
+packages/terminal-runtime/src/socket-server.ts
+  s_e99143c1f502a5::t_04097d47a0844b 5,276
+shell/src/components/ShellHome.tsx
+  s_e99143c1f502a5::t_04097d47a0844b 3,32,37-41,62-63
+desktop/src/renderer/src/features/chat/ChatTab.tsx
+  s_e99143c1f502a5::t_04097d47a0844b 1,396,408,425
+packages/gateway/src/chat/queued-context.ts
+  s_e99143c1f502a5::t_04097d47a0844b 1-38
+shell/src/components/terminal/TerminalSharing.tsx
+  s_e99143c1f502a5::t_04097d47a0844b 28
+desktop/src/renderer/src/design/index.css
+  s_e99143c1f502a5::t_04097d47a0844b 2,12
+desktop/src/renderer/src/features/chat/ChatSharingButton.tsx
+  s_e99143c1f502a5::t_04097d47a0844b 2,4,6,12,14-15
+packages/gateway/src/chat/metadata-repository.ts
+  s_e99143c1f502a5::t_04097d47a0844b 1-127
+packages/ui/src/chat-agents/ChatAgentsNavigation.tsx
+  s_e99143c1f502a5::t_04097d47a0844b 1-41
+shell/src/components/chat/chat-input-keyboard.ts
+  s_e99143c1f502a5::t_04097d47a0844b 1-14
+shell/src/components/chat/ChatSharing.tsx
+  s_e99143c1f502a5::t_04097d47a0844b 16-17,31-32
+specs/121-chat-agent-templates/review-evidence/README.md
+  s_e99143c1f502a5::t_04097d47a0844b 1-32
+docs/architecture/agent-integrations.md
+  s_e99143c1f502a5::t_04097d47a0844b 48-58
+.superpowers/sdd/recipe-plan/title-acceptance-report.md
+  s_e99143c1f502a5::t_88422f043fac1a 1-56
+packages/ui/src/chat-agents/agent-inspirations.generated.ts
+  s_e99143c1f502a5::t_f13696bef8aa37 1-1799
+packages/ui/src/chat-agents/matrix-recipes.generated.ts
+  s_e99143c1f502a5::t_c4a878e968f129 1-79
+pnpm-lock.yaml
+  s_e99143c1f502a5::t_56f886674ee694 708-710
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "2ba54140ac3fc248e71999ea856c258076b28085",
+  "prompts": {},
+  "sessions": {
+    "s_e99143c1f502a5": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f54816399ffecxIxJWEh6FoBho",
+        "model": "unknown"
+      },
+      "human_author": "Sundaram Kumar Jha <jhasundaram@outlook.com>"
+    }
+  }
+}
