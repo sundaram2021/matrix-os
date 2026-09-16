@@ -1,0 +1,37 @@
+packages/gateway/src/routes/tasks-apps.ts
+  s_63e0bb7599ea02::t_8acdb16138534c 1-199
+tests/gateway/bridge-routes.test.ts
+  s_63e0bb7599ea02::t_8acdb16138534c 1-88
+packages/gateway/src/routes/cron-channels.ts
+  s_63e0bb7599ea02::t_8acdb16138534c 1-73
+packages/gateway/src/routes/layout-canvas.ts
+  s_63e0bb7599ea02::t_8acdb16138534c 1-147
+packages/gateway/src/routes/terminal.ts
+  s_63e0bb7599ea02::t_8acdb16138534c 1-61
+packages/gateway/src/routes/system.ts
+  s_63e0bb7599ea02::t_8acdb16138534c 1-338
+packages/gateway/src/routes/bridge.ts
+  s_63e0bb7599ea02::t_8acdb16138534c 1-396
+packages/gateway/src/routes/conversations.ts
+  s_63e0bb7599ea02::t_8acdb16138534c 1-65
+packages/gateway/src/server.ts
+  s_63e0bb7599ea02::t_8acdb16138534c 210,316-323,2894-2900,3176-3180,3183-3196,3199,3203-3204,3207-3211,3213-3217,3220-3223,3225-3234,3619-3620,3622-3626
+packages/gateway/src/routes/misc.ts
+  s_63e0bb7599ea02::t_8acdb16138534c 1-129
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "22582cdbd5f9c5a8ea5fbc87d0275218fb5b92ac",
+  "prompts": {},
+  "sessions": {
+    "s_63e0bb7599ea02": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f5a25c02dffeH85VIE7O9KwVXK",
+        "model": "unknown"
+      },
+      "human_author": "Sundaram Kumar Jha <jhasundaram@outlook.com>"
+    }
+  }
+}
