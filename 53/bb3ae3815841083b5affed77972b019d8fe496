@@ -1,0 +1,47 @@
+packages/platform/src/golden-snapshots/cleanup.ts
+  s_63e0bb7599ea02::t_1279e61022d4ba 1-98
+tests/platform/golden-snapshot-repository.test.ts
+  s_63e0bb7599ea02::t_1279e61022d4ba 530,1127,1220,1291,1866-1871,1879,1881,1897,1899,1901
+packages/platform/src/golden-snapshot-service-helpers.ts
+  s_63e0bb7599ea02::t_1279e61022d4ba 1-249
+packages/platform/src/golden-snapshots/snapshots.ts
+  s_63e0bb7599ea02::t_1279e61022d4ba 1-520
+packages/platform/src/golden-snapshots/rollout.ts
+  s_63e0bb7599ea02::t_1279e61022d4ba 1-280
+packages/platform/src/golden-snapshot-build-operations.ts
+  s_63e0bb7599ea02::t_1279e61022d4ba 1-322
+packages/platform/src/golden-snapshot-repository.ts
+  s_63e0bb7599ea02::t_1279e61022d4ba 1-15
+packages/platform/src/golden-snapshots/schemas.ts
+  s_63e0bb7599ea02::t_1279e61022d4ba 1-345
+packages/platform/src/golden-snapshot-callback.ts
+  s_63e0bb7599ea02::t_1279e61022d4ba 1-411
+packages/platform/src/golden-snapshots/leases.ts
+  s_63e0bb7599ea02::t_1279e61022d4ba 1-393
+packages/platform/src/golden-snapshots/builds.ts
+  s_63e0bb7599ea02::t_1279e61022d4ba 1-708
+packages/platform/src/golden-snapshot-service.ts
+  s_63e0bb7599ea02::t_1279e61022d4ba 23-38,177,206-213,215-221,229,346,388,391,399,402,414,424,436,483,524,563,569,588,601,605,611,625,637,641,680,684,707,714,717,726,731,843-844
+tests/platform/golden-snapshot-service.test.ts
+  s_63e0bb7599ea02::t_1279e61022d4ba 212,220
+packages/platform/src/golden-snapshots/mappers.ts
+  s_63e0bb7599ea02::t_1279e61022d4ba 1-172
+packages/platform/src/golden-snapshots/lifecycle.ts
+  s_63e0bb7599ea02::t_1279e61022d4ba 1-648
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "53bb3ae3815841083b5affed77972b019d8fe496",
+  "prompts": {},
+  "sessions": {
+    "s_63e0bb7599ea02": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f5a25c02dffeH85VIE7O9KwVXK",
+        "model": "unknown"
+      },
+      "human_author": "Sundaram Kumar Jha <jhasundaram@outlook.com>"
+    }
+  }
+}
