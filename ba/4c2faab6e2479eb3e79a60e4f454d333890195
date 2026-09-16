@@ -1,0 +1,19 @@
+packages/platform/src/billing-routes.ts
+  s_63e0bb7599ea02::t_49bfd49c6cff6a 38-40
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "ba4c2faab6e2479eb3e79a60e4f454d333890195",
+  "prompts": {},
+  "sessions": {
+    "s_63e0bb7599ea02": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f5a25c02dffeH85VIE7O9KwVXK",
+        "model": "unknown"
+      },
+      "human_author": "Sundaram Kumar Jha <jhasundaram@outlook.com>"
+    }
+  }
+}
