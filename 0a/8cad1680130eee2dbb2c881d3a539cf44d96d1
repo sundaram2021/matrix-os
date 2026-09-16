@@ -1,0 +1,31 @@
+tests/cli/app-publish.test.ts
+  s_63e0bb7599ea02::t_a8ceeaa39ee30a 6
+packages/gateway/src/server/main-ws-messages.ts
+  s_63e0bb7599ea02::t_cff57a23c8c92a 3
+tests/gateway/main-ws-schema.test.ts
+  s_63e0bb7599ea02::t_cff57a23c8c92a 2
+packages/gateway/src/domains/integrations/DOMAIN.md
+  s_63e0bb7599ea02::t_9e579b6c373f55 13-15
+tests/desktop/runtime-transition.test.ts
+  s_63e0bb7599ea02::t_a8ceeaa39ee30a 6
+packages/gateway/src/server.ts
+  s_63e0bb7599ea02::t_cff57a23c8c92a 325
+packages/gateway/src/domains/integrations/ws-message-schema.ts
+  s_63e0bb7599ea02::t_35e8be8f67fe1c 1-42
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "0a8cad1680130eee2dbb2c881d3a539cf44d96d1",
+  "prompts": {},
+  "sessions": {
+    "s_63e0bb7599ea02": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f5a25c02dffeH85VIE7O9KwVXK",
+        "model": "unknown"
+      },
+      "human_author": "Sundaram Kumar Jha <jhasundaram@outlook.com>"
+    }
+  }
+}
