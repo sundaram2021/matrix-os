@@ -1,0 +1,753 @@
+packages/gateway/src/chat/agent-routes.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 11
+tests/gateway/http-body.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 3
+packages/gateway/src/chat/terminal-session-service.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 3
+packages/gateway/src/provisioner.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 12,14
+tests/gateway/conversation-summary.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 7
+tests/gateway/chat-claude-catalog.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 3
+tests/gateway/ring-buffer.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 2
+packages/gateway/src/domains/social/social.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 1-694
+packages/gateway/src/coding-agents/harness-credentials.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 11-12
+packages/gateway/src/server/types.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 1
+packages/gateway/src/sync/routes.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 48-49
+packages/gateway/src/collaboration/project-inventory-source.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 4
+packages/gateway/src/system-activity/collector.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 6
+tests/gateway/social-api.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 2-4,6
+packages/gateway/src/_shared/DOMAIN.md
+  s_63e0bb7599ea02::t_11750374668c40 1-27
+packages/gateway/src/domains/files/DOMAIN.md
+  s_63e0bb7599ea02::t_11750374668c40 1-17
+packages/gateway/src/app-runtime/install-flow.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 25
+tests/gateway/app-fork.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 8
+packages/gateway/src/domains/social/DOMAIN.md
+  s_63e0bb7599ea02::t_11750374668c40 1-16
+packages/gateway/src/domains/sessions/session-runtime-bridge.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 1-280
+packages/gateway/src/voice/response-generator.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 1
+tests/gateway/git-routes.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 6
+tests/gateway/conversations.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 18,20
+tests/gateway/pty-cwd.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 7
+packages/gateway/src/coding-agents/thread-store.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 40-41,64
+packages/gateway/src/chat/hermes-input-control.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 7
+tests/gateway/agent-terminal-cwd.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 5
+packages/gateway/src/domains/identity/DOMAIN.md
+  s_63e0bb7599ea02::t_11750374668c40 1-15
+packages/gateway/src/coding-agents/project-mutations.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 7-8
+packages/gateway/src/shell/replay-buffer.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 1
+tests/gateway/preview-manager.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 6-7
+packages/gateway/src/onboarding/company-brain-routes.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 10
+tests/proxy/funded-relay.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 4
+packages/gateway/src/ai-providers/service.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 10-11,19
+packages/gateway/src/coding-agents/routes.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 49
+tests/gateway/files-search.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 5
+tests/proxy/metrics.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 7
+packages/gateway/src/domains/sessions/session-registry.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 1-736
+packages/gateway/src/server/file-routes.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 15-22
+tests/gateway/background-agent-runtime.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 5
+tests/gateway/background-session-lifecycle.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 2-4
+packages/gateway/src/coding-agents/provider-adapter.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 1,14-15
+packages/gateway/src/domains/sessions/agent-launcher.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 1-570
+packages/gateway/src/coding-agents/project-summary.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 2-4
+packages/gateway/src/coding-agents/chat-idle-reaper.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 4,9
+tests/gateway/utility-apps.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 4
+packages/gateway/package.json
+  s_63e0bb7599ea02::t_dd0c34272a4d29 8-10
+tests/gateway/client-error-log.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 10
+tests/gateway/terminal-output-compat.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 2
+packages/gateway/src/domains/apps/native-app-storage.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 1-41
+tests/gateway/social-activity.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 12
+tests/gateway/app-publish.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 9
+packages/gateway/src/collaboration/project-app-adapter.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 2-3
+tests/gateway/funded-ai-credential-manager.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 8
+packages/gateway/src/domains/sessions/conversations.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 1-478
+packages/gateway/src/domains/voice/DOMAIN.md
+  s_63e0bb7599ea02::t_11750374668c40 1-13
+tests/gateway/conversation-lifecycle.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 6,8,10,12,14
+packages/gateway/src/ai-providers/provider-driver-inventory.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 2
+packages/gateway/src/ai-providers/provider-settings-store.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 54
+tests/gateway/games.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 4
+packages/gateway/src/domains/sessions/dispatcher.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 1-539
+packages/gateway/src/coding-agents/workspace-provider-config.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 2
+packages/gateway/src/app-runtime/serve-static.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 6
+packages/gateway/src/shell/zellij.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 26
+packages/gateway/src/chat/event-stream.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 9
+tests/e2e/desktop/fixtures/download-gateway.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 8
+packages/gateway/src/chat/sharing-routes.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 7
+tests/gateway/coding-agents-file-read.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 9-11
+tests/gateway/projects.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 6
+tests/gateway/logger-enhanced.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 9
+packages/gateway/src/coding-agents/background-thread-stop.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 2
+tests/gateway/pi-provider.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 21
+tests/gateway/prompt-validation.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 2
+tests/gateway/forward-ws.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 8
+packages/gateway/src/canvas/service.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 6
+tests/gateway/app-db-kv.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 2-3
+packages/gateway/src/domains/workspace/project-lifecycle.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 1-164
+packages/gateway/src/chat/claude-runtime-model-catalog.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 3-4
+packages/gateway/src/chat/queue-admission.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 11
+packages/gateway/src/coding-agents/codex-event-bridge.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 14-15
+packages/gateway/src/collaboration/shared-ai-runtime-registry.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 7
+packages/gateway/src/server.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 2,22,26-32,36-40,45,52-59,62,67-69,73-75,81,85-86,94,123,130,217-219,221,237-239,241-249,304-305,325,347,366-367,372,377,857,1072,1089,4577
+tests/gateway/agent-launcher.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 8
+tests/gateway/app-management.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 13
+tests/gateway/app-upload.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 5
+packages/gateway/src/index.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 4,13-17,37-49,60-61,77-80,128-131,142
+tests/kernel/approval.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 6
+packages/gateway/src/chat/orchestrator.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 36-37,70
+packages/gateway/src/collaboration/wiring.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 6
+packages/gateway/src/domains/sessions/DOMAIN.md
+  s_63e0bb7599ea02::t_11750374668c40 1-28
+tests/gateway/coding-agents-thread-adoption.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 16-19
+tests/gateway/coding-agents-project-workspace.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 13,15-16
+tests/gateway/app-db-contracts.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 2
+tests/gateway/conversation-dispatch-failure.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 2
+tests/gateway/workspace-event-publisher.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 2
+packages/gateway/src/chat/coding-provider-adapter.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 4,19
+tests/gateway/files-stat.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 5
+tests/gateway/project-manager.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 6-7,1122
+packages/gateway/src/integrations/custom-mcp/projection-store.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 2
+packages/gateway/src/domains/apps/apps.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 1-199
+tests/gateway/app-db-registry.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 2-3
+tests/gateway/coding-agent-turn-harness.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 13
+packages/gateway/src/ai-providers/credential-store.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 7-9
+tests/gateway/coding-agents-notification-preferences.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 8
+tests/gateway/files.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 5,11-12
+tests/gateway/host-release-alignment.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 5
+tests/gateway/icon-routes.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 6
+tests/gateway/agent-session-manager.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 10-13
+tests/gateway/workspace-session-orchestrator.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 8
+tests/gateway/worktree-manager.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 7-8
+tests/gateway/auth-jwt-cache.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 21,47
+tests/gateway/dispatcher-concurrent.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 8
+packages/gateway/src/chat/execution-root.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 11-12
+packages/gateway/src/coding-agents/file-read.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 24-25
+packages/gateway/src/chat/runtime-provider-catalog.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 2-3
+packages/gateway/src/coding-agents/thread-relations.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 2
+tests/gateway/git-log.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 6
+packages/gateway/src/chat/thread-event-inbox.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 2-3
+tests/gateway/approval.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 5
+packages/gateway/src/coding-agents/owned-worktree.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 1
+packages/gateway/src/coding-agents/source-control.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 15-16
+tests/gateway/chat-sharing.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 58
+tests/gateway/session-registry.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 11
+tests/gateway/user-systemd-zellij-runtime.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 5
+packages/gateway/src/coding-agents/thread-abort.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 2-3
+tests/gateway/chat-terminal-gateway-wiring.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 15,17
+tests/gateway/request-principal.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 14
+packages/gateway/src/collaboration/project-path-admission.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 3
+tests/gateway/ai-generation-analytics.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 10-11
+tests/gateway/postgres-addon.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 9,181,195,214
+packages/gateway/src/chat/service.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 63
+tests/gateway/review-store.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 6-7
+tests/gateway/terminal-zellij-ws.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 2
+tests/helpers/gateway.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 21
+packages/gateway/src/os-view-state/routes.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 10
+packages/gateway/src/chat/routes.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 73
+tests/gateway/session-runtime-bridge.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 7
+packages/gateway/src/coding-agents/runtime-summary.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 11
+packages/gateway/src/domains/observability/DOMAIN.md
+  s_63e0bb7599ea02::t_11750374668c40 1-17
+packages/gateway/src/domains/workspace/workspace-routes.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 1-1200
+packages/gateway/src/shell/workspace-routes.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 20
+tests/gateway/agent-sandbox.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 6
+packages/gateway/src/domains/review/review-loop.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 1-310
+tests/gateway/chat-agent-routes.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 14
+packages/gateway/src/coding-agents/session-stop-reconciler.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 1
+tests/gateway/coding-agents-provider-registry.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 8
+tests/gateway/social-follows.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 2-4,14
+packages/gateway/src/server/main-ws-messages.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 3
+tests/gateway/sync/metrics.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 12
+tests/gateway/ws-ping-pong.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 2
+packages/gateway/src/chat/agent-store.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 12
+tests/gateway/coding-agents-summary.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 25-26
+tests/gateway/leaderboard.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 5
+tests/gateway/coding-agents-thread-stream.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 22
+scripts/smoke-zellij-session-config.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 12
+tests/gateway/app-db-migration.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 5-7
+packages/gateway/src/domains/git/git-log.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 1-609
+tests/gateway/github-repos-route.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 2
+tests/gateway/memory-extractor.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 5
+tests/gateway/trash.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 16
+tests/platform/social.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 4
+tests/gateway/usage-tracker.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 8
+packages/gateway/src/_shared/ws-message-schema.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 1-42
+packages/gateway/src/onboarding/draft-action-routes.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 10
+packages/gateway/src/coding-agents/codex-runtime-supervision.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 1
+tests/gateway/chat-provider-catalog.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 16,25
+tests/gateway/workspace-routes.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 6-9
+packages/gateway/src/symphony/proxy.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 6-7
+packages/gateway/src/chat/kernel-provider-adapter.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 4-6
+tests/gateway/conversation-mutation-lock.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 3
+packages/gateway/src/domains/review/review-control.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 1-155
+tests/gateway/kernel-credentials.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 10-11
+packages/gateway/src/ai-providers/provider-cli-account-lifecycle.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 7
+packages/gateway/src/coding-agents/turn-dispatcher.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 3
+packages/gateway/src/shell/terminal-git-context.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 6-8
+tests/gateway/dispatcher-observability.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 8,16
+tests/platform/matrix-client.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 6
+tests/proxy/auth.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 7
+packages/gateway/src/chat/orphaned-run-recovery.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 6
+packages/gateway/src/domains/git/worktree-manager.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 1-645
+tests/gateway/auth-jwt.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 3,8
+packages/gateway/src/domains/workspace/workspace-session-orchestrator.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 1-494
+packages/gateway/src/chat/provider-catalog.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 35
+tests/gateway/shell-bootstrap.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 5
+tests/platform/customer-vps-telemetry.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 9
+packages/gateway/src/domains/files/file-download-stream.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 1-151
+tests/gateway/agent-credential-probe.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 5
+tests/shell/apps-api.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 3
+tests/gateway/session-startup-diagnostics.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 2
+tests/gateway/conversation-reconnect-aborts.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 9
+tests/gateway/workspace-cold-resume-sandbox.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 5-9
+packages/gateway/src/domains/git/DOMAIN.md
+  s_63e0bb7599ea02::t_11750374668c40 1-13
+packages/gateway/src/onboarding/integration-capability-routes.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 15
+packages/gateway/src/coding-agents/notification-preferences.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 10-11
+packages/gateway/src/domains/files/state-ops.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 1-337
+tests/gateway/review-loop.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 10-11
+packages/gateway/src/coding-agents/pi-provider.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 18-19
+packages/gateway/src/domains/sessions/agent-sandbox.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 1-416
+tests/gateway/session-store.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 5
+packages/gateway/src/coding-agents/workspace-provider.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 2,14-15
+packages/gateway/src/heartbeat/runner.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 1
+packages/gateway/src/routes/hermes.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 33
+packages/gateway/src/domains/sessions/agent-profile-summary.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 1-97
+packages/gateway/src/chat/claude-model-catalog.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 3
+packages/gateway/src/domains/files/file-blob-routes.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 1-267
+packages/gateway/src/domains/files/file-ops.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 1-209
+tests/gateway/heartbeat/runner.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 10
+packages/gateway/src/chat/claude-provider-adapter.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 4,8
+tests/gateway/pty.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 7
+packages/gateway/src/domains/terminal/zellij-runtime.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 1-349
+tests/gateway/social-likes.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 2-4,14
+packages/gateway/src/chat/provider-routes.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 4
+packages/gateway/src/domains/workspace/project-registry.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 1-412
+packages/gateway/src/domains/apps/preview-manager.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 1-436
+packages/gateway/src/onboarding/activation-errors.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 5
+tests/gateway/state-ops.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 12,16-17
+packages/gateway/src/domains/workspace/DOMAIN.md
+  s_63e0bb7599ea02::t_11750374668c40 1-21
+tests/gateway/dispatcher-overrides.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 9-10
+packages/gateway/src/messages/errors.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 7
+tests/e2e/fixtures/gateway.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 6
+tests/gateway/hermes-proxy.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 17
+packages/gateway/src/domains/apps/DOMAIN.md
+  s_63e0bb7599ea02::t_11750374668c40 1-27
+packages/gateway/src/domains/workspace/projects.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 1-165
+tests/gateway/coding-agents-attention-notifications.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 12
+tests/gateway/terminal-input-capabilities.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 6
+packages/gateway/src/domains/workspace/project-manager.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 1-1046
+packages/gateway/src/onboarding/tool-pack-routes.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 10
+tests/gateway/coding-agents-provider-ingestion.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 14
+packages/gateway/src/chat/async-input-adapter.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 6
+packages/gateway/src/coding-agents/codex-events.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 12
+packages/gateway/src/shell/routes.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 20
+packages/gateway/src/domains/review/review-store.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 1-139
+tests/gateway/auth.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 3-4
+packages/gateway/src/domains/files/trash.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 1-235
+packages/gateway/src/domains/sessions/session-startup-diagnostics.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 1-64
+tests/gateway/opencode-provider.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 16
+tests/gateway/bridge-sql.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 8
+tests/gateway/coding-agent-runtime-registration.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 10
+tests/gateway/conversation-history-routes.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 8-9,11
+tests/gateway/project-clone-mkdir.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 6-8
+tests/platform/api.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 14
+tests/gateway/default-icons.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 5
+packages/gateway/src/domains/identity/auth.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 1-357
+tests/gateway/apps.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 6
+packages/gateway/src/ai-providers/model-catalog.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 7
+packages/gateway/src/onboarding/integration-capabilities.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 9
+packages/gateway/src/coding-agents/project-workspace.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 8-10
+tests/gateway/main-ws-schema.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 2
+packages/gateway/src/chat/turn-admission.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 9
+packages/gateway/src/collaboration/shared-ai-runtime.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 12,16
+tests/gateway/chat-execution-root.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 11-12
+tests/gateway/chat-sharing-routes.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 3,45
+packages/gateway/src/onboarding/agent-credential-routes.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 12
+tests/gateway/coding-agents-thread-relations.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 15-17
+tests/gateway/social-posts.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 2-4,13
+tests/gateway/social-validation.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 2-4,6
+tests/desktop/runtime-transition.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 6
+tests/gateway/project-manager-identity.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 6-8
+packages/gateway/src/chat/event-websocket-route.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 5
+tests/gateway/dispatcher-batch.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 8
+tests/gateway/git-versioning.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 13
+packages/gateway/src/agent-config/service.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 19
+tests/gateway/app-db-query.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 2-4
+tests/gateway/project-lifecycle.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 6-7
+packages/gateway/src/domains/terminal/terminal-session-routes.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 1-79
+tests/gateway/zellij-runtime.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 6-7
+packages/gateway/src/domains/workspace/project-folders.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 1-283
+packages/gateway/src/domains/workspace/task-manager.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 1-293
+tests/gateway/chat-event-stream.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 6,14
+tests/gateway/coding-agents-project-mutations.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 9-10
+tests/gateway/findings-parser.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 6
+packages/gateway/src/domains/sessions/agent-session-manager.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 1-815
+packages/gateway/src/coding-agents/preview-summary.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 8-10
+packages/gateway/src/onboarding/admin-control-routes.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 10
+packages/gateway/src/os-view-state/agent-tools.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 10
+tests/gateway/coding-agents-source-control.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 10
+tests/gateway/dispatcher-queue.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 8
+packages/gateway/src/canvas/routes.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 17
+packages/gateway/src/routes/settings.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 19,25
+tests/gateway/coding-agents-codex-runtime.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 6,15
+tests/gateway/files-list.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 5
+tests/gateway/pi-provider-config.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 12
+packages/gateway/src/collaboration/scope-runtime-broker.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 11,16
+tests/gateway/s3-sync.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 29
+tests/gateway/voice/response-generator.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 6
+packages/gateway/src/domains/terminal/user-systemd-zellij-runtime.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 1-218
+packages/gateway/src/coding-agents/thread-stream.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 8
+packages/gateway/src/domains/files/files-tree.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 1-211
+packages/gateway/src/onboarding/agent-credential-probe.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 1-2
+packages/gateway/src/app-runtime/dispatcher.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 6
+tests/gateway/file-ops.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 18
+packages/gateway/src/domains/integrations/DOMAIN.md
+  s_63e0bb7599ea02::t_11750374668c40 1-19
+tests/gateway/file-blob-routes.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 5
+tests/gateway/settings-agent-summary.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 9
+tests/gateway/voice.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 9
+tests/gateway/system-update.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 20
+packages/gateway/src/sync/metrics.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 2
+tests/gateway/file-utils.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 2
+tests/gateway/review-control.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 12
+tests/gateway/coding-agents-turns.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 5-6
+tests/gateway/coding-agents-workspace-provider.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 21
+tests/gateway/dispatcher-logging.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 8
+tests/gateway/symphony-proxy.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 7
+tests/kernel/agent-sdk-upgrade.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 20
+tests/gateway/coding-agents-threads.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 18-19
+packages/gateway/src/chat/event-http-route.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 4
+packages/gateway/src/coding-agents/opencode-provider.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 15-16
+tests/gateway/file-download-stream.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 5
+tests/gateway/metrics.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 12
+tests/gateway/task-manager.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 6-7
+tests/shell/terminal-debug.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 4
+tests/gateway/conversation-context.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 7,11
+tests/gateway/auth-hardening.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 2
+packages/gateway/src/shell/ws.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 13
+tests/gateway/coding-agents-project-summary.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 11-12
+packages/gateway/src/domains/workspace/workspace-event-publisher.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 1-172
+packages/gateway/src/domains/apps/icon-routes.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 1-62
+packages/gateway/src/domains/sessions/conversation-context.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 1-48
+tests/gateway/native-app-storage.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 2-3
+packages/gateway/src/chat/failure-telemetry.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 4
+tests/cli/app-publish.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 6
+packages/gateway/src/domains/workspace/project-identity-index.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 1-47
+tests/gateway/git-sync.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 6
+packages/gateway/src/chat/attachment-cleanup.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 3
+tests/gateway/app-runtime.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 19-22,25,194,197,318,321
+tests/gateway/funded-ai-funding-summary-client.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 5,8
+tests/gateway/files-tree.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 4
+packages/gateway/src/onboarding/readiness-routes.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 13
+packages/gateway/src/domains/review/DOMAIN.md
+  s_63e0bb7599ea02::t_11750374668c40 1-13
+tests/gateway/app-manager-api.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 5
+tests/gateway/workspace-events.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 6
+packages/gateway/src/coding-agents/background-chat-recovery.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 3-4
+packages/gateway/src/domains/workspace/legacy-project-state.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 1-161
+tests/platform/metrics.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 15
+tests/gateway/app-db.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 2
+tests/gateway/watcher.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 5
+tests/gateway/ai-provider-service.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 10
+packages/gateway/src/shell/paste-assets.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 5
+packages/gateway/src/chat/provider-adapter.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 18
+tests/gateway/codex-startup-diagnostics.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 5-13
+tests/gateway/logger.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 9
+packages/gateway/src/coding-agents/codex-workspace-recovery.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 1
+packages/gateway/src/domains/workspace/workspace-events.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 1-155
+tests/gateway/social-feed.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 2-4,15
+packages/gateway/src/chat/retry-preflight.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 2
+packages/gateway/src/domains/terminal/DOMAIN.md
+  s_63e0bb7599ea02::t_11750374668c40 1-20
+tests/gateway/session-transcript.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 6
+packages/gateway/src/coding-agents/review-summary.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 12-14,20
+tests/gateway/canvas-routes.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 9
+tests/gateway/terminal-ws.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 15
+packages/gateway/src/chat/gateway-event-stream.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 4
+tests/gateway/system-info.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 5
+tests/gateway/provisioner.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 8
+packages/gateway/src/coding-agents/provider-registry.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 15
+packages/gateway/src/domains/files/file-search.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 1-155
+packages/gateway/src/domains/terminal/pty.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 1-88
+tests/gateway/user-systemd-terminal-activation.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 9
+tests/gateway/workspace-startup-recovery.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 2
+packages/gateway/src/server/conversation-history-routes.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 16-20
+packages/gateway/src/domains/workspace/workspace-startup-recovery.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 1-298
+tests/platform/stats-collector.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 8
+packages/gateway/src/chat/hermes-provider-adapter.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 6
+tests/gateway/chat-kernel-provider.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 3
+packages/gateway/src/chat/terminal-wiring.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 9-10
+tests/gateway/conversation-run-registry.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 6-7
+tests/gateway/social-schema.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 2-3
+packages/gateway/src/domains/sessions/session-transcript.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 1-400
+tests/gateway/sync/user-id-from-jwt.test.ts
+  s_63e0bb7599ea02::t_a76f24413de98e 7
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "7bca509044a5cc6fb62b7e9f776396e13fcfaa0f",
+  "prompts": {},
+  "sessions": {
+    "s_63e0bb7599ea02": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f5a25c02dffeH85VIE7O9KwVXK",
+        "model": "unknown"
+      },
+      "human_author": "Sundaram Kumar Jha <jhasundaram@outlook.com>"
+    }
+  }
+}
