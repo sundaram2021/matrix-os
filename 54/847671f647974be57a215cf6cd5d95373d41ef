@@ -1,0 +1,23 @@
+tests/cli/app-publish.test.ts
+  s_63e0bb7599ea02::t_e4c37cd0abf481 6
+packages/platform/src/billing-routes.ts
+  s_63e0bb7599ea02::t_49bfd49c6cff6a 38-40
+tests/desktop/runtime-transition.test.ts
+  s_63e0bb7599ea02::t_e4c37cd0abf481 6
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "54847671f647974be57a215cf6cd5d95373d41ef",
+  "prompts": {},
+  "sessions": {
+    "s_63e0bb7599ea02": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f5a25c02dffeH85VIE7O9KwVXK",
+        "model": "unknown"
+      },
+      "human_author": "Sundaram Kumar Jha <jhasundaram@outlook.com>"
+    }
+  }
+}
