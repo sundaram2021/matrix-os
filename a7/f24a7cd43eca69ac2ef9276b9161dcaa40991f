@@ -1,0 +1,19 @@
+packages/platform/src/session-routing-middleware.ts
+  s_63e0bb7599ea02::t_869ac1ab2d5173 115-116
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "a7f24a7cd43eca69ac2ef9276b9161dcaa40991f",
+  "prompts": {},
+  "sessions": {
+    "s_63e0bb7599ea02": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f5a25c02dffeH85VIE7O9KwVXK",
+        "model": "unknown"
+      },
+      "human_author": "Sundaram Kumar Jha <jhasundaram@outlook.com>"
+    }
+  }
+}
