@@ -1,0 +1,39 @@
+packages/platform/src/repositories/billing.ts
+  s_63e0bb7599ea02::t_6e1f7c575399f7 1-734
+packages/platform/src/repositories/machines.ts
+  s_63e0bb7599ea02::t_6e1f7c575399f7 1-654
+packages/platform/src/repositories/migrate.ts
+  s_63e0bb7599ea02::t_6e1f7c575399f7 1-1434
+packages/platform/src/repositories/provisioning.ts
+  s_63e0bb7599ea02::t_6e1f7c575399f7 1-87
+packages/platform/src/repositories/billing-checkout.ts
+  s_63e0bb7599ea02::t_6e1f7c575399f7 1-515
+packages/platform/src/repositories/schema-records.ts
+  s_63e0bb7599ea02::t_6e1f7c575399f7 1-412
+packages/platform/src/repositories/releases.ts
+  s_63e0bb7599ea02::t_6e1f7c575399f7 1-347
+packages/platform/src/repositories/users.ts
+  s_63e0bb7599ea02::t_6e1f7c575399f7 1-257
+packages/platform/src/repositories/onboarding.ts
+  s_63e0bb7599ea02::t_6e1f7c575399f7 1-192
+packages/platform/src/repositories/schema-tables.ts
+  s_63e0bb7599ea02::t_6e1f7c575399f7 1-758
+packages/platform/src/db.ts
+  s_63e0bb7599ea02::t_ca676c2b9f7d9d 1-8,15-16,41-49,51-54,56-65,67-77,80,82-86,89-94,96-101,103-108,110-114,116-117
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "c5ff735929effb9dedc6d7fa1c9237fbfed03c2a",
+  "prompts": {},
+  "sessions": {
+    "s_63e0bb7599ea02": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f5a25c02dffeH85VIE7O9KwVXK",
+        "model": "unknown"
+      },
+      "human_author": "Sundaram Kumar Jha <jhasundaram@outlook.com>"
+    }
+  }
+}
