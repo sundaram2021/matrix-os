@@ -1,0 +1,863 @@
+tests/e2e/fixtures/app-ai-shell.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1-5
+tests/ui/terminal-native-history.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1-89
+shell/src/components/app-ai-request.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1-13
+desktop/src/renderer/src/features/work/WorkRail.tsx
+  s_e99143c1f502a5::t_a09bcec887d30e 1-7,12-13,32-33,54-86,381
+packages/ui/src/collaboration/session-discussion-types.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1-3
+packages/ui/src/collaboration/useSessionDiscussion.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1-155
+tests/desktop/terminal-controls-view.test.tsx
+  s_e99143c1f502a5::t_a09bcec887d30e 10,24,54,81-82,86-127
+specs/121-collaboration-session-sharing/contracts/realtime-execution.md
+  s_e99143c1f502a5::t_a09bcec887d30e 38
+desktop/src/renderer/src/features/work/work-rail/WorkRailChatRow.tsx
+  s_e99143c1f502a5::t_a09bcec887d30e 129
+specs/525-collaboration-ux-redesign/contracts/collaboration-ux-api.md
+  s_e99143c1f502a5::t_a09bcec887d30e 1-195
+desktop/src/renderer/src/features/chat/DesktopChatCollaboration.tsx
+  s_e99143c1f502a5::t_a09bcec887d30e 3,6-11,18,25,27-41
+packages/gateway/src/collaboration/shared-ai-runtime.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1,269-288,315-333
+packages/platform/src/collaboration/websocket.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 226-231
+packages/platform/src/session-routing-proxy.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 16-18
+specs/110-desktop-project-lifecycle/spec.md
+  s_e99143c1f502a5::t_a09bcec887d30e 41-42,112-113,228-230,249,254-255,373
+docs/architecture/agent-integrations.md
+  s_e99143c1f502a5::t_a09bcec887d30e 48-56,68-89
+specs/525-collaboration-ux-redesign/spec.md
+  s_e99143c1f502a5::t_a09bcec887d30e 1-285
+tests/gateway/preview-terminal-auth.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1-125
+tests/gateway/app-ai-runtime.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1-58
+desktop/src/renderer/src/lib/canonical-chat-badge.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1-74
+packages/ui/src/collaboration/chat-state.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 15,57-59,69-72,77,83-107
+apps/mobile/components/collaboration/SharedTerminalScreen.tsx
+  s_e99143c1f502a5::t_a09bcec887d30e 12-13,71,259-269,299-300,343-347
+specs/525-collaboration-ux-redesign/quickstart.md
+  s_e99143c1f502a5::t_a09bcec887d30e 1-110
+desktop/src/renderer/src/App.tsx
+  s_e99143c1f502a5::t_a09bcec887d30e 1,41
+packages/ui/src/collaboration/SessionAccessControl.tsx
+  s_e99143c1f502a5::t_a09bcec887d30e 1-100
+apps/mobile/lib/terminal-client.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 19,25,59-60,63,79-80,85,102,107,122-128,152,157,221,286,306
+packages/platform/src/platform-websocket-upgrade.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1,325-328
+tests/e2e/desktop/terminal-clipboard.e2e.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 83-104,115,333-349,366,537,544,560-561,566,574-575,598,605,613-614,617,638-639,644
+docs/pr-evidence/terminal-grid-ownership/README.md
+  s_e99143c1f502a5::t_a09bcec887d30e 1-72
+packages/ui/src/collaboration/ChatCollaboration.tsx
+  s_e99143c1f502a5::t_a09bcec887d30e 7,11,14,23-27,36,50-52,60,63-65,75,77-81,87,98-99,146-168,193-200,210,216,224,228,250,321-328,332,349,354,357-364,366,392-401,428,445,459,483,488,494,499-500,519,549,590,592-597,604,634-638,644-686,688,690,692,696-749,754-759,768-827
+tests/platform/custom-mcp-deployment.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1-100
+shell/src/hooks/useCanonicalChatState.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 3-9,11-17,54-77,89-91,116-133,476-477,485-510,643-647,649-651,666
+shell/src/app/shared/invitations/[invitationId]/page.tsx
+  s_e99143c1f502a5::t_a09bcec887d30e 1-6,11-18
+tests/gateway/collaboration-repository.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 328-425
+packages/gateway/src/shell/preferences.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 4,80-87,115,138
+packages/platform/src/session-routing-middleware.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1-4,6,368-370,677,715-717,869-871
+packages/terminal-runtime/src/socket-server.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 6,18-20,32,56,59,151-160,168,178,194-195,237,255,269,282-285,298-305,311-329,333,354-357,365-376
+packages/contracts/src/index.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1-5,32,694-695,727,731,737-738,784-788
+desktop/src/renderer/src/features/work/OverflowingChatTitle.tsx
+  s_e99143c1f502a5::t_a09bcec887d30e 1-4,6-26,28-42
+packages/ui/src/collaboration/discovery-events.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1-13
+packages/terminal-runtime/native-scroll/.gitignore
+  s_e99143c1f502a5::t_a09bcec887d30e 1
+shell/src/components/desktop/DesktopWindow.tsx
+  s_e99143c1f502a5::t_a09bcec887d30e 187,214-216,235,237
+packages/gateway/src/coding-agents/project-thread-deletion.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 3-43
+  s_e99143c1f502a5::t_bd8e4460840f1f 1-2
+docs/pr-evidence/terminal-native-history/README.md
+  s_e99143c1f502a5::t_a09bcec887d30e 1-35
+specs/110-desktop-project-lifecycle/plan.md
+  s_e99143c1f502a5::t_a09bcec887d30e 1-4
+specs/525-collaboration-ux-redesign/checklists/requirements.md
+  s_e99143c1f502a5::t_a09bcec887d30e 1-36
+packages/terminal-runtime/native-scroll/build.mjs
+  s_e99143c1f502a5::t_a09bcec887d30e 1-17
+tests/desktop/canonical-chat-badge-runtime.test.tsx
+  s_e99143c1f502a5::t_a09bcec887d30e 1-33
+packages/ui/src/terminal/terminal-native-history.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1-40
+tests/e2e/desktop/chat-title-layout.e2e.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1,7,25-35,51-109
+tests/e2e/fixtures/terminal-soft-resize-main.cjs
+  s_e99143c1f502a5::t_a09bcec887d30e 1-15
+shell/src/components/terminal/terminal-server-message.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 17-18,20,34,65-71,87-88,90-91
+tests/gateway/chat-provider-binding-postgres.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1-111
+packages/gateway/src/collaboration/discussion-adapter.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1-430
+tests/gateway/terminal-workspace-routes.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 428-430,432
+packages/gateway/src/chat/attribution-repair.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1-139
+packages/ui/src/collaboration/discussion-drafts.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1-69
+tests/terminal-runtime/native-scroll.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1-54
+desktop/src/renderer/src/features/terminal/DesktopSharedTerminal.tsx
+  s_e99143c1f502a5::t_a09bcec887d30e 1-23
+tests/gateway/collaboration-database.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 33-34,53
+specs/525-terminal-native-scrollbar/design.md
+  s_e99143c1f502a5::t_a09bcec887d30e 1-17
+shell/playwright.config.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 5,9,31-33
+tests/terminal-runtime/socket-attach-order.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1-56
+tests/terminal-runtime/socket-control-ref.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1-67
+tests/ui/terminal-soft-grid.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1-367
+tests/ui/session-discussion-layer.test.tsx
+  s_e99143c1f502a5::t_a09bcec887d30e 1-232
+packages/contracts/src/terminal-clipboard.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 21-22,46,66,77-87
+packages/gateway/src/integrations/custom-mcp/pinned-lookup.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1-16
+packages/terminal-runtime/src/runtime.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1,17,49,90,92,104,351,354-371,442-473,542,550,607-608
+tests/gateway/collaboration-authority.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 118-123,134-142,147-150,172-177,203
+packages/gateway/src/collaboration/terminal-adapter.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 465-466,480-481
+tests/gateway/collaboration-chat-execution-adapter.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 68-69,120-123,139-153,181-190
+packages/gateway/src/collaboration/routes.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 9,16,39,46,56-59,69,100,111-112,202-208,215-221,233-241,276-295,403-434,603-617,822-828,831-839,856,864-872,932,996-998,1004-1006
+tests/gateway/collaboration-repository-postgres.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 148-169
+tests/contracts/terminal-clipboard.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 38-45
+packages/gateway/src/collaboration/participant-resolver.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 3,27-28,45-46,63,102-139
+packages/gateway/src/coding-agents/thread-store.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1,1512-1518,1520
+apps/mobile/components/collaboration/shared-chat-composer-model.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1-41
+tests/desktop/shell-sessions-store.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 3,150-189
+specs/525-collaboration-ux-redesign/evidence/README.md
+  s_e99143c1f502a5::t_a09bcec887d30e 1-14
+packages/gateway/src/coding-agents/workspace-provider.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 393
+desktop/src/renderer/src/features/terminal/attach-manager.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 15,35,84-85,89-91,111
+desktop/src/renderer/src/features/terminal/TerminalsTab.tsx
+  s_e99143c1f502a5::t_a09bcec887d30e 402,483-485,499,501
+tests/gateway/coding-agents-workspace-provider.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 72-87
+docs/dev/preview-environments.md
+  s_e99143c1f502a5::t_a09bcec887d30e 79-115
+packages/gateway/src/chat/database.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 2,697
+tests/gateway/chat-order-title.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 258,269
+home/CLAUDE.md
+  s_e99143c1f502a5::t_a09bcec887d30e 112-124,242-247
+packages/terminal-runtime/native-scroll/manifest.json
+  s_e99143c1f502a5::t_a09bcec887d30e 1-7
+tests/gateway/shell-preferences.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 2,10,52-74
+tests/gateway/project-session-deletion.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1-86
+tests/desktop/shared-chat-tab-routing.test.tsx
+  s_e99143c1f502a5::t_a09bcec887d30e 1-50
+tests/gateway/chat-provider-binding-reconciliation.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1-226
+tests/default-apps/resource-manager-native-bridge.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 38
+tests/shell/terminal-soft-grid.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 28,102-103,128-137
+docs/pr-evidence/terminal-fullscreen/README.md
+  s_e99143c1f502a5::t_a09bcec887d30e 1-38
+shell/src/components/ShellHome.tsx
+  s_e99143c1f502a5::t_a09bcec887d30e 3,53,63-65,67,72-74,116,123
+tests/gateway/collaboration-policy-client.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 28,39,80-110
+tests/shell/shared-chat-route-sync.test.tsx
+  s_e99143c1f502a5::t_a09bcec887d30e 1-76
+apps/mobile/__tests__/shared-chat-composer.test.tsx
+  s_e99143c1f502a5::t_a09bcec887d30e 1-91
+specs/121-collaboration-session-sharing/contracts/collaboration-api.md
+  s_e99143c1f502a5::t_a09bcec887d30e 27,37,63-66,89-90
+shell/src/hooks/useChatState.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 4,28-30,48
+tests/desktop/project-lifecycle-dialog.test.tsx
+  s_e99143c1f502a5::t_a09bcec887d30e 62,72
+packages/platform/src/main.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 82,624
+packages/ui/src/collaboration/SharedTerminalControls.tsx
+  s_e99143c1f502a5::t_a09bcec887d30e 8,11-13,56,60,64-72,172-175,177,184-187,224
+tests/gateway/collaboration-chat-controls.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 591-593,601-604
+tests/gateway/collaboration-participant-resolver.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 49-68,85-100
+tests/gateway/collaboration-routes.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1,3,7,14,16,51-52,64,76-88,95-101,230-233,246,254,294-371,601-874,883,895,903-904,911,953-1050,1076-1088,1122-1212,1221,1419,1551-1554,1573-1574,1613
+tests/ui/session-access-control.test.tsx
+  s_e99143c1f502a5::t_a09bcec887d30e 1-109
+packages/platform/src/repositories/users.ts
+  s_e99143c1f502a5::t_fd7f2d0bd678e4 258-272
+packages/gateway/src/domains/workspace/workspace-routes.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 252,327-330,527,588
+  s_e99143c1f502a5::t_529631aea20f48 1
+packages/ui/src/index.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 68-79,93-97,127-133
+shell/src/lib/os-bridge.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 402-411
+specs/525-collaboration-ux-redesign/evidence/canvas-access/README.md
+  s_e99143c1f502a5::t_a09bcec887d30e 1-7
+specs/525-collaboration-ux-redesign/evidence/canvas-discussion/README.md
+  s_e99143c1f502a5::t_a09bcec887d30e 1-12
+packages/terminal-runtime/src/workspace-resize.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1-95
+desktop/src/renderer/src/stores/shell-sessions.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 405-406,410-417,422
+desktop/src/renderer/src/lib/api.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 122-123
+distro/customer-vps/host-bin/matrix-install-developer-tools
+  s_e99143c1f502a5::t_a09bcec887d30e 18
+packages/gateway/src/domains/identity/auth.ts
+  s_e99143c1f502a5::t_8ed246beaca0cd 7
+  s_e99143c1f502a5::t_a09bcec887d30e 3-6,102-104,149-156,211-221,266-276,354,380-383
+packages/terminal-runtime/native-scroll/rust-toolchain.toml
+  s_e99143c1f502a5::t_a09bcec887d30e 1-4
+shell/e2e/shared-chat.spec.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1-304
+specs/158-app-ai-bridge/spec.md
+  s_e99143c1f502a5::t_a09bcec887d30e 1-90
+packages/ui/src/terminal/terminal-scrollbar.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1-111
+packages/gateway/src/shell/sizing.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 113-119
+packages/gateway/src/chat/repository.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 67-70,83,118,319,322,325-326,335-365,372-373,387,393,395-396,403-437,440,442-445,529-533,1079-1085
+packages/platform/src/db.ts
+  s_e99143c1f502a5::t_97a9d1b0446701 120
+apps/mobile/__tests__/live-terminal-session.test.tsx
+  s_e99143c1f502a5::t_a09bcec887d30e 136-153
+packages/ui/src/terminal/terminal-grid-wheel.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1-38
+packages/ui/src/terminal/terminal-grid-presentation.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1-302
+packages/gateway/src/chat/provider-binding-reconciliation.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1-112
+shell/src/components/chat-app-provider-setup.tsx
+  s_e99143c1f502a5::t_a09bcec887d30e 94-97,100,154-155,157-160,162,164-167,180-181,193,261,278,288-297
+tests/gateway/collaboration-chat-discussion.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 6,234-346
+shell/src/components/settings/sections/CustomMcpServersPanel.tsx
+  s_e99143c1f502a5::t_a09bcec887d30e 3-4,99,274,300-308,313
+tests/gateway/collaboration-chat-queue.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 118-246,346-378,439-442
+tests/gateway/collaboration-membership-races.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 32-33
+packages/platform/src/platform-startup.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 40,68,563-568
+tests/gateway/shell-sizing.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 119-135
+packages/gateway/src/project-session-deletion.ts
+  s_e99143c1f502a5::t_77f340f400dcfb 3
+  s_e99143c1f502a5::t_a09bcec887d30e 1-2,4-16
+tests/platform/collaboration-identifier-resolver.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1-135
+shell/src/app/shared/terminal/[scopeId]/page.tsx
+  s_e99143c1f502a5::t_a09bcec887d30e 1-6,11-18
+tests/desktop/native-app-capability-preload.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 21,41-62
+tests/gateway/chat-failed-run-resume.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 96-98
+tests/platform/collaboration-wiring.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 112
+apps/mobile/components/shell/DrawerContent.tsx
+  s_e99143c1f502a5::t_a09bcec887d30e 41,54,114-116,120,133-135,357-361,370-378
+specs/525-collaboration-ux-redesign/evidence/cross-surface/README.md
+  s_e99143c1f502a5::t_a09bcec887d30e 1-19
+tests/platform/collaboration-proof.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 14,26,170-211
+tests/terminal-runtime/zellij-snapshot-presentation.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1-87
+packages/platform/src/collaboration/internal-routes.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 9,25,85-86,111
+tests/e2e/collaboration-project.spec.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 7,34-35,37-105,108
+.github/workflows/preview-platform.yml
+  s_e99143c1f502a5::t_a09bcec887d30e 45-49,86,193-196,205-206
+packages/gateway/src/collaboration/repository.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 3-5,58-59,103-104,152-155,160,168-171,175,488-563,683-803,928-929
+packages/terminal-runtime/src/zellij-screen-dump.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1-31
+packages/sync-client/src/cli/shell-client.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 62-63,101,827,1028,1373-1379
+shell/src/app/shared/page.tsx
+  s_e99143c1f502a5::t_a09bcec887d30e 1-4,6-11
+apps/mobile/__tests__/drawer-layout.test.tsx
+  s_e99143c1f502a5::t_a09bcec887d30e 12-17,164-165,186-187
+shell/src/components/terminal/TerminalApp.tsx
+  s_e99143c1f502a5::t_a09bcec887d30e 61,282-292,296
+shell/src/components/terminal/TerminalPane.tsx
+  s_e99143c1f502a5::t_a09bcec887d30e 13,42,210-212,243,425-426,503-505,521,640-645,647-663,677,772,937,959-960,966,1064-1065,1086-1087,1090,1114-1126,1150-1157,1162,1164-1172,1191,1203-1216,1319,1354-1357,1361,1372,1432-1433,1450-1451,1518,1526,1546,1566,1586-1587,1591-1592,1714,1744-1745,1854
+tests/gateway/project-stale-thread-diagnostic.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1-54
+shell/src/components/terminal/terminal-soft-grid.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1
+specs/105-coding-agent-shells/chat-dock-badge.md
+  s_e99143c1f502a5::t_a09bcec887d30e 1-81
+tests/e2e/desktop/chat-dock-badge.e2e.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1-101
+tests/terminal-runtime/viewport-resize.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1-188
+tests/ui/collaboration-drafts.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1-56
+tests/shell/terminal-pane-scrolling.test.tsx
+  s_e99143c1f502a5::t_a09bcec887d30e 5,543-575,678-739,869-876,886,937,970,986-988,1509-1549
+packages/contracts/src/terminal-scroll.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1-8
+.github/workflows/ci.yml
+  s_e99143c1f502a5::t_a09bcec887d30e 556-559,564-577
+docs/pr-evidence/integrated-shared-chat/README.md
+  s_e99143c1f502a5::t_a09bcec887d30e 1-52
+packages/gateway/src/collaboration/policy-client.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 9,19-21,28,37,40-62
+desktop/src/renderer/src/features/terminal/use-desktop-terminal-controls.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 18,31,58
+apps/mobile/lib/requests/collaboration.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 2-5,10,15-20,25-26,52-67,102-120,126-217,261-319
+packages/gateway/src/server.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1-2,22,88-89,119,347,408,2120,2720-2722,2735-2736,2739,2743-2765,2767,2774,2780,2785,2790,2798-2801,2809,2815-2845,2848,2860-2871,2887-2906,2908-2910,2936,2941-2944,3209-3215,3448-3484,3810
+packages/platform/src/custom-mcp-projection.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1-2,19-58
+shell/src/components/ChatApp.tsx
+  s_e99143c1f502a5::t_a09bcec887d30e 2,7,16-17,120-122,147,195,209,262-276,287,382,400-403,475,481,504-508,536-538,543-545,553,558,570-571,585-588,696
+specs/121-collaboration-session-sharing/spec.md
+  s_e99143c1f502a5::t_a09bcec887d30e 215-217,312-323
+specs/525-collaboration-ux-redesign/evidence/canvas-shared-with-me/README.md
+  s_e99143c1f502a5::t_a09bcec887d30e 1-7
+packages/gateway/src/preview-terminal-access.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1-26
+tests/desktop/native-app-ai.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1-24
+tests/shell/canonical-chat-wiring.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 11-14,16-17,19-21,31-37
+tests/gateway/project-lifecycle.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 9-10,72,74,78,82,84-87,89-96,98-101
+tests/shell/terminal-pointer-interception.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 71-114
+tests/terminal-runtime/socket-api.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 4,103,111,153-157,224-226,253,280-289
+.github/workflows/platform-cloud-run.yml
+  s_e99143c1f502a5::t_a09bcec887d30e 54-58,92,122-143,178-202,659-662,679-680,686-687
+tests/desktop/shell-session-sync.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 52-66
+tests/platform/collaboration-proxy.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 180-204,357-442
+tests/ui/shared-terminal-controls.test.tsx
+  s_e99143c1f502a5::t_a09bcec887d30e 56-58,84-94
+shell/src/components/terminal/terminal-grid-presentation.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1-149
+packages/gateway/src/collaboration/project-scope.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 341-342
+home/agents/knowledge/app-generation.md
+  s_e99143c1f502a5::t_a09bcec887d30e 340-358
+packages/gateway/src/terminal-size-lease.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1-15
+packages/terminal-runtime/native-scroll/Cargo.toml
+  s_e99143c1f502a5::t_a09bcec887d30e 1-13
+tests/gateway/chat-shared-owner-reads.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1-295
+tests/gateway/coding-agents-threads.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 428
+packages/contracts/src/collaboration.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 25-32,158-160,169,176,341,347-351,375-396,428-450,544-547,819-821
+tests/gateway/collaboration-chat-scope.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 17-23,184,191,203-210,212-261
+packages/gateway/src/project-deletion-cleanup.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1,3,8-70
+  s_e99143c1f502a5::t_16b8015f7ab71c 2,4-7
+packages/gateway/src/domains/workspace/project-lifecycle.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 68,100-106,108-110,112-120,122-123,125-136,139-147,149-158,160-163
+tests/e2e/desktop/fixtures/chat-title-gateway.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 6-7,22-27
+shell/e2e/terminal-sizing.spec.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 14,42,48,58,66-67,169,191-193,195-197,199-220,242
+tests/platform/chat-share-routing.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1-145
+tests/platform/custom-mcp-projection-request.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1-41
+tests/platform/collaboration-deployment.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 16-21
+desktop/src/renderer/src/features/terminal/terminal-mouse-selection.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 256-266,288-305,396,400-407,411-412,426-427,429,434-437,448,454-460,473-475,482-489,491,499
+tests/shell/custom-mcp-feedback.test.tsx
+  s_e99143c1f502a5::t_a09bcec887d30e 1-101
+shell/src/components/terminal/terminal-pointer-interception.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 30-32,51-55,58-66,68,73-75,81-84
+tests/contracts/collaboration.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 11-15,89-100,103,105-107,112,203-253,470-488,559-563,586-589
+tests/cli/shell-client.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 22,28-30,594,696-729
+specs/110-desktop-project-lifecycle/stale-activity-repair-plan.md
+  s_e99143c1f502a5::t_a09bcec887d30e 1-57
+tests/ui/collaboration-chat-state.test.tsx
+  s_e99143c1f502a5::t_a09bcec887d30e 64,68
+apps/mobile/lib/collaboration-events.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1-12
+packages/contracts/src/app-ai.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1-47
+apps/mobile/__tests__/terminal-client.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 107,172-204,278,298
+apps/mobile/app/(drawer)/_layout.tsx
+  s_e99143c1f502a5::t_a09bcec887d30e 2-3,15-16,30-32,39-61,73-74,118
+desktop/src/renderer/src/features/chat/ChatTab.tsx
+  s_e99143c1f502a5::t_a09bcec887d30e 396-398,411-413,431-433
+packages/gateway/src/coding-agents/codex-exec-contract.json
+  s_e99143c1f502a5::t_a09bcec887d30e 3,58-60
+shell/src/components/terminal/terminal-remote-resize.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 18,32
+tests/gateway/collaboration-terminal-discussion.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1-249
+shell/src/components/canvas/CanvasWindow.tsx
+  s_e99143c1f502a5::t_a09bcec887d30e 447,477-479,500
+desktop/src/main/embeds/native-app-bridge.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1,59-61,166-185,197-199,204-206,221,239,250,258-278,280-298
+packages/platform/src/integration-route-fallback.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1-18
+tests/gateway/auth.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 240-310
+tests/platform/preview-terminal-flow.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1-261
+packages/ui/src/collaboration/SessionDiscussionLayer.tsx
+  s_e99143c1f502a5::t_a09bcec887d30e 1-84
+tests/terminal-runtime/native-scroll-socket.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1-40
+tests/desktop/terminal-delete-pending.test.tsx
+  s_e99143c1f502a5::t_a09bcec887d30e 1-53
+tests/e2e/terminal-soft-grid.e2e.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1-329
+apps/mobile/app/terminal-session/[session].tsx
+  s_e99143c1f502a5::t_a09bcec887d30e 26,57,61-67,174,179,183,188,243-252
+packages/gateway/src/legacy-session-stop.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1-17
+packages/platform/src/collaboration/wiring.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 61,124
+packages/gateway/src/chat/project-deletion.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1-25
+shell/src/components/app-viewer-bridge-policy.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 10-16
+shell/src/components/chat/SharedWithMeNav.tsx
+  s_e99143c1f502a5::t_a09bcec887d30e 1-60
+specs/525-collaboration-ux-redesign/research.md
+  s_e99143c1f502a5::t_a09bcec887d30e 1-124
+desktop/src/renderer/src/stores/project-lifecycle.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 15,128
+tests/desktop/terminal-mouse-selection.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 265,276,281,283,286,288-411
+shell/src/components/terminal/TerminalSidebarItems.tsx
+  s_e99143c1f502a5::t_a09bcec887d30e 1028,1046,1059,1196,1253,1278,1300,1305,1362,1397,1407,1417
+tests/gateway/project-legacy-session-deletion.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1-61
+packages/gateway/src/integrations/custom-mcp/client.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 2,66
+desktop/src/renderer/src/features/plugins/McpServersSection.tsx
+  s_e99143c1f502a5::t_a09bcec887d30e 1,26,188,201,203-205
+desktop/src/renderer/src/features/work/WorkTab.tsx
+  s_e99143c1f502a5::t_a09bcec887d30e 215,225,237,263,699-703,733-734,761,766-769,776,790-791
+shell/src/app/shared/chat/[scopeId]/page.tsx
+  s_e99143c1f502a5::t_a09bcec887d30e 1-6,11-18
+apps/mobile/app/(drawer)/shared.tsx
+  s_e99143c1f502a5::t_a09bcec887d30e 14,21-25,31,218-221,236,240-242,324,328-330,480,490-501,503,506,512,522,548,553-555,593-594,607,626,634,639,659,663-664,668,676-680,685,687,689,692-695,699-712,717-719,727,730-731,736-737,756,759-760,766-770,815-826,851-853,862-867,870-872
+packages/gateway/src/chat/steering-repository.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 387
+packages/gateway/src/collaboration/chat-adapter.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 6-9,16,22,226-283,338-405
+tests/contracts/terminal-keyboard.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 5,178-203
+tests/gateway/collaboration-wiring.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 96,98-99,239-280
+tests/gateway/agent-session-manager.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 204
+tests/gateway/project-deletion-wiring.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1-20
+docs/pr-evidence/terminal-soft-resize/README.md
+  s_e99143c1f502a5::t_a09bcec887d30e 1-87
+tests/desktop/project-lifecycle-store.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 235
+packages/gateway/src/domains/workspace/workspace-startup-recovery.ts
+  s_e99143c1f502a5::t_7f2353ee7d6883 1
+  s_e99143c1f502a5::t_a09bcec887d30e 237,259-262
+tests/gateway/collaboration-chat-orchestrator.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 231-233
+distro/customer-vps/host-bin/matrix-install-tool-pack
+  s_e99143c1f502a5::t_a09bcec887d30e 19
+shell/src/components/UserButton.tsx
+  s_e99143c1f502a5::t_a09bcec887d30e 20,29,82,91,148,152,261-266
+specs/525-collaboration-ux-redesign/pr-bodies.md
+  s_e99143c1f502a5::t_a09bcec887d30e 1-40
+tests/desktop/shared-chat-navigation.test.tsx
+  s_e99143c1f502a5::t_a09bcec887d30e 1-266
+tests/gateway/project-thread-deletion.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1-31
+desktop/src/renderer/src/lib/kernel-wiring.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 3,19,100,192-204,214
+desktop/src/renderer/src/features/mission-control/TabContent.tsx
+  s_e99143c1f502a5::t_a09bcec887d30e 18,74,82,85,109-111
+specs/525-collaboration-ux-redesign/plan.md
+  s_e99143c1f502a5::t_a09bcec887d30e 1-171
+tests/gateway/legacy-session-stop.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1-33
+packages/gateway/src/app-ai/runtime.ts
+  s_e99143c1f502a5::t_da072491ef69c0 6-8,10
+  s_e99143c1f502a5::t_a09bcec887d30e 1-5,9,11-61
+tests/desktop/shell-socket.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 29-30,33-37,149,164,179-181,234,258,329,373,384,418-448,753
+tests/gateway/chat-attribution-postgres.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1-124
+desktop/src/renderer/src/design/index.css
+  s_e99143c1f502a5::t_a09bcec887d30e 3,25-28,34,39,41,48,65-70
+tests/gateway/project-chat-deletion.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1-36
+packages/terminal-runtime/src/native-scroll-bridge.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1-51
+packages/terminal-runtime/src/index.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 13
+tests/desktop/native-app-generate.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1-80
+tests/shell/terminal-session-delete.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1-21
+packages/gateway/src/collaboration/database.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 182-199,213-214,593-626
+packages/gateway/src/chat/queue-repository.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 34,125-128,162-166,303-310,337-339,401-434,478,817-821,823-842,869-870,1070-1114,1170-1259
+specs/525-collaboration-ux-redesign/implementation-log.md
+  s_e99143c1f502a5::t_a09bcec887d30e 1-76
+tests/gateway/project-deletion-cleanup.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1-114
+tests/ui/shared-chat-native-projection.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1-39
+tests/shell/chat-app-provider-state.test.tsx
+  s_e99143c1f502a5::t_a09bcec887d30e 75-92,330,347,353,368-389
+tests/ui/shared-chat-projection.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1-23
+tests/ui/chat-collaboration-sharing.test.tsx
+  s_e99143c1f502a5::t_a09bcec887d30e 68-71,76,88,103,113,118-143,274,286,294,302,305-307,309-311,340,342,345-346,348,360,402,450,476-478,486,500,531-533,541,555,585-590,592-593,595-598,603,605,613,624-627,631-689,693,702,722,774
+apps/mobile/__tests__/shared-terminal-screen.test.tsx
+  s_e99143c1f502a5::t_a09bcec887d30e 122-123
+apps/mobile/__tests__/session-access-control.test.tsx
+  s_e99143c1f502a5::t_a09bcec887d30e 1-72
+packages/contracts/src/terminal-keyboard.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 121,151-165,346
+packages/gateway/src/shell/workspace-routes.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 96,102,114,122,131,141,146-150,154,160-161,169,171,187,217-219,222-227,242,259,292-293,304-305,313,316-317,352,364-365,376-377,408-409
+shell/src/components/mobile/MobileShell.tsx
+  s_e99143c1f502a5::t_a09bcec887d30e 67,73-91,160,166,253-260,265-269,271,277-279,293,300-302,327-329,340-343,345-349,353-358,583,608-610,629,631
+shell/src/components/terminal/ShellSharedTerminal.tsx
+  s_e99143c1f502a5::t_a09bcec887d30e 1-33
+tests/desktop/terminal-controls.test.tsx
+  s_e99143c1f502a5::t_a09bcec887d30e 33,129
+desktop/src/main/index.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 18,262-271
+packages/gateway/src/coding-agents/codex-app-server-contract.json
+  s_e99143c1f502a5::t_a09bcec887d30e 3,68-73
+tests/e2e/app-ai-electron.e2e.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1-42
+packages/gateway/src/collaboration/chat-scope.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 41-45,104,222-225,269,286-306,376-387,539-540
+tests/gateway/app-ai-bridge.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1-66
+tests/desktop/api-client.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 35-45
+tests/gateway/chat-routes.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 22,165-253
+tests/helpers/terminal-soft-resize-regression.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1-91
+tests/platform/collaboration-routes.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 2,25,67-69,81,231-281
+packages/ui/src/collaboration/ChatCollaboratorsDialog.tsx
+  s_e99143c1f502a5::t_a09bcec887d30e 2,20-25,48,70-72,78,90,107,109-110,142-145,154,158-160
+packages/gateway/src/integrations/custom-mcp/oauth.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 7,57
+tests/platform/collaboration-websocket.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 122-148
+tests/platform/preview-terminal-access.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1-93
+tests/scripts/check-codex-provider-contracts.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 18-20,23-24,26-27
+packages/platform/src/collaboration/bootstrap.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 7,18,41-50,75
+specs/118-fix-terminal-clipboard/contracts/terminal-clipboard-interactions.md
+  s_e99143c1f502a5::t_a09bcec887d30e 22,28-30
+desktop/src/renderer/src/lib/shell-socket.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 6,32-34,133-134,180,182,200,202,209-213,259,325-326,411-416,421-423,466-467,471-472,476-477,582
+packages/gateway/src/domains/sessions/session-runtime-bridge.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 161-162
+desktop/src/renderer/src/stores/tabs.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 38,90,198-201,206,218,263,344-345
+packages/gateway/src/collaboration/authority.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 48-52,77-87,144,147,158-159,162,164-165,167,171,175,184-193
+tests/desktop/native-app-gateway.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 11
+tests/desktop/terminal-session-sidebar.test.tsx
+  s_e99143c1f502a5::t_a09bcec887d30e 9-16
+packages/gateway/src/collaboration/actor-proof.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 14-18,23-28,30-34,49,56,59,92,152,177-183
+tests/desktop/canonical-chat-badge.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1-120
+desktop/src/preload/index.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1,55-56
+packages/gateway/src/chat/turn-admission.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 138-139
+packages/contracts/package.json
+  s_e99143c1f502a5::t_a09bcec887d30e 11,55
+specs/525-collaboration-ux-redesign/evidence/canvas-chat/README.md
+  s_e99143c1f502a5::t_a09bcec887d30e 1-13
+packages/ui/src/terminal/terminal-soft-grid.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1-66
+specs/107-terminal-multi-device/spec.md
+  s_e99143c1f502a5::t_a09bcec887d30e 5,22,39,46,160
+packages/gateway/src/collaboration/chat-execution-adapter.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 47-48,68-72,91
+packages/gateway/src/terminal-live-ownership.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1-180
+tests/desktop/kernel-wiring.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 146-180,442,445-446
+tests/desktop/terminal-viewport-resize.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1-57
+shell/src/components/terminal/terminal-session-delete.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1-25
+apps/mobile/__tests__/shared-screen.test.tsx
+  s_e99143c1f502a5::t_a09bcec887d30e 6,11-12,14,27,32-35,104,116,121-123,126-129,150,152,158-161,175,309-318,324-326,330,332,357-359,362,376-395,426-428,458,526,573,646-647
+packages/platform/src/preview-terminal-access.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1-30
+desktop/src/renderer/src/features/chat/NativeChatBadge.tsx
+  s_e99143c1f502a5::t_a09bcec887d30e 1-32
+desktop/src/renderer/src/features/chat/CanonicalChatWorkspace.tsx
+  s_e99143c1f502a5::t_a09bcec887d30e 1-7,38-39,96-98,117-119,133-140,149-152,160,259,261,323,817-829,916
+apps/mobile/lib/gateway-client.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 639-644,654
+packages/gateway/src/collaboration/wiring.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 13,97,109-115,118-119,160-166,191,331,339
+desktop/src/renderer/src/features/terminal/TerminalView.tsx
+  s_e99143c1f502a5::t_a09bcec887d30e 4,6,46,50-51,63-66,165-169,185-186,225-226,232,324,335-336,344,390,417-418,435,462-478,485,487,493-497,536,554-559,565-571,590,597,601,768-773,808
+packages/gateway/src/collaboration/invitation-creation-route.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1-94
+packages/platform/src/session-routing-websocket.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 13,84,88-90,114-115
+packages/ui/src/McpServerDiagnostics.tsx
+  s_e99143c1f502a5::t_a09bcec887d30e 1-75
+packages/terminal-runtime/src/zellij-adapter.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1,21,126,624,627,677-686,925,938-939
+shell/src/hooks/useWindowManager.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 33,134-138,144,283,307,358,624-626,641-646
+tests/e2e/desktop/shared-chat.e2e.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1-327
+tests/gateway/coding-agents-codex-events.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 142-144
+packages/contracts/src/canonical-chat.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 337
+tests/e2e/fixtures/app-ai-main.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1-45
+tests/gateway/shared-ai-runtime.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 6,77-116
+packages/gateway/src/collaboration/discussion-error.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1-9
+desktop/src/renderer/src/features/chat/ProviderModelPicker.tsx
+  s_e99143c1f502a5::t_a09bcec887d30e 264
+tests/gateway/terminal-size-lease.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1-28
+packages/platform/src/collaboration/proxy.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 39-42,95,230-240,243-246,320-342
+packages/sync-client/src/cli/commands/collaboration.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 4,8,32,44-47,189,350-371,388,402,406,408
+tests/kernel/app-ai.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1-55
+tests/platform/integration-fallback.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1-55
+packages/ui/src/collaboration/client.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 77,113-115,129,151,158
+tests/shell/terminal-app-component.test.tsx
+  s_e99143c1f502a5::t_a09bcec887d30e 179-213,223-253
+desktop/src/shared/ipc-contract.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 8,474
+packages/kernel/src/app-ai.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1-52
+tests/gateway/review-store.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 127
+tests/gateway/terminal-live-ownership.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1-69
+tests/ui/shared-chat-controls.test.tsx
+  s_e99143c1f502a5::t_a09bcec887d30e 24,47,59-60,66,71,74,76-77,86,89,98-99,103-135,140,168-191,195,204-205,219
+tests/terminal-runtime/input-frame-queue.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1-120
+tests/ui/shared-chat-two-account.test.tsx
+  s_e99143c1f502a5::t_a09bcec887d30e 1-223
+packages/platform/src/collaboration/routes.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 13,52,156-157,354-358
+tests/gateway/project-cascade-mixed-resources.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1-86
+packages/gateway/src/app-ai/routes.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1-57
+tests/ui/terminal-content-extent.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1-33
+tests/platform/custom-mcp-preview.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1-31
+tests/e2e/fixtures/terminal-soft-resize.tsx
+  s_e99143c1f502a5::t_a09bcec887d30e 1-108
+packages/terminal-runtime/src/socket-client.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 135-136,141
+shell/src/components/Desktop.tsx
+  s_e99143c1f502a5::t_a09bcec887d30e 106,113,423,434,496-524,527,529-530
+tests/gateway/coding-agents-codex-app-server-contract.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 173-175
+tests/shell/shared-chat-app-integration.test.tsx
+  s_e99143c1f502a5::t_a09bcec887d30e 1-178
+tests/shell/shared-chat-deep-link.test.tsx
+  s_e99143c1f502a5::t_a09bcec887d30e 1-148
+packages/terminal-runtime/src/input-frame-queue.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1-101
+tests/shell/terminal-pane-controls.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 74,80,99-131
+tests/terminal-runtime/native-scroll-artifact.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1-14
+tests/shell/app-ai-roundtrip.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1-51
+tests/terminal-runtime/startup-input-burst.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1-83
+tests/ui/terminal-scrollbar.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1-77
+tests/platform/collaboration-internal-routes.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1,32,64,74-135
+shell/src/components/AppViewer.tsx
+  s_e99143c1f502a5::t_a09bcec887d30e 3-5,66-68,73-74
+tests/terminal-runtime/native-scroll.integration.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1-64
+packages/ui/src/collaboration/SharedChatControls.tsx
+  s_e99143c1f502a5::t_a09bcec887d30e 60-61,63,65-70,91-92,96-98,100-108,155,164-170,174,177,244
+tests/cli/collaboration-terminal.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 4,50-60
+tests/gateway/chat-orchestrator.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 152-156,271-273,338-344,635-639
+docs/pr-evidence/pr-1748-provider-binding/README.md
+  s_e99143c1f502a5::t_a09bcec887d30e 1-23
+tests/e2e/fixtures/collaboration-fixture.e2e.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 14-15,23-24,36-37,46-47
+desktop/src/renderer/src/features/chat/CanonicalChatRoute.tsx
+  s_e99143c1f502a5::t_a09bcec887d30e 24-26,43-45,116-119,139,141-142,161-163
+shell/src/components/terminal/terminal-key-handler.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1,17-18,22,31
+tests/gateway/chat-attribution-backfill.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1-339
+packages/terminal-runtime/native-scroll/README.md
+  s_e99143c1f502a5::t_a09bcec887d30e 1-23
+specs/121-collaboration-session-sharing/quickstart.md
+  s_e99143c1f502a5::t_a09bcec887d30e 35,40,42,86-110
+tests/shell/app-ai-bridge.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1-13
+packages/kernel/src/index.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 87
+apps/mobile/__tests__/requests-collaboration.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 5,11-13,21-25,73-194,211-215,227,252,305
+packages/terminal-runtime/native-scroll/src/main.rs
+  s_e99143c1f502a5::t_a09bcec887d30e 1-67
+packages/gateway/src/domains/sessions/agent-session-manager.ts
+  s_e99143c1f502a5::t_c13959a87ffcb8 1-2
+  s_e99143c1f502a5::t_a09bcec887d30e 3,336,600,608,610-613,615-616,659-662,665,667-668,671-673
+tests/gateway/workspace-routes.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 253,419
+tests/desktop/native-app-bridge.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 57,85,147
+tests/shell/shared-with-me-nav.test.tsx
+  s_e99143c1f502a5::t_a09bcec887d30e 1-63
+tests/desktop/shared-chat-composer.test.tsx
+  s_e99143c1f502a5::t_a09bcec887d30e 574
+packages/ui/src/terminal/terminal-content-extent.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1-41
+packages/ui/src/collaboration/chat-projection.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1-54
+shell/src/components/terminal/TerminalSidebar.tsx
+  s_e99143c1f502a5::t_a09bcec887d30e 2,257,283,292,309,335,406,408-416,418
+tests/contracts/canonical-chat.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 610-617
+apps/mobile/components/collaboration/SessionAccessControl.tsx
+  s_e99143c1f502a5::t_a09bcec887d30e 1-234
+packages/platform/src/collaboration/identifier-resolution-route.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1-106
+shell/src/components/chat/ShellChatCollaboration.tsx
+  s_e99143c1f502a5::t_a09bcec887d30e 1-59
+apps/mobile/__tests__/session-discussion-sheet.test.tsx
+  s_e99143c1f502a5::t_a09bcec887d30e 1-69
+apps/mobile/components/collaboration/SharedChatComposer.tsx
+  s_e99143c1f502a5::t_a09bcec887d30e 6,9-13,29,38,40-41,50,67-70,112-114
+specs/121-collaboration-session-sharing/data-model.md
+  s_e99143c1f502a5::t_a09bcec887d30e 42,95-98,133
+tests/e2e/fixtures/collaboration.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 22-23,33-34,71-72
+desktop/src/renderer/src/features/terminal/TerminalSessionSidebar.tsx
+  s_e99143c1f502a5::t_a09bcec887d30e 43,69,104,140,167,202
+docs/dev/terminal-session-ownership.md
+  s_e99143c1f502a5::t_a09bcec887d30e 5,13-14,28-71,73-81,83,85,139-141,143,166,168-169
+tests/gateway/collaboration-chat-scope-postgres.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1-95
+apps/mobile/components/collaboration/SessionDiscussionSheet.tsx
+  s_e99143c1f502a5::t_a09bcec887d30e 1-166
+tests/integrations/custom-mcp-pinned-lookup.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1-47
+desktop/src/renderer/src/features/mission-control/ProjectLifecycleDialog.tsx
+  s_e99143c1f502a5::t_a09bcec887d30e 74-76
+specs/525-collaboration-ux-redesign/data-model.md
+  s_e99143c1f502a5::t_a09bcec887d30e 1-163
+specs/525-collaboration-ux-redesign/tasks.md
+  s_e99143c1f502a5::t_a09bcec887d30e 1-301
+tests/gateway/chat-repository.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 17,918-1076,1401-1407,1461-1466,1555-1556
+tests/platform/proxy-routing.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 4355-4384
+packages/platform/src/collaboration/identifier-resolver.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 1-174
+Dockerfile
+  s_e99143c1f502a5::t_a09bcec887d30e 147
+tests/desktop/terminal-view.test.tsx
+  s_e99143c1f502a5::t_a09bcec887d30e 5,279,281-297,452-466,1370,1373-1374,1380-1381,1393-1453
+tests/ui/collaboration-client.test.ts
+  s_e99143c1f502a5::t_a09bcec887d30e 78,83,86-87,112,116
+Dockerfile.dev
+  s_e99143c1f502a5::t_a09bcec887d30e 73
+packages/terminal-runtime/native-scroll/Cargo.lock
+  s_e99143c1f502a5::t_118da2a4e2d0ce 1-2724
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "70eed0f6776398c653e688b05e2b1ea8829449d5",
+  "prompts": {},
+  "sessions": {
+    "s_e99143c1f502a5": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f54816399ffecxIxJWEh6FoBho",
+        "model": "unknown"
+      },
+      "human_author": "Sundaram Kumar Jha <jhasundaram@outlook.com>"
+    }
+  }
+}
