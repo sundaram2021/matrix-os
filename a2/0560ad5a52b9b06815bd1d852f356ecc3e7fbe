@@ -1,0 +1,39 @@
+tests/gateway/project-chat-deletion.test.ts
+  s_4d657b2ab3ef2a::t_cf6733c9d72634 5
+tests/gateway/project-stale-thread-diagnostic.test.ts
+  s_4d657b2ab3ef2a::t_08639908c0ba72 6-7
+tests/gateway/project-deletion-cleanup.test.ts
+  s_4d657b2ab3ef2a::t_4d3a02b355ae76 5-6
+tests/gateway/project-legacy-session-deletion.test.ts
+  s_4d657b2ab3ef2a::t_2fd0f103b0663e 5,8-9
+tests/gateway/collaboration-routes.test.ts
+  s_4d657b2ab3ef2a::t_b61967b69804de 7
+tests/gateway/preview-terminal-auth.test.ts
+  s_4d657b2ab3ef2a::t_f7fbf64fcddc53 4-5
+tests/gateway/project-lifecycle.test.ts
+  s_4d657b2ab3ef2a::t_dd9ea672eaf989 9
+tests/terminal-runtime/native-scroll.test.ts
+  s_4d657b2ab3ef2a::t_a5eea8ebd9ca5f 7
+tests/gateway/project-session-deletion.test.ts
+  s_4d657b2ab3ef2a::t_d06fa596ff16a1 6
+tests/gateway/project-cascade-mixed-resources.test.ts
+  s_4d657b2ab3ef2a::t_884eff74497ae1 5-10
+tests/platform/preview-terminal-flow.test.ts
+  s_4d657b2ab3ef2a::t_d422e6d641d688 12-13
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "a20560ad5a52b9b06815bd1d852f356ecc3e7fbe",
+  "prompts": {},
+  "sessions": {
+    "s_4d657b2ab3ef2a": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f3ff6fc19ffeQqj21L477YXL43",
+        "model": "unknown"
+      },
+      "human_author": "Sundaram Kumar Jha <jhasundaram@outlook.com>"
+    }
+  }
+}
