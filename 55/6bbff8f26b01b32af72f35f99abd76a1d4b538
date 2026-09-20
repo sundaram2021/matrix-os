@@ -1,0 +1,31 @@
+packages/platform/src/customer-vps-polling.ts
+  s_63e0bb7599ea02::t_f16f224bf92d6a 1-199
+packages/platform/src/customer-vps-fleet.ts
+  s_63e0bb7599ea02::t_f16f224bf92d6a 1
+packages/platform/src/customer-vps-helpers.ts
+  s_63e0bb7599ea02::t_f16f224bf92d6a 1-236
+packages/platform/src/customer-vps-deletion.ts
+  s_63e0bb7599ea02::t_f16f224bf92d6a 1-144
+packages/platform/src/customer-vps.ts
+  s_63e0bb7599ea02::t_f16f224bf92d6a 1-15,71-74,311-312,358-393,501,538,713,722,727,933,1164,1203,1208,1244,1289,1394,1404,1463,1470,1520,1525,1533,1537,1592,1660,1677,1733,1751,1763,1800,1848,1920-1921
+packages/platform/src/customer-vps-dispatch.ts
+  s_63e0bb7599ea02::t_f16f224bf92d6a 1-667
+packages/platform/src/customer-vps-recovery.ts
+  s_63e0bb7599ea02::t_f16f224bf92d6a 1-382
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "556bbff8f26b01b32af72f35f99abd76a1d4b538",
+  "prompts": {},
+  "sessions": {
+    "s_63e0bb7599ea02": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f5a25c02dffeH85VIE7O9KwVXK",
+        "model": "unknown"
+      },
+      "human_author": "Sundaram Kumar Jha <jhasundaram@outlook.com>"
+    }
+  }
+}
