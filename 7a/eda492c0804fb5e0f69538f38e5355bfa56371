@@ -1,0 +1,35 @@
+tests/scripts/check-budgets.test.ts
+  s_4d657b2ab3ef2a::t_d17ead210c7e64 1,6,10
+  s_4d657b2ab3ef2a::t_51653559f79f72 11
+  s_4d657b2ab3ef2a::t_a72f5ee901ae72 2,5
+  s_4d657b2ab3ef2a::t_e97551a7372fa3 142-150
+  s_4d657b2ab3ef2a::t_f8d5fd90f323ee 221-246,248,250-251
+  s_4d657b2ab3ef2a::t_233364e3bc8364 247,249,252-300
+  s_4d657b2ab3ef2a::t_3e81cb5e0a86e2 12
+scripts/review/check-budgets.mjs
+  s_4d657b2ab3ef2a::t_378dc7c554567e 105-111,118-119
+  s_4d657b2ab3ef2a::t_9e021427663db4 85,133
+  s_4d657b2ab3ef2a::t_26baa780d86f78 170
+scripts/review/arch-budgets.json
+  s_4d657b2ab3ef2a::t_f72891c32fa0de 2,5-7,9-12,14,16-18,21-22,24,26-27,30-31,34,36,38,40,46-47,59,85
+scripts/review/check-patterns.sh
+  s_4d657b2ab3ef2a::t_81c85aaaa3ed4e 49-93,95-96
+  s_4d657b2ab3ef2a::t_43092dd23a034f 106-109
+  s_4d657b2ab3ef2a::t_a9265286fa2082 94
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "7aeda492c0804fb5e0f69538f38e5355bfa56371",
+  "prompts": {},
+  "sessions": {
+    "s_4d657b2ab3ef2a": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f3ff6fc19ffeQqj21L477YXL43",
+        "model": "unknown"
+      },
+      "human_author": "Sundaram Kumar Jha <jhasundaram@outlook.com>"
+    }
+  }
+}
