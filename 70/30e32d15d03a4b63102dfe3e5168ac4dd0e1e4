@@ -1,0 +1,65 @@
+packages/platform/src/session-routing-middleware.ts
+  s_63e0bb7599ea02::t_33eb8c8c3a213d 110-118,120,172-183
+packages/sync-client/src/daemon/auth.ts
+  s_63e0bb7599ea02::t_33eb8c8c3a213d 1-67
+packages/sync-client/src/daemon/conflicts.ts
+  s_63e0bb7599ea02::t_33eb8c8c3a213d 1-538
+packages/platform/src/auth-pages/auth-page.ts
+  s_63e0bb7599ea02::t_33eb8c8c3a213d 1-1235
+packages/platform/src/auth-pages/runtime-picker-page.ts
+  s_63e0bb7599ea02::t_33eb8c8c3a213d 1-162
+packages/platform/src/ai-funded-metering/codecs.ts
+  s_63e0bb7599ea02::t_33eb8c8c3a213d 1-214
+packages/platform/src/ai-funded-metering-repository.ts
+  s_63e0bb7599ea02::t_33eb8c8c3a213d 1-10,30-31,33-43
+packages/sync-client/src/daemon/initial-pull.ts
+  s_63e0bb7599ea02::t_33eb8c8c3a213d 1-210
+packages/kernel/src/ipc-tools-workspace.ts
+  s_63e0bb7599ea02::t_33eb8c8c3a213d 1-185
+packages/kernel/src/ipc-tools-memory-media.ts
+  s_63e0bb7599ea02::t_33eb8c8c3a213d 1-313
+packages/kernel/src/ipc-tools-tasks.ts
+  s_63e0bb7599ea02::t_33eb8c8c3a213d 1-137
+packages/kernel/src/ipc-tools-integrations.ts
+  s_63e0bb7599ea02::t_33eb8c8c3a213d 1-129
+packages/platform/src/auth-pages/shared.ts
+  s_63e0bb7599ea02::t_33eb8c8c3a213d 1-48
+packages/platform/src/session-auth-shell-proxy.ts
+  s_63e0bb7599ea02::t_33eb8c8c3a213d 1-129
+packages/platform/src/session-ws-token.ts
+  s_63e0bb7599ea02::t_33eb8c8c3a213d 1-47
+packages/kernel/src/ipc-tools-apps.ts
+  s_63e0bb7599ea02::t_33eb8c8c3a213d 1-279
+packages/platform/src/ai-funded-metering/reservations.ts
+  s_63e0bb7599ea02::t_33eb8c8c3a213d 1-569
+packages/platform/src/auth-pages/no-container-page.ts
+  s_63e0bb7599ea02::t_33eb8c8c3a213d 1-107
+packages/platform/src/session-routing-helpers.ts
+  s_63e0bb7599ea02::t_33eb8c8c3a213d 1-96
+packages/sync-client/src/daemon/index.ts
+  s_63e0bb7599ea02::t_33eb8c8c3a213d 352-370
+packages/platform/src/auth-pages.ts
+  s_63e0bb7599ea02::t_33eb8c8c3a213d 1-10
+packages/platform/src/ai-funded-metering/reads-grants.ts
+  s_63e0bb7599ea02::t_33eb8c8c3a213d 1-408
+packages/kernel/src/ipc-server.ts
+  s_63e0bb7599ea02::t_33eb8c8c3a213d 7-13,64,67,70,73,81,105
+packages/kernel/src/ipc-tools-automation.ts
+  s_63e0bb7599ea02::t_33eb8c8c3a213d 1-321
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "7030e32d15d03a4b63102dfe3e5168ac4dd0e1e4",
+  "prompts": {},
+  "sessions": {
+    "s_63e0bb7599ea02": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f5a25c02dffeH85VIE7O9KwVXK",
+        "model": "unknown"
+      },
+      "human_author": "Sundaram Kumar Jha <jhasundaram@outlook.com>"
+    }
+  }
+}
