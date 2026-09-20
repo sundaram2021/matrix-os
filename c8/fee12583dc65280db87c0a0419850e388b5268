@@ -1,0 +1,369 @@
+apps/mobile/app/(drawer)/index.tsx
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 2,390
+tests/desktop/work-rail.test.tsx
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 295-317
+packages/gateway/src/chat/collaboration-commands.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 199-202,476-477
+desktop/src/renderer/src/features/coding-agents/AgentConversationView.tsx
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 79
+packages/gateway/src/chat/service.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 1,143,314
+packages/scope-runtime/src/systemd-launcher.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 23,61,81,289-291,303-312,328,332-345,464,469-488,535
+packages/sync-client/src/daemon/ipc-handler.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 35-40,80-102,104-112,116,123-127,129,172
+packages/sync-client/src/cli/commands/peers.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 7-8,49
+packages/scope-runtime/src/worker.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 2,8,10-12,23-41,85-86,261-393,452,501-514
+packages/sync-client/tests/unit/login.test.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 8-9,16-17,46-50,87-88,122,146,161,172,184,200-201,222-223
+tests/gateway/protected-tool-output.test.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 1-52
+tests/gateway/shared-ai-runtime-registry.test.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 14-18,27,54-58,69-105
+tests/gateway/shared-ai-runtime.test.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 7,9-45
+packages/gateway/src/chat/database.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 131-132,458-459,488-489
+tests/e2e/collaboration.playwright.config.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 1-18
+packages/gateway/src/collaboration/scope-runtime-chat-adapter.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 32,59,126
+packages/scope-runtime/src/supervisor.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 12,36-39,58,112-115,137,275
+packages/gateway/src/coding-agents/codex-tool-output.mjs
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 1-41
+packages/sync-client/src/daemon/r2-client.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 19,39-60,86,93,107,116,123,134,142,149,163-165,207,212,425,434-436,442
+tests/gateway/sync/routes.test.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 33,64-66,78-102,161-180,197-214,261-279,285-290,300,307,348,357-372,410,412,429,475,500,532-550,770
+tests/gateway/sync/types.test.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 97,129,131
+tests/gateway/sync/commit.test.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 33,51,57-59,63-75,82,95,176,179,192-193,196,210,285-288,308-314
+tests/platform/r2-broker-download.test.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 17,23,35-40,53,60-73
+tests/scope-runtime/systemd-launcher.test.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 35-36,39,43-45,53-56,88-111
+packages/gateway/src/collaboration/chat-execution-adapter.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 25,29-31,34-48,54-57
+packages/gateway/src/sync/r2-client.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 2,49,205,232-238
+desktop/src/renderer/src/features/work/WorkRail.tsx
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 378-379
+packages/gateway/src/chat/owner-tool-output.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 1-28
+tests/e2e/desktop/chat-tool-details.e2e.test.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 1-83
+packages/scope-runtime/src/main.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 1,42
+apps/mobile/__tests__/chat-tool-activity.test.tsx
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 1-13
+specs/124-organization-collaboration/quickstart.md
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 1-65
+tests/gateway/sync/user-id-from-jwt.test.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 164-167,180-183
+tests/gateway/coding-agents-codex-app-server-reliability.test.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 1,69,77-80,156,192-219
+tests/sync-client/swift-daemon-ipc-contract.test.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 1-46
+specs/124-organization-collaboration/plan.md
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 1-100
+specs/124-organization-collaboration/spec.md
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 1-152
+packages/sync-client/tests/unit/outgoing-retry.test.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 1-71
+tests/gateway/chat-hermes-provider.test.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 5,270,318,1036,1202,1236,1275,1320,1323,1523,1572
+packages/sync-client/src/lib/profile-sync-config.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 1-214
+specs/124-organization-collaboration/data-model.md
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 1-79
+distro/customer-vps/host-bin/matrix-restore.sh
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 74,76-79
+packages/scope-runtime/src/broker-protocol.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 34-61,75
+packages/gateway/src/server.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 1-2,294-296,298-302,618-619,1018,1187,1227-1231,1240-1241,2238-2243,2246,4261,4275,4283,4291,4394
+packages/gateway/src/coding-agents/codex-events.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 1,5-8,146-150,155-156,287,295-296,387,411
+apps/menu-bar/Sources/DaemonClient.swift
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 6,10,22,37,40-41,46,49-59,81-83,90-98,212,218-232
+packages/sync-client/tests/unit/profile-sync-config.test.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 1-189
+packages/gateway/src/chat/gateway-event-stream.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 1,10,18
+tests/gateway/coding-agents-codex-app-server-runtime.test.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 563,567
+packages/contracts/src/agent-thread-contracts.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 31-40,194,196,202
+tests/gateway/coding-agents-codex-events.test.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 235
+tests/gateway/scope-runtime-broker.test.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 11,42-74,128-226
+packages/gateway/src/chat/hermes-tool-output.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 1-30
+tests/cli/legacy-config-migration.test.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 20,35-38
+packages/contracts/src/canonical-chat.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 4,470-471,498-499,595-597
+packages/gateway/src/collaboration/shared-ai-runtime.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 1-5,8,61-64,72-75,114-126,179,182-211,220,224-225,268,452-455,458-461,469-521,542-544,558
+packages/gateway/src/sync/runtime-scope.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 2-6,21-46,51-63,67-69
+packages/gateway/src/chat/provider-adapter.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 3,42
+packages/gateway/src/sync/infrastructure.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 1-101
+packages/gateway/src/coding-agents/codex-tool-output.d.mts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 1-4
+packages/gateway/src/collaboration/shared-ai-runtime-registry.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 21-23,84-87,93-98,125-132
+tests/gateway/codex-owner-identity.test.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 1-279
+shell/src/lib/canonical-chat-terminal-notices.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 1,15-26
+specs/124-organization-collaboration/contracts/organization-api.md
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 1-105
+tests/platform/internal-sync-routes.test.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 7,300-365
+tests/scripts/collaboration-scope-runtime-production-acceptance.test.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 32,42-54,58,61-73,76-77,81,85-107,133,137-139,145-173
+packages/gateway/src/coding-agents/protected-tool-output.mjs
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 1-84
+tests/gateway/sync/advisory-lock.test.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 1-21
+tests/scripts/collaboration-scope-runtime-workflow.test.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 66,70-93
+tests/gateway/sync/r2-client.test.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 104-105,107,319-345
+tests/gateway/chat-hermes-tool-output.test.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 1-52
+shell/src/lib/chat.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 15,35
+tests/gateway/owner-tool-output.test.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 1-87
+tests/cli/peers.test.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 61
+packages/gateway/src/coding-agents/codex-app-server-runner.mjs
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 1-2,342-343,394-395,790-793,823-826,835,1203,1208
+tests/contracts/sync.test.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 1-34
+.specify/feature.json
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 2
+packages/sync-client/tests/unit/r2-client.test.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 8,11,29-42,60,85-106,131,133,154,199,218-223
+tests/gateway/scope-runtime-chat-adapter.test.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 46-78,100-102
+packages/platform/src/runtime-proxy-fetch.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 8-11,13
+scripts/spikes/collaboration/production-supervisor-acceptance.mjs
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 17-22,25,33,188,198,201-204,257-281,292-293,296-322,428-502,578-582,591-592,613-618,625,630,651-709,716-721,729-738,755-758,768-775,777,801-813,861,871-875,877-879,885
+specs/124-organization-collaboration/sol-runbook.md
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 1-47
+packages/gateway/src/chat/event-stream.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 1,89,178-179
+packages/gateway/src/collaboration/scope-runtime-broker.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 18-21,37-56,67-76,87-89,212,218-219,229-230,232-233,309-355
+packages/sync-client/src/cli/commands/sync.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 9-12,81-84,101-102,131-136,138-143,151,160
+packages/contracts/src/canonical-chat-tool-activities.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 1-98
+packages/contracts/src/index.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 67
+.github/workflows/collaboration-scope-runtime-acceptance.yml
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 293,295-302,305-309,323-333,363-364,367-406
+packages/platform/src/platform-token.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 36-50
+tests/cli/profile-auth.test.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 10,44-49,59-60
+tests/gateway/hermes-test-gateway.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 1-98
+tests/scope-runtime/worker.test.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 70-83
+packages/contracts/package.json
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 11,26-27
+distro/customer-vps/cloud-init.yaml
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 401,451
+tests/scope-runtime/failure.test.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 1-41
+tests/sync-client/daemon-ipc-v1.test.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 9,122,127-143
+tests/gateway/collaboration-chat-scope.test.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 21
+specs/066-file-sync/recovery-and-desktop-plan.md
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 1-336
+apps/menu-bar/Sources/MenuBarView.swift
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 21-26,46-51,66,79,195-204
+packages/gateway/src/sync/blob-publication.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 1-180
+packages/gateway/src/sync/db-impl.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 3-9,21,24,28-29,39,60,64,68-69,74,78,84,95-136,138,141-142,144-145
+packages/gateway/src/sync/manifest.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 2-3,5,36-62,68,73-79,83,88,92-97,99,105,162,164-166,171,174,176,202-210,212-213,217,223-225,232,241-242,244-249,251,256-268,273,302
+packages/scope-runtime/src/profile.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 2-5,8-10,78-83
+packages/sync-client/tests/unit/ipc-handler.test.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 75-78,86-94,105-108,119,132-149,184
+packages/sync-client/tests/unit/second-initial-pull.test.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 31-69,137,174,178-179
+tests/gateway/sync/db-impl.test.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 24-25,30-32,120-223
+distro/customer-vps/host-bin/matrix-r2-broker.mjs
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 44-50,66,101,105,247,249-252,254
+packages/gateway/src/chat/coding-provider-adapter.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 1-2,12,115-116,124,158-167,283,321,354,474,525
+specs/066-file-sync/recovery-tasks.md
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 1-72
+packages/gateway/src/sync/home-mirror.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 7,18,23-24,79,306-307,379,387,402,415,438-447,449,456-461,463-466,476,487,517-522,609,665,701-713,715,723,737,749-757,881
+apps/mobile/lib/canonical-chat-transcript.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 1,9-10,92,110
+distro/customer-vps/matrix-restore.sh
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 74,76-79
+packages/gateway/src/sync/path-validation.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 17-18,21-30,63-70
+packages/gateway/src/chat/hermes-provider-adapter.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 1,58,293,336,537,548-549,566-569
+packages/sync-client/src/cli/commands/login.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 14-17,108,122,148,251
+packages/sync-client/src/daemon/outgoing-retry.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 1-57
+shell/src/components/ToolCallGroup.tsx
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 11-12,19,44-51,53-55,72,74,78,83-89
+specs/124-organization-collaboration/tasks.md
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 1-223
+tests/gateway/collaboration-routes.test.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 1213-1278
+tests/gateway/sync/infrastructure.test.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 1-38
+tests/gateway/sync/manifest.test.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 36,45-46,48,72-84,98-104,118,122-126,129-130,132,160,164-168,170-174,176,182,187-197,199-200,212,216,218
+tests/platform/customer-vps-cloud-init.test.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 16-19,40,63,91,148,892-903
+tests/gateway/chat-coding-provider.test.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 1,355-401
+tests/scope-runtime/codex-execution.test.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 1-62
+apps/menu-bar/Sources/MatrixSyncApp.swift
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 25,30,34-35,44,55,84,88-89,92,97-104,108-115
+tests/shell/getting-started-popover.test.tsx
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 11,92-129,131,152-153,156
+packages/sync-client/tests/unit/sync-command-run.test.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 10,12,29,35,43-47,99-100,102,104,115-134,140-141
+packages/gateway/src/sync/routes.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 2,26-31,56,60,67-68,70,87,89-93,117-132,135,138,154-155,157,166-168,177-189,213-215,222-224,229-235,240,256-258,265-267,272-278,282,295-296,298,306-308,318,322,325,345-347,355-358,377-382,388-390,392,406-410,415-420,424-425,427,431,447,464,491-492,527-528,559-560,592-593
+shell/src/components/onboarding/GettingStartedPopover.tsx
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 23-24,27-80,188-191,194-219,359,362,367-377
+AGENTS.md
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 539
+apps/mobile/components/ChatToolActivity.tsx
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 1-37
+tests/scope-runtime/supervisor.test.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 23,48-88
+packages/contracts/src/sync.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 1-33
+packages/gateway/src/sync/sharing-db.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 12,17,55-56,61-63,67-101
+docs/dev/chat-tool-display.md
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 1-115
+tests/e2e/terminal-soft-grid.e2e.test.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 204-214,216-217
+desktop/src/renderer/src/features/work/work-rail/WorkRailHeader.tsx
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 1,6-7,13-14,20-21,25-35,40
+tests/desktop/conversation-tool-detail.test.tsx
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 184-192
+packages/sync-client/tests/unit/sync-activity.test.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 1-47
+packages/gateway/src/sync/commit.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 10-11,13-17,21,25,34,38-43,46-50,59-85,101,119,121,143
+packages/gateway/src/sync/platform-r2-client.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 2,17-18,20-22,32-35,137,142-146,148-149
+packages/sync-client/src/daemon/live-status.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 1-56
+tests/desktop/chat-tool-output-parity.test.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 1-34
+tests/e2e/collaboration-project.spec.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 170-316
+tests/gateway/collaboration-chat-queue.test.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 162-252
+packages/gateway/src/chat/queue-repository.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 122-123,335-336,757-760,790-796,844,1044-1045,1259-1270,1284-1287
+tests/gateway/protected-tool-output-persistence.test.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 1-107
+tests/gateway/sync/presign.test.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 4,30,52,54,60-72
+packages/sync-client/src/daemon/index.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 12-15,29,33-35,913,969,997,1061,1072-1077,1081,1151-1152,1156,1222-1223,1226-1233,1239,1241-1245,1284-1287,1311-1316,1321-1325,1328-1329,1356-1358,1360-1361,1376-1383,1387,1392,1406-1411,1417,1449-1450,1452,1475-1476,1478,1495-1505,1510,1515-1526,1529-1533,1588-1641,1645
+packages/gateway/src/sync/presign.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 3-5,15-16,30,42,47-49,51,63,65,73-80,103,111
+packages/gateway/src/coding-agents/protected-tool-output.d.mts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 1-6
+tests/shell/tool-call-details.test.tsx
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 1-14
+packages/gateway/src/sync/types.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 13,101,111,113,123,125,138,140,154-162,167,170
+tests/gateway/sync/platform-r2-client.test.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 58-81
+packages/contracts/src/canonical-chat-tool-details.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 1-17
+scripts/spikes/collaboration/README.md
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 105-154
+tests/platform/runtime-proxy-stream.test.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 5-14
+tests/gateway/codex-tool-output.test.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 1-38
+tests/gateway/sync/home-mirror.test.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 18-29,51-60,77,80,82-88,886,909,918-920,1092,1106,1113-1115,1117,1119-1120,1124,1128,1149-1151,1156,1159,1176-1178,1191-1193,1228,1248-1250,1252-1253,1267,1272-1273,1284-1294,1323-1330,1337,1348-1350,1375,1438,1446,1462,1472,1480,1496
+packages/platform/src/internal-sync-routes.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 2-6,14,83,94-95,98,101-107,122-127,131-133,138,143-144,291-294,306-336,339-340,345,348-349,352,383-386,403-406,421-424,437,453,470,489
+apps/mobile/__tests__/home-screen.test.tsx
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 63-75
+packages/sync-client/tests/unit/live-status.test.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 1-20
+packages/scope-runtime/src/failure.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 1-18
+tests/gateway/sync/runtime-scope.test.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 2-36
+packages/gateway/src/sync/r2-keys.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 1-3,7-19,26-54
+packages/gateway/src/collaboration/codex-owner-identity.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 1-234
+desktop/src/renderer/src/features/chat/canonical-chat-presentation.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 1,400,462,485
+packages/platform/src/customer-vps.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 2
+tests/gateway/codex-tool-display-contract.test.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 1-46
+packages/sync-client/src/daemon/sync-activity.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 1-39
+packages/gateway/src/collaboration/chat-scope.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 423
+packages/platform/src/customer-vps-host-config.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 1-98
+tests/gateway/sync/blob-publication.test.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 1-234
+desktop/src/renderer/src/features/coding-agents/ToolChip.tsx
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 1-78
+packages/platform/src/customer-vps-cloud-init.ts
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 16,37
+specs/124-organization-collaboration/research.md
+  s_4d657b2ab3ef2a::t_353a2b78a23bfc 1-83
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "c8fee12583dc65280db87c0a0419850e388b5268",
+  "prompts": {},
+  "sessions": {
+    "s_4d657b2ab3ef2a": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f3ff6fc19ffeQqj21L477YXL43",
+        "model": "unknown"
+      },
+      "human_author": "Sundaram Kumar Jha <jhasundaram@outlook.com>"
+    }
+  }
+}
