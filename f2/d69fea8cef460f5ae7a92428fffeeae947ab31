@@ -1,0 +1,19 @@
+packages/gateway/src/sync/infrastructure.ts
+  s_4d657b2ab3ef2a::t_409654649bbe68 2
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "f2d69fea8cef460f5ae7a92428fffeeae947ab31",
+  "prompts": {},
+  "sessions": {
+    "s_4d657b2ab3ef2a": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f3ff6fc19ffeQqj21L477YXL43",
+        "model": "unknown"
+      },
+      "human_author": "Sundaram Kumar Jha <jhasundaram@outlook.com>"
+    }
+  }
+}
