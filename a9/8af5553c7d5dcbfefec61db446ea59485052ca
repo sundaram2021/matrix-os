@@ -1,0 +1,19 @@
+packages/gateway/src/server.ts
+  s_4d657b2ab3ef2a::t_e11b6b2a858396 3155
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "a98af5553c7d5dcbfefec61db446ea59485052ca",
+  "prompts": {},
+  "sessions": {
+    "s_4d657b2ab3ef2a": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f3ff6fc19ffeQqj21L477YXL43",
+        "model": "unknown"
+      },
+      "human_author": null
+    }
+  }
+}
