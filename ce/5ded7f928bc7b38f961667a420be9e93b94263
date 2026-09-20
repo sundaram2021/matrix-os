@@ -1,0 +1,27 @@
+packages/platform/src/billing-route-helpers.ts
+  s_63e0bb7599ea02::t_811c92e914f2c4 1-330
+packages/platform/src/billing-routes.ts
+  s_63e0bb7599ea02::t_811c92e914f2c4 1-7,10-12,14-18,20-37,109-112,114-115,117-125,128-130,132-133
+packages/platform/src/billing-status-route.ts
+  s_63e0bb7599ea02::t_811c92e914f2c4 18
+packages/platform/src/billing-checkout-routes.ts
+  s_63e0bb7599ea02::t_811c92e914f2c4 1-602
+packages/platform/src/billing-stripe-webhook.ts
+  s_63e0bb7599ea02::t_811c92e914f2c4 1-757
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "ce5ded7f928bc7b38f961667a420be9e93b94263",
+  "prompts": {},
+  "sessions": {
+    "s_63e0bb7599ea02": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f5a25c02dffeH85VIE7O9KwVXK",
+        "model": "unknown"
+      },
+      "human_author": "Sundaram Kumar Jha <jhasundaram@outlook.com>"
+    }
+  }
+}
