@@ -16,6 +16,8 @@ packages/gateway/src/routes/conversations.ts
   s_63e0bb7599ea02::t_8acdb16138534c 1-65
 packages/gateway/src/server.ts
   s_63e0bb7599ea02::t_8acdb16138534c 217,320-327,2899-2905,3165-3168,3176,3179-3192,3195,3199-3200,3203-3207,3209-3213,3216-3219,3221-3230,3656-3657,3659-3663
+  s_4d657b2ab3ef2a::t_3c7a9277cf907d 3150-3158,3160-3162
+  s_4d657b2ab3ef2a::t_62d8062cd10712 3163,3177
 packages/gateway/src/routes/misc.ts
   s_63e0bb7599ea02::t_8acdb16138534c 1-129
 ---
@@ -25,6 +27,14 @@ packages/gateway/src/routes/misc.ts
   "base_commit_sha": "54a58164b307df0f7a32ee8d5a5994e23d356d0c",
   "prompts": {},
   "sessions": {
+    "s_4d657b2ab3ef2a": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f3ff6fc19ffeQqj21L477YXL43",
+        "model": "unknown"
+      },
+      "human_author": "Sundaram Kumar Jha <jhasundaram@outlook.com>"
+    },
     "s_63e0bb7599ea02": {
       "agent_id": {
         "tool": "opencode",
