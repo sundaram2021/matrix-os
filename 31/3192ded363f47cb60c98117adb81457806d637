@@ -1,0 +1,25 @@
+tests/e2e/desktop/terminal-clipboard.e2e.test.ts
+  s_4d657b2ab3ef2a::t_6b64cc49b5118b 345-349
+  s_4d657b2ab3ef2a::t_fe2abecce20d02 739-742,748
+  s_4d657b2ab3ef2a::t_242edd965f98eb 543-556
+  s_4d657b2ab3ef2a::t_dcea43de935176 624-627
+  s_4d657b2ab3ef2a::t_5ecb3c081d3a55 668
+  s_4d657b2ab3ef2a::t_bead8ef3842326 417-442
+  s_4d657b2ab3ef2a::t_2e19a889702a45 449-454
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "313192ded363f47cb60c98117adb81457806d637",
+  "prompts": {},
+  "sessions": {
+    "s_4d657b2ab3ef2a": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f3ff6fc19ffeQqj21L477YXL43",
+        "model": "unknown"
+      },
+      "human_author": "Sundaram Kumar Jha <jhasundaram@outlook.com>"
+    }
+  }
+}
