@@ -1,0 +1,63 @@
+tests/shell/apps-api.test.ts
+  s_4d657b2ab3ef2a::t_e11bf54b81cd5d 3
+tests/platform/stats-collector.test.ts
+  s_4d657b2ab3ef2a::t_a09cadc59864e2 8
+packages/gateway/src/domains/observability/system-info.ts
+  s_4d657b2ab3ef2a::t_7960121aa78e06 413-416,418-419
+  s_4d657b2ab3ef2a::t_d1315b9e2988a7 102-115,118-128,188
+  s_4d657b2ab3ef2a::t_ad6897ddac324b 116-117
+  s_4d657b2ab3ef2a::t_535d96fe347a6c 11,178-180,182-187
+  s_4d657b2ab3ef2a::t_42565ba3d1e472 176-177,181
+tests/platform/api.test.ts
+  s_4d657b2ab3ef2a::t_d86c3030b4dbd8 14
+scripts/review/check-patterns.sh
+  s_4d657b2ab3ef2a::t_f5f9e9fe471176 229
+  s_4d657b2ab3ef2a::t_188c2d58e5011f 196
+tests/platform/metrics.test.ts
+  s_4d657b2ab3ef2a::t_fe7cff6c39b119 15
+tests/proxy/auth.test.ts
+  s_4d657b2ab3ef2a::t_6751a32211d4a9 7
+packages/gateway/src/domains/sessions/agent-launcher.ts
+  s_4d657b2ab3ef2a::t_1fe1cff96512c1 83-85
+tests/shell/terminal-debug.test.ts
+  s_4d657b2ab3ef2a::t_6fa19f2f57e16e 4
+tests/gateway/background-agent-runtime.test.ts
+  s_4d657b2ab3ef2a::t_0a388bc36b9dfd 5,41
+  s_4d657b2ab3ef2a::t_decaca20b99d2a 2,37-40,42
+tests/gateway/coding-agents-codex-runtime.test.ts
+  s_4d657b2ab3ef2a::t_cd90c2a6e71571 5,80-81
+  s_4d657b2ab3ef2a::t_2b7748d85e7875 2,82-84
+tests/platform/social.test.ts
+  s_4d657b2ab3ef2a::t_dec8532814d134 4
+packages/gateway/src/domains/sessions/background-agent-runtime.ts
+  s_4d657b2ab3ef2a::t_c67b04e06ea839 4,77
+  s_4d657b2ab3ef2a::t_f34f57466c52e7 28-30
+tests/proxy/metrics.test.ts
+  s_4d657b2ab3ef2a::t_d72b5b3797d0c4 7
+tests/platform/customer-vps-telemetry.test.ts
+  s_4d657b2ab3ef2a::t_7a8e849421342b 9
+tests/proxy/funded-relay.test.ts
+  s_4d657b2ab3ef2a::t_1aabfa920d1882 4
+tests/kernel/approval.test.ts
+  s_4d657b2ab3ef2a::t_3387bf94463799 6
+tests/gateway/system-info.test.ts
+  s_4d657b2ab3ef2a::t_5a48bc0bc46eaa 610
+  s_4d657b2ab3ef2a::t_8ea896487e283b 611-619,643-644
+  s_4d657b2ab3ef2a::t_c2543cb8888b60 2,628-642
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "ccf523596eeb332a3a577e9e96db8ca6cdcc05f8",
+  "prompts": {},
+  "sessions": {
+    "s_4d657b2ab3ef2a": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f3ff6fc19ffeQqj21L477YXL43",
+        "model": "unknown"
+      },
+      "human_author": "Sundaram Kumar Jha <jhasundaram@outlook.com>"
+    }
+  }
+}
