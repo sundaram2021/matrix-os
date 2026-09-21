@@ -1,0 +1,63 @@
+packages/gateway/src/domains/observability/system-info.ts
+  s_1371486a2c8eba::t_0996cc46e1de45 2,377,464-467
+.github/workflows/platform-cloud-run.yml
+  s_1371486a2c8eba::t_cb095e4f553279 740
+packages/gateway/src/collaboration/config.ts
+  s_1371486a2c8eba::t_f8af3e53f259ce 1-108
+packages/gateway/src/collaboration/construct.ts
+  s_1371486a2c8eba::t_bd09d00ed84e60 1-39
+packages/gateway/src/collaboration/fail-closed.ts
+  s_1371486a2c8eba::t_e880fc9bb56068 1-75
+packages/gateway/src/collaboration/wiring.ts
+  s_1371486a2c8eba::t_db4e1281546bbc 2,51-59,343-379
+packages/gateway/src/server.ts
+  s_1371486a2c8eba::t_25b2c7a8778460 187,189,191,193-194,877-884,906-910,926-928,930-944,946-949,951-954,956-969,971-984,1115-1116,1118-1132,3494-3502
+packages/gateway/src/startup/owner-database-fallback.ts
+  s_1371486a2c8eba::t_63a796de8ed1d9 1-102
+packages/platform/src/collaboration/bootstrap.ts
+  s_1371486a2c8eba::t_e05d5db8835b7c 13,16-17,30-35,38-40,42,44
+packages/platform/src/collaboration/fail-closed.ts
+  s_1371486a2c8eba::t_9bb8fc9f03609d 1-79
+packages/platform/src/collaboration/wiring.ts
+  s_1371486a2c8eba::t_213b51aa2ab68d 9-11,23-27,29-35,39-41,45-47,55,58,60-62,65-68,71,189-190
+packages/platform/src/main.ts
+  s_1371486a2c8eba::t_dd30f5547752dd 132,258
+packages/platform/src/platform-startup.ts
+  s_1371486a2c8eba::t_bae0619a170df0 64,205
+tests/gateway/collaboration-fence.test.ts
+  s_1371486a2c8eba::t_38a711c3fdbb4f 1-107
+tests/gateway/collaboration-org-precondition.test.ts
+  s_1371486a2c8eba::t_469e899c061472 1-177
+tests/gateway/collaboration-wiring.test.ts
+  s_1371486a2c8eba::t_283004a558b719 41
+tests/gateway/owner-database-fallback.test.ts
+  s_1371486a2c8eba::t_1cd045cf3daa78 1-77
+tests/gateway/system-info.test.ts
+  s_1371486a2c8eba::t_3fc138343782ff 16,18-23,26,29-30,33-42,44,46-50
+tests/platform/collaboration-bootstrap.test.ts
+  s_1371486a2c8eba::t_13a6318a356459 2,32-34,39-47,50-51,57-58,72-74
+tests/platform/collaboration-deployment.test.ts
+  s_1371486a2c8eba::t_f7f24ead5cb8b1 8,12,24
+tests/platform/collaboration-org-precondition.test.ts
+  s_1371486a2c8eba::t_231d2510f5ac03 1-97
+tests/platform/collaboration-wiring.test.ts
+  s_1371486a2c8eba::t_99c291aadc6113 28
+tests/platform/customer-vps-cloud-init.test.ts
+  s_1371486a2c8eba::t_cc7abd2e228fcf 229,412
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "220f0e1c3074a519a5c0187ac7c5e8fed1d93b13",
+  "prompts": {},
+  "sessions": {
+    "s_1371486a2c8eba": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f3ccb4884ffepkYmSaMEnGsOmZ",
+        "model": "unknown"
+      },
+      "human_author": "Sundaram Kumar Jha <jhasundaram@outlook.com>"
+    }
+  }
+}
