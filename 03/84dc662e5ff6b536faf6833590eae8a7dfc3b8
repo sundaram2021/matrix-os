@@ -1,0 +1,777 @@
+shell/src/components/ChatApp.tsx
+  s_1371486a2c8eba::t_b5c11901b4e345 55,81,475,534,548-551,554,556-569,579-581
+distro/customer-vps/host-bin/matrix-symphony
+  s_1371486a2c8eba::t_b5c11901b4e345 35-59
+packages/gateway/src/chat/provider-catalog.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 7,39-40,105,556-557,559,566-569,645,652,768-770,779-781,824,836,844,855-858
+tests/gateway/provider-settings-connect-enable.test.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 1-85
+tests/integrations/symphony-routes.test.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 1-73
+tests/e2e/desktop/provider-auth-terminal.e2e.test.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 51,61,71,73,76-79
+packages/gateway/src/collaboration/shared-ai-runtime.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 3,16-19,23,28-29,37-38,40,42,106-107,286-312,407-521,625,629
+distro/customer-vps/cloud-init.yaml
+  s_1371486a2c8eba::t_b5c11901b4e345 92,391,572,716,724
+packages/gateway/src/collaboration/wiring.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 7-8,219-220,238-239
+packages/ui/src/compact-chat-provider-choices.tsx
+  s_1371486a2c8eba::t_b5c11901b4e345 1-61
+tests/desktop/provider-setup-routing.test.tsx
+  s_1371486a2c8eba::t_b5c11901b4e345 55,111-120
+tests/desktop/provider-driver-glyph.test.tsx
+  s_1371486a2c8eba::t_b5c11901b4e345 1-29
+packages/gateway/src/ai-providers/generic-harness-model-catalog.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 1-10,12-331
+  s_1371486a2c8eba::t_5f78096d9df42d 11
+tests/gateway/managed-chat-catalog.test.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 1-46
+tests/gateway/managed-glm-default.test.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 1-77
+tests/gateway/settings-agent-summary.test.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 294-308,335,370-371
+tests/proxy/funded-relay-glm.test.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 1-128
+tests/desktop/desktop-support-widget.test.tsx
+  s_1371486a2c8eba::t_b5c11901b4e345 12,139,371-372
+tests/shell/mobile-shell.test.tsx
+  s_1371486a2c8eba::t_b5c11901b4e345 51,55,61,149-158,283-299
+packages/platform/src/main.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 1,639,642-643,656-671
+packages/symphony-elixir/README.md
+  s_1371486a2c8eba::t_b5c11901b4e345 5,8-9
+tests/gateway/chat-message-purpose-compatibility.test.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 1-128
+docs/dev/preview-environments.md
+  s_1371486a2c8eba::t_b5c11901b4e345 49-62
+packages/symphony-elixir/lib/symphony_elixir/linear/adapter.ex
+  s_1371486a2c8eba::t_b5c11901b4e345 14,41-127,135-136,140-141,172-175
+packages/terminal-runtime/package.json
+  s_1371486a2c8eba::t_b5c11901b4e345 7-31
+packages/ui/src/agents-providers/AddHarnessDialog.tsx
+  s_1371486a2c8eba::t_b5c11901b4e345 1,3,5,11-20,23,25,27-30,32-66,69-82,85-98,102-115,117-129,132-149,151-154
+packages/gateway/src/collaboration/chat-execution-adapter.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 3-4,19-20,27-30,43-51,68,111-117,146-148,238-298,328-329
+tests/desktop/provider-settings-adapter.test.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 138,156
+tests/e2e/terminal-viewer-scroll.e2e.test.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 31
+packages/platform/src/database/migrations/billing.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 1-229
+tests/gateway/managed-harness-process-config.test.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 1-41
+tests/desktop/apps-store.test.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 35-67
+desktop/src/renderer/src/features/apps/apps.api.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 15,19,53-55,62
+packages/ui/src/canonical-chat-error-copy.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 1-2
+tests/e2e/terminal-soft-grid.e2e.test.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 219-231
+packages/gateway/src/collaboration/project-routes.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 1-86
+packages/gateway/src/collaboration/routes.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 1-2,4-18,30-34
+packages/gateway/src/domains/apps/shell-bootstrap.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 1-3,44-45,49,52,54,56-57,59-65
+  s_1371486a2c8eba::t_b235abde15de65 4
+shell/src/lib/canonical-chat-client.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 40,112-140,142,147,153-157
+desktop/src/renderer/src/features/desktop-shell/NativeDesktopShell.tsx
+  s_1371486a2c8eba::t_b5c11901b4e345 286
+packages/gateway/src/collaboration/repository-types.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 1-162
+tests/desktop/chat-claude-quota-transcript.test.tsx
+  s_1371486a2c8eba::t_b5c11901b4e345 49
+tests/gateway/provider-settings-runtime-wiring.test.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 94,114,119-126,136-139,172
+packages/gateway/src/domains/apps/icon-routes.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 6-10,41-45,48-49
+  s_1371486a2c8eba::t_1712edaea70289 11
+tests/gateway/provider-settings-store.test.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 22,29-60,164,183-188,203-207,220-221,236-237,241-555,564,645-708,972,1000,1032,1064,1092,1150,1170,1209,1214
+tests/gateway/shared-ai-eligibility.test.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 1-80
+packages/gateway/src/integrations/registry.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 1,223
+specs/118-ai-gateway-provider-auth/quickstart.md
+  s_1371486a2c8eba::t_b5c11901b4e345 54,56,63,73-74,85-90,115-119,121-123,126-151,207
+desktop/src/renderer/src/features/desktop-shell/DesktopModeControls.tsx
+  s_1371486a2c8eba::t_b5c11901b4e345 7,9-18,22-23,26-54
+packages/platform/src/database/migrate.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 1-45
+packages/symphony-elixir/WORKFLOW.md
+  s_1371486a2c8eba::t_b5c11901b4e345 18,77,79-87
+packages/platform/src/database/migrations/ai-funded.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 1-328
+tests/gateway/coding-agent-harness-credentials.test.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 75-89,182-215
+.github/workflows/release.yml
+  s_1371486a2c8eba::t_b5c11901b4e345 234
+tests/cli/package-runner.test.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 15-29
+packages/gateway/src/integrations/routes.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 1,53-65,793-796,875-878,889-898,906-909
+distro/docker-dev-entrypoint.sh
+  s_1371486a2c8eba::t_b5c11901b4e345 4-29,59-60,202-203,365
+packages/gateway/src/ai-providers/provider-generic-harness-coordinator.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 6,214
+packages/proxy/src/funded-relay-request.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 54,71,100-111,129,152
+cloudbuild.ai-relay.yaml
+  s_1371486a2c8eba::t_b5c11901b4e345 1-25
+shell/e2e/shared-chat.spec.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 18,26-38,65-69,323-345
+tests/gateway/coding-agents-turns.test.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 3-6,94-114
+tests/platform/custom-mcp-deployment.test.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 14,18-19
+tests/gateway/chat-provider-catalog.test.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 27,301-436,471-517,541,580-583,968-980,1711-1727
+tests/gateway/chat-repository.test.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 2495
+tests/shell/canonical-chat-run-failure.test.tsx
+  s_1371486a2c8eba::t_b5c11901b4e345 1-64
+desktop/src/renderer/src/features/chat/canonical-composer-state.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 7,78
+packages/symphony-elixir/lib/symphony_elixir/config/schema.ex
+  s_1371486a2c8eba::t_b5c11901b4e345 54-57,126-131,208-210,353,359-372,376,380,396-400,407-408,450-451
+packages/symphony-elixir/test/linear_client_test.exs
+  s_1371486a2c8eba::t_b5c11901b4e345 1-243
+packages/gateway/src/ai-providers/provider-settings-persistence.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 137-142,145-155,157-161,165-278,285,289-291,306,308,318-322
+packages/platform/src/database/checkout-attempts.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 1-484
+packages/platform/src/database/migrations/user-machines.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 1-92
+.github/workflows/ci.yml
+  s_1371486a2c8eba::t_b5c11901b4e345 683-704,707,722,746,754
+packages/ui/src/index.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 34,41,55-57,139
+tests/desktop/shared-chat-composer.test.tsx
+  s_1371486a2c8eba::t_b5c11901b4e345 17-18,250,260,270-271,275-284,414,472-473,510-511,526-527,537,541,544,547-551,559-560,566,576-577,907
+tests/e2e/desktop/provider-auth-gateway.e2e.test.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 1-73
+tests/integration/collaboration-provider-boundaries.integration.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 1-405
+tests/platform/ai-funded-policy-routes.test.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 14,86-93,105-106,114,120-144,302-315,359-373,377-411,420-469,739-749
+docs/dev/provider-settings-parity.md
+  s_1371486a2c8eba::t_b5c11901b4e345 101-121,213-225,231-235,241-271,290-295,311-316,320-329,397-470
+packages/ui/src/agents-providers/HarnessRail.tsx
+  s_1371486a2c8eba::t_b5c11901b4e345 1-4,6-22,24-33,36,38,41,43-44,47-66,68-83
+tests/shell/agent-settings.test.tsx
+  s_1371486a2c8eba::t_b5c11901b4e345 377,400-402,440-441,487-489
+packages/sync-client/src/cli/commands/collaboration.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 22
+packages/symphony-elixir/lib/symphony_elixir/codex/dynamic_tool.ex
+  s_1371486a2c8eba::t_b5c11901b4e345 6-7,55-57,76-99,111-114,117-132,148,150-151,153,183-198,207-208,212-216,332-333,349-350
+distro/customer-vps/systemd/matrix-gateway.service
+  s_1371486a2c8eba::t_b5c11901b4e345 14
+scripts/install-agent-matrix-skills.sh
+  s_1371486a2c8eba::t_b5c11901b4e345 36
+desktop/src/renderer/src/features/embeds/AppLauncher.tsx
+  s_1371486a2c8eba::t_b5c11901b4e345 159,185,350
+packages/platform/src/billing/checkout-schemas.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 1-75
+packages/platform/src/ai-funded-metering-repository.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 1-3,72,160-166,174-188,205-210,216-282,410,421-423,473-491,493-494,497-499,522,553-554,579,602-607,704-709,724,727-728,770,790,803,825-829,946
+packages/ui/src/agents-providers/ConnectionChoices.tsx
+  s_1371486a2c8eba::t_b5c11901b4e345 1-65
+shell/src/api/apps.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 4,23-25,40-43,47-60
+shell/src/lib/provider-settings-transport.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 5-6,10,12-13,26,110-111,127,143-185
+packages/platform/src/database/migrations/provisioning-jobs.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 1-39
+specs/124-organization-collaboration/spec.md
+  s_1371486a2c8eba::t_b5c11901b4e345 10,16-26,29-30,35,49-50,79,98,120,138,149,151,155,157
+packages/proxy/src/funded-relay-platform-client.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 63
+specs/118-ai-gateway-provider-auth/feedback-repair-plan.md
+  s_1371486a2c8eba::t_b5c11901b4e345 1-81
+tests/gateway/collaboration-routes.test.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 28,124-127,300,1054,1132,1217-1219,1660
+packages/gateway/src/domains/apps/apps.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 16,23-29,34-40,55-98
+  s_1371486a2c8eba::t_e4162394ac8681 7
+tests/desktop/canonical-chat-submit-error.test.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 22-27
+packages/platform/src/database/migrations/provider-deletion.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 1-43
+.github/workflows/ai-relay-cloud-run.yml
+  s_1371486a2c8eba::t_b5c11901b4e345 1-209
+packages/gateway/src/ai-providers/provider-settings-store.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 40,54,69,84,99,125,165-166,168-175,185,231,236-248
+tests/gateway/funded-ai-credential-manager.test.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 91-103
+packages/gateway/src/collaboration/lifecycle-repository.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 1-181
+tests/scripts/self-host-installer.test.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 32
+packages/platform/src/database/migrations/directory-and-social.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 1-139
+tests/platform/customer-vps-cloud-init.test.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 227,338,344,347,402,946
+packages/gateway/src/chat/configured-harness-catalog.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 1-72
+packages/contracts/src/provider-settings.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 197-199,218-225,264,284-288,370-371,456-458,472-477,496-499,507,510,535,638,642-644,649,654-697
+packages/platform/src/billing/stripe-client.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 1-91
+desktop/src/renderer/src/features/coding-agents/provider-setup-terminal.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 13,116-125
+tests/gateway/provider-settings-routes.test.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 5,112-134,141-151
+packages/contracts/src/collaboration.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 545-547
+packages/proxy/src/funded-relay-workers-response.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 1-93
+specs/118-ai-gateway-provider-auth/spec.md
+  s_1371486a2c8eba::t_b5c11901b4e345 165,188,211-212,222,224,229,232
+tests/desktop/agents-providers-adapter.test.tsx
+  s_1371486a2c8eba::t_b5c11901b4e345 21,50,95-127
+desktop/src/renderer/src/features/palette/CommandPalette.tsx
+  s_1371486a2c8eba::t_b5c11901b4e345 471
+tests/desktop/claude-model-picker.test.tsx
+  s_1371486a2c8eba::t_b5c11901b4e345 8,38-40
+desktop/src/renderer/src/stores/shell-sessions.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 71-77
+packages/platform/src/platform-startup.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 320
+packages/contracts/src/canonical-chat-content.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 4,57-85,96-98,101-104
+packages/ui/src/agents-providers/GatewayPanel.tsx
+  s_1371486a2c8eba::t_b5c11901b4e345 5-16,29-36,38,52-59,72-76,90,108,111-112,115,119-126,134-138,140-144,161-163,165-167,178,187,192-195,199,224-228,230,235
+packages/ui/src/canonical-provider-choice.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 12,24-45,95,104
+tests/shell/canonical-chat-terminal-parity.test.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 22-28
+packages/symphony-elixir/lib/symphony_elixir_web/presenter.ex
+  s_1371486a2c8eba::t_b5c11901b4e345 24-25
+tests/proxy/funded-relay-workers-stream.test.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 1-44
+distro/customer-vps/host-bin/matrix-sync-agent-recovery
+  s_1371486a2c8eba::t_b5c11901b4e345 173
+specs/118-ai-gateway-provider-auth/stack-refresh-2026-09-05.md
+  s_1371486a2c8eba::t_b5c11901b4e345 1-67
+tests/platform/golden-snapshot-repository.test.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 1901
+tests/desktop/draft-chat-replaces-selection.test.tsx
+  s_1371486a2c8eba::t_b5c11901b4e345 390-392
+.github/workflows/preview-platform.yml
+  s_1371486a2c8eba::t_b5c11901b4e345 87-89,116-134,149-174,239-244,259-260
+packages/gateway/src/collaboration/scope-routes.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 1-275
+packages/gateway/src/chat/message-purpose.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 1-29
+desktop/src/renderer/src/features/settings/provider-settings-desktop-adapter.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 9,11,65,69,71,90,122-138
+packages/proxy/src/funded-relay-openai-usage.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 1-95
+packages/gateway/src/collaboration/chat-routes.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 1-150
+tests/platform/ai-funded-usage-postgres.test.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 1-157
+specs/121-collaboration-session-sharing/spec.md
+  s_1371486a2c8eba::t_b5c11901b4e345 312,325-326
+packages/gateway/src/integrations/symphony-linear.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 1-242
+shell/src/components/chat-app-provider-setup.tsx
+  s_1371486a2c8eba::t_b5c11901b4e345 3,13-14,20,102,113-115,123-124,126,139,146-147,149-150,154-155,165-166,188,271,288,290-299,301-309,311-323,348,350-352,399
+packages/contracts/src/canonical-chat-provider.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 145-146
+Dockerfile.ai-relay
+  s_1371486a2c8eba::t_b5c11901b4e345 1-55
+packages/gateway/src/ai-providers/provider-settings-mutations.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 2,26-35,63,117-124,133,144,185-186,190
+tests/shell/canonical-chat-client.test.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 4-5,48-81
+packages/gateway/src/ai-providers/provider-settings-enrichment.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 1-6,8-54
+  s_1371486a2c8eba::t_95745ed392dc37 7
+tests/gateway/collaboration-chat-controls.test.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 8,602
+packages/gateway/src/chat/managed-chat-catalog.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 1-58
+AGENTS.md
+  s_1371486a2c8eba::t_b5c11901b4e345 237,243-245
+specs/118-ai-gateway-provider-auth/plan.md
+  s_1371486a2c8eba::t_b5c11901b4e345 10,16-21,27,33
+packages/gateway/src/funded-ai-readiness.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 1,3-86
+  s_1371486a2c8eba::t_f533773362cd57 2
+tests/desktop/canonical-chat-composer-preferences.test.tsx
+  s_1371486a2c8eba::t_b5c11901b4e345 146-148
+tests/distro/terminal-runtime-service.test.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 2-3,6-7,61-114
+.github/workflows/platform-cloud-run.yml
+  s_1371486a2c8eba::t_b5c11901b4e345 82-84,169-187,265-290,717-723,741-742
+packages/ui/src/terminal/terminal-grid-presentation.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 191,278
+packages/gateway/src/ai-providers/service.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 18,21,50,114-156,165,183,189,278-295,302-308,315-317,347-355,379-385,388,391-392,423-439,459
+specs/124-organization-collaboration/evidence/S01-receipt.md
+  s_1371486a2c8eba::t_b5c11901b4e345 1-64
+tests/gateway/ai-provider-service.test.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 4,10,54-57,66-98,117-122,145-181
+tests/gateway/collaboration-chat-scope.test.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 11,18
+tests/shell/provider-setup-catalog-negotiation.test.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 1-22
+apps/mobile/app/(drawer)/shared.tsx
+  s_1371486a2c8eba::t_b5c11901b4e345 68,99-105,109,114-123,258,346,354,568
+tests/gateway/opencode-provider.test.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 163-169,176-178,189,200,202-203,316-319,1003-1013
+tests/shell/agent-runtime-panel-provider-state.test.tsx
+  s_1371486a2c8eba::t_b5c11901b4e345 25
+packages/proxy/src/funded-relay-config.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 25-26,159-167,174-175
+packages/gateway/src/collaboration/route-support.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 1-526
+tests/contracts/canonical-chat-provider.test.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 5
+tests/e2e/desktop/fixtures/provider-auth-gateway.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 5-83,91-152,158,199-210
+tests/gateway/shared-ai-runtime.test.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 1,4,9-10,14-271,277
+packages/platform/src/database/user-machine-records.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 1-182
+tests/proxy/funded-relay.test.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 17-26,140-145,187-188,207-214,216,259-267,274-277,283-293,295,297,306,310-335,415-444,698
+packages/symphony-elixir/lib/symphony_elixir/polling_policy.ex
+  s_1371486a2c8eba::t_b5c11901b4e345 2,4,6-8,11-32
+tests/platform/custom-mcp-preview.test.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 17-18
+tests/ui/canonical-provider-choice.test.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 7,60-74
+desktop/src/renderer/src/features/chat/chat-provider-catalog.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 27
+packages/ui/src/collaboration/SharedChatControls.tsx
+  s_1371486a2c8eba::t_b5c11901b4e345 12,23-24,97-99,163,169,247,253-257,260-261,274-280
+packages/gateway/src/coding-agents/pi-process-environment.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 20,28-30,32,58-76
+packages/gateway/src/collaboration/database-migrations.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 1-433
+shell/next-env.d.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 3
+apps/mobile/__tests__/shared-screen.test.tsx
+  s_1371486a2c8eba::t_b5c11901b4e345 128,137,312,317,399-467,507
+packages/gateway/src/domains/integrations/funded-ai-credential-manager.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 112-115
+packages/platform/src/ai-funded-metering-helpers.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 1-170
+packages/symphony-elixir/test/test_helper.exs
+  s_1371486a2c8eba::t_b5c11901b4e345 1
+packages/contracts/src/primitives.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 9
+scripts/smoke-zellij-session-config.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 1,48-52
+packages/sync-client/scripts/validate-package-runners.mjs
+  s_1371486a2c8eba::t_b5c11901b4e345 63-64,68-69,77-78
+packages/gateway/src/chat/native-coding-model-catalog.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 6,149
+docs/dev/symphony-polling-rollout.md
+  s_1371486a2c8eba::t_b5c11901b4e345 1-120
+packages/gateway/src/chat/database.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 4,63,352
+packages/gateway/src/ai-providers/model-catalog.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 9-10,19,33,48,64-89
+desktop/src/renderer/src/features/settings/SettingsView.tsx
+  s_1371486a2c8eba::t_b5c11901b4e345 18,149
+packages/gateway/src/chat/provider-routes.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 18-21,23,26,28-34
+specs/118-ai-gateway-provider-auth/cloudflare-usage-plan.md
+  s_1371486a2c8eba::t_b5c11901b4e345 1-101
+packages/gateway/src/coding-agents/harness-credentials.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 2,79-83,85-86,97,99-102
+packages/gateway/src/icon-metadata.ts
+  s_1371486a2c8eba::t_c0a859fe338de5 3
+  s_1371486a2c8eba::t_b5c11901b4e345 1-2,4-54
+packages/platform/src/customer-vps-host-config.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 17
+tests/contracts/ai-provider.test.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 51
+packages/gateway/src/chat/codex-model-catalog.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 192-194
+shell/src/components/settings/sections/AgentRuntimePanel.tsx
+  s_1371486a2c8eba::t_b5c11901b4e345 284-285,325-329,356
+packages/proxy/src/funded-relay-model.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 7,14,17-21,31-43,51,55-56,68,73-85,92,102-103,105,131,133-138
+apps/mobile/components/collaboration/shared-chat-composer-model.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 14-17
+packages/ui/src/compact-chat-provider-choices.css
+  s_1371486a2c8eba::t_b5c11901b4e345 1-29
+packages/platform/src/session-routing-proxy.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 34-37,40-57,60-67,70-74,77,80-82,86-99
+tests/desktop/canonical-chat-presentation.test.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 80,933,948
+packages/gateway/src/coding-agents/thread-store.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 271,1342
+distro/customer-vps/host-bin/matrix-symphony-control
+  s_1371486a2c8eba::t_b5c11901b4e345 105
+tests/gateway/apps.test.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 44-66
+packages/symphony-elixir/test/polling_safety_test.exs
+  s_1371486a2c8eba::t_b5c11901b4e345 1-152
+specs/118-ai-gateway-provider-auth/tasks.md
+  s_1371486a2c8eba::t_b5c11901b4e345 132
+tests/gateway/pi-provider.test.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 336,451-454,509
+packages/gateway/src/collaboration/grant-repository.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 1-481
+packages/platform/src/internal-integration-guard.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 1-76
+tests/platform/internal-integration-guard.test.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 1-36
+packages/gateway/src/collaboration/repository.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 7,13-16,18-33,40-60,66-67,84-88,241-257,259,263,270,277,285,293
+tests/gateway/collaboration-test-support.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 5-11,29-45
+tests/scripts/docker-dev-entrypoint.test.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 1-9,11,53-99
+specs/118-ai-gateway-provider-auth/setup-recovery-plan.md
+  s_1371486a2c8eba::t_b5c11901b4e345 1-57
+tests/shell/provider-settings-transport.test.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 101,123-130
+tests/platform/ci-workflows.test.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 276,285-286,290
+packages/platform/src/database/billing.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 1-365
+tests/platform/ai-funded-policy-repository.test.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 70-76
+tests/platform/session-routing.test.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 3-55
+packages/platform/src/database/json.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 1-12
+distro/customer-vps/host-bin/matrix-sync-agent
+  s_1371486a2c8eba::t_b5c11901b4e345 55-64,1256
+docs/architecture/agent-integrations.md
+  s_1371486a2c8eba::t_b5c11901b4e345 114
+specs/124-organization-collaboration/plan.md
+  s_1371486a2c8eba::t_b5c11901b4e345 71
+tests/gateway/provider-settings-test-support.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 4-5,18-48,86
+tests/platform/customer-vps-host-bundle.test.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 292
+packages/gateway/src/ai-providers/DOMAIN.md
+  s_1371486a2c8eba::t_b5c11901b4e345 7-11
+packages/symphony-elixir/.gitignore
+  s_1371486a2c8eba::t_b5c11901b4e345 1-3
+packages/ui/src/coding-agent-artwork.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 1-7
+tests/shell/provider-terminal-session.test.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 7,41-53,77-90
+packages/sync-client/package.json
+  s_1371486a2c8eba::t_b5c11901b4e345 47-49
+shell/src/hooks/useCanonicalChatState.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 31,445
+tests/ui/provider-setup-presentation.test.tsx
+  s_1371486a2c8eba::t_b5c11901b4e345 1-257
+tests/ui/shared-chat-controls.test.tsx
+  s_1371486a2c8eba::t_b5c11901b4e345 136-213
+packages/platform/src/repositories/migrate.ts
+  s_1371486a2c8eba::t_902b8b8a9f5053 8,1435-1439
+packages/platform/src/ai-funded-reservation-indexes.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 1-20
+tests/shell/agent-section.test.tsx
+  s_1371486a2c8eba::t_b5c11901b4e345 13,20,24,30,41,55-56,85-112
+packages/platform/src/database/migrations/checkout.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 1-105
+packages/platform/src/database/billing-records.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 1-231
+packages/proxy/src/funded-relay-usage.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 3-4,65
+specs/118-ai-gateway-provider-auth/sdk-verification.md
+  s_1371486a2c8eba::t_b5c11901b4e345 70-71
+tests/gateway/icon-routes.test.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 26-28,33-42
+tests/gateway/chat-coding-provider.test.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 8-10,13-16,588-661
+packages/gateway/src/collaboration/lifecycle-routes.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 1-111
+packages/gateway/src/chat/repository.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 84-85,121-122,1086
+distro/customer-vps/systemd/matrix-symphony.service
+  s_1371486a2c8eba::t_b5c11901b4e345 10-12,27
+specs/124-organization-collaboration/quickstart.md
+  s_1371486a2c8eba::t_b5c11901b4e345 7,40-43
+tests/gateway/shell-bootstrap.test.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 1,5-16,23,89-109
+packages/gateway/src/server.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 264,3249-3254,3280-3285,3293,3393-3394
+  s_1371486a2c8eba::t_82b74e63c97b2b 32-33
+shell/src/components/Desktop.tsx
+  s_1371486a2c8eba::t_b5c11901b4e345 61,460
+packages/platform/src/ai-funded-policy-errors.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 13-14
+tests/gateway/collaboration-chat-scope-postgres.test.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 7,16
+packages/platform/src/database/host-bundles.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 1-246
+tests/ui/agents-providers-view.test.tsx
+  s_1371486a2c8eba::t_b5c11901b4e345 3-5,7,24,283-528,537,540-543,547-552,575-577,584,588,598-602,608,614-615,620-634,646-647,652,654,656,662-663,665-668,674-677,680,683-684,712,720,722,736-738,758-760,864-866,873-898,901,911-914,923-931,937-938,940-942,947,955-956,958-959,961,963-1040,1042-1055,1057-1069,1074-1075,1077-1079,1083,1088,1095,1097-1098,1100-1104
+packages/symphony-elixir/lib/symphony_elixir/orchestrator.ex
+  s_1371486a2c8eba::t_b5c11901b4e345 41-42,68,236-241,256,259-262,287,804,811,1053-1054
+desktop/src/renderer/src/features/chat/use-provider-setup.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 33,40
+tests/desktop/native-desktop-shell.test.tsx
+  s_1371486a2c8eba::t_b5c11901b4e345 170-210
+packages/gateway/src/coding-agents/opencode-provider.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 28,30,40,153-156,170,179-183,385
+vitest.config.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 10-12,51
+tests/gateway/chat-catalog-wire-compatibility.test.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 1-36
+packages/platform/src/database/user-machine-lifecycle.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 1-325
+tests/gateway/funded-ai-readiness.test.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 1-139
+packages/gateway/package.json
+  s_1371486a2c8eba::t_b5c11901b4e345 15
+tests/ui/provider-setup-flow.test.tsx
+  s_1371486a2c8eba::t_b5c11901b4e345 1-359
+packages/gateway/src/ai-providers/provider-settings-routes.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 7,16-21,145-147,149,158-159,163-164
+tests/deploy/customer-vps/symphony-activation.test.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 1-46
+tests/integration/collaboration-direct-boundaries.integration.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 1-199
+desktop/src/renderer/src/features/settings/AgentsProvidersAdapter.tsx
+  s_1371486a2c8eba::t_b5c11901b4e345 13,150-156,158
+packages/symphony-elixir/lib/symphony_elixir/linear/client.ex
+  s_1371486a2c8eba::t_b5c11901b4e345 7,169-208,210-211,213-232,234-251,253-254,258-263,301-302,321-332,336-343,357-364,379-380,392-398,405-411,422-429,508-511,516-517,526-527,529-532,542-545,560-564,570-573,584-585,603-607
+tests/desktop/draft-chat-send.test.tsx
+  s_1371486a2c8eba::t_b5c11901b4e345 4,367-374
+tests/shell/canonical-chat-state.test.tsx
+  s_1371486a2c8eba::t_b5c11901b4e345 330,358
+tests/contracts/canonical-chat.test.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 35-50
+tests/gateway/collaboration-chat-queue.test.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 6,15-19,124,130,137-161,196-198,226,281,283,295,301-415,517-547,607-610,630,694,696,714-715
+packages/ui/src/agents-providers/provider-settings-controller.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 3,10,17,41,59-63,86-88,139,142,145-146,150,155,172,176,189-190,196,205,214,223-229,233-243,245,249,252,316-337,343-347,350,354-363
+packages/proxy/src/funded-main.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 1-45
+tests/deploy/customer-vps/symphony-systemd.test.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 44,56,58,134,152-153,226,228,257,261-262,343-348
+tests/shell/apps-api.test.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 3,21-60
+packages/platform/src/database/migrations/onboarding.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 1-27
+shell/src/components/settings/sections/AgentSection.tsx
+  s_1371486a2c8eba::t_b5c11901b4e345 7,16,18,25-30,37,46-57
+packages/gateway/src/collaboration/shared-ai-eligibility.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 1-85
+tests/fixtures/ai-provider-snapshot.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 46
+packages/ui/src/agents-providers/agents-providers.css
+  s_1371486a2c8eba::t_b5c11901b4e345 10,18-19,50-51,74-76,79-86,93,97,99,110,125-137,139,141,144,151-154,165,173-176,178-183,195,207,222-224,272,288,296-297,320,328,333
+apps/mobile/components/collaboration/SharedChatComposer.tsx
+  s_1371486a2c8eba::t_b5c11901b4e345 20
+packages/proxy/src/funded-relay-openai-request.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 1-69
+specs/121-collaboration-session-sharing/data-model.md
+  s_1371486a2c8eba::t_b5c11901b4e345 95,97
+specs/124-organization-collaboration/research.md
+  s_1371486a2c8eba::t_b5c11901b4e345 84-114
+packages/symphony-elixir/lib/symphony_elixir.ex
+  s_1371486a2c8eba::t_b5c11901b4e345 31
+docs/platform/dev/deployment.md
+  s_1371486a2c8eba::t_b5c11901b4e345 169-196
+specs/124-organization-collaboration/evidence/providers.md
+  s_1371486a2c8eba::t_b5c11901b4e345 1-48
+specs/124-organization-collaboration/evidence/direct.md
+  s_1371486a2c8eba::t_b5c11901b4e345 1-53
+specs/124-organization-collaboration/tasks.md
+  s_1371486a2c8eba::t_b5c11901b4e345 33,50-51,92,101,104,113,129,131-132,159,161-162,199
+tests/gateway/provider-settings-generic-harness-lifecycle.test.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 15-18,1390-1392,1407
+packages/gateway/src/collaboration/terminal-routes.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 1-38
+tests/desktop/shell-sessions-store.test.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 4,67-71
+specs/121-collaboration-session-sharing/contracts/collaboration-api.md
+  s_1371486a2c8eba::t_b5c11901b4e345 89
+packages/platform/src/billing/checkout-support.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 1-217
+packages/platform/src/database/billing-entitlements.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 1-179
+tests/shell/compact-chat-provider-choices.test.tsx
+  s_1371486a2c8eba::t_b5c11901b4e345 1-56
+tests/integrations/symphony-contract.test.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 1-38
+packages/platform/src/db.ts
+  s_1371486a2c8eba::t_c3f3a3e21da461 109-203
+packages/ui/src/agents-providers/AgentsProvidersView.tsx
+  s_1371486a2c8eba::t_b5c11901b4e345 1-2,5,8-9,21-24,37,40-42,47-48,54-59,63-94,97,102,106-108,119,121-122,127-141,144-145,147-153,155-159,174-183,186-188,190-191,193,197
+tests/gateway/provider-settings-login-coordinator.test.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 9-12,116-121,210-211,265-266
+packages/proxy/src/funded-relay.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 9-11,29-30,34-35,64-87,191-197,202,278,282-283,285-286,291,297,303-305,307,334-340,342,344-355,372,390,398-400,425,437-439,456-458,523,526-531,574
+tests/desktop/chat-provider-catalog-client.test.tsx
+  s_1371486a2c8eba::t_b5c11901b4e345 33,36,41,104,127,132,136
+packages/platform/src/ai-funded-policy-repository.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 20
+shell/src/lib/canonical-provider-setup.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 20-23,92
+tests/desktop/navigation-header.test.tsx
+  s_1371486a2c8eba::t_b5c11901b4e345 6,11,22,75,82-94
+desktop/src/renderer/src/features/apps/app-icons.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 4,10,12-16,23
+packages/gateway/src/coding-agents/pi-provider.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 27,386-389
+packages/platform/src/database/migrations/golden-snapshots.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 1-320
+desktop/src/renderer/src/features/chat/canonical-chat-presentation.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 10,548-550
+docs/dev/symphony.md
+  s_1371486a2c8eba::t_b5c11901b4e345 93-145
+packages/platform/src/database/user-machines.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 1-349
+specs/124-organization-collaboration/data-model.md
+  s_1371486a2c8eba::t_b5c11901b4e345 31-32,37-38
+tests/gateway/chat-model-probe-concurrency.test.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 1-55
+.github/workflows/cli-release.yml
+  s_1371486a2c8eba::t_b5c11901b4e345 111,118
+docs/dev/cli-release.md
+  s_1371486a2c8eba::t_b5c11901b4e345 23-28
+packages/platform/src/database/migration-types.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 1-4
+tests/platform/ai-funded-usage-metering.test.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 1-143
+tests/shell/chat-app-provider-state.test.tsx
+  s_1371486a2c8eba::t_b5c11901b4e345 9-10,130-166,274,281,286,301,303-306,310,312,339-340,354-355,398-401,425-426,472-473,489
+tests/gateway/collaboration-chat-execution-adapter.test.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 5-9,25,158-230,280,283-292
+tests/ui/provider-settings-controller.test.tsx
+  s_1371486a2c8eba::t_b5c11901b4e345 144,150,162-164,195-235,408-415,418,421,425-442
+tests/gateway/provider-settings-loading.test.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 1-90
+packages/ui/src/agents-providers/RemovalDialog.tsx
+  s_1371486a2c8eba::t_b5c11901b4e345 2,37,43-44,46,71-76,78-89,92-93,96,103,112-118,128,136,140,152,156
+desktop/src/renderer/src/features/chat/canonical-chat-submit-error.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 1,8
+packages/gateway/src/coding-agents/routes.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 545-546
+tests/contracts/provider-settings.test.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 11,13,235-262,433-459
+tests/deploy/customer-vps/zellij-smoke-supervisor.test.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 5-60,63-132,138,140,155-165,167,172-173,181-187
+tests/gateway/collaboration-chat-orchestrator.test.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 10,242
+tests/platform/fixtures/platform-schema-baseline.json
+  s_1371486a2c8eba::t_b5c11901b4e345 1-879
+packages/ui/src/agents-providers/settings-error-presentation.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 1-13
+packages/ui/src/agents-providers/types.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 27,60-61
+packages/platform/src/billing/stripe-webhook-projection.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 1-311
+desktop/src/renderer/src/features/chat/ProviderModelPicker.tsx
+  s_1371486a2c8eba::t_b5c11901b4e345 2,5-8,10-11,13-14,22,29-35,37,40-77
+shell/src/components/mobile/MobileShell.tsx
+  s_1371486a2c8eba::t_b5c11901b4e345 55-56,177,199-207,348,509-512,578
+desktop/src/renderer/src/features/settings/open-provider-settings.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 1-8
+tests/desktop/desktop-mode-controls.test.tsx
+  s_1371486a2c8eba::t_b5c11901b4e345 48-49
+docs/dev/vps-deployment.md
+  s_1371486a2c8eba::t_b5c11901b4e345 1022-1026,1043-1044
+tests/gateway/provider-settings-mutations.test.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 11-45,185-239
+tests/shell/canonical-chat-refresh-recovery.test.tsx
+  s_1371486a2c8eba::t_b5c11901b4e345 4,130
+packages/contracts/src/funded-ai.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 127,129,222-223,230-253,296-298,305-326
+packages/ui/src/agents-providers/AccountsPanel.tsx
+  s_1371486a2c8eba::t_b5c11901b4e345 2,9,52-53,66,69-70,72-73,75-96,102,104,107-108,110-111,113,115,123,125-129,132,140,142-144,150-155,176,180-181,185,189-190,194-195,198-199,202,209-211,215,225
+scripts/install-server.sh
+  s_1371486a2c8eba::t_b5c11901b4e345 451
+packages/platform/src/database/migrations/identity.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 1-38
+packages/symphony-elixir/lib/symphony_elixir/linear/request_gate.ex
+  s_1371486a2c8eba::t_b5c11901b4e345 1-171
+tests/gateway/collaboration-foundation.test.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 1-311
+packages/platform/src/ai-funded-policy-routes.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 67,83-85,160,187-188,192,236,240-251,264-281,395-396,398-399
+.github/workflows/README.md
+  s_1371486a2c8eba::t_b5c11901b4e345 62,81
+desktop/src/renderer/src/features/chat/ProviderDriverGlyph.tsx
+  s_1371486a2c8eba::t_b5c11901b4e345 2,6,11-13,16-18,20-28
+packages/gateway/src/chat/queue-repository.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 28,139-144,172,176-185,288-291,310-318,328-336,438,461-470,809,822-830,832-833,847-848,854,877,879-882,887-892,896,899,1248,1296-1308,1310,1315,1327-1334
+specs/118-ai-gateway-provider-auth/research.md
+  s_1371486a2c8eba::t_b5c11901b4e345 10
+tests/gateway/generic-harness-model-catalog.test.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 1-196
+tests/desktop/chat-tab-render.test.tsx
+  s_1371486a2c8eba::t_b5c11901b4e345 646,669-671,746-747,804-806
+packages/contracts/src/ai-provider.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 18
+packages/platform/src/database/migrations/host-bundles.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 1-93
+tests/platform/collaboration-foundation.test.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 1-246
+shell/e2e/terminal-sizing.spec.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 174,176-181
+tests/shell/terminal.test.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 104-122
+packages/gateway/src/collaboration/database.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 1-2,224-227
+tests/contracts/funded-ai.test.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 17,141-180
+packages/proxy/package.json
+  s_1371486a2c8eba::t_b5c11901b4e345 9
+shell/src/lib/provider-terminal-session.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 9-10,33-35,128-132
+specs/124-organization-collaboration/evidence/S00-receipt.md
+  s_1371486a2c8eba::t_b5c11901b4e345 1-57
+tests/desktop/settings-view.test.tsx
+  s_1371486a2c8eba::t_b5c11901b4e345 92,96-98
+packages/ui/src/agents-providers/HarnessEditor.tsx
+  s_1371486a2c8eba::t_b5c11901b4e345 9,14-19,28,31-35,37,40,44,59,69,76,79,84,87-89,91,95,110,113,125-126,129,132-133,135-138,140,144,148-150,157-159,161-162,165,172-174,176-179,181,186-187,189-191,197,201-203,210,212,214-240,242-246,248,250-270
+tests/gateway/configured-chat-connection.test.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 1-46
+tests/integration/collaboration-authority-boundaries.integration.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 1-257
+packages/gateway/src/ai-providers/provider-settings-projector.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 8,19,43-70,119-120,125,211-265,303,305,307-308,311-314,326,328-340,343-347,351,362-363,372,374,390,394-398,403,408,411-416,430,437-461,466-469,471,485,489-490
+packages/proxy/src/funded-main-app.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 1-42
+packages/platform/src/ai-funded-reservation-cleanup.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 1-141
+packages/gateway/src/coding-agents/managed-harness-process-config.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 1-139
+specs/124-organization-collaboration/contracts/organization-api.md
+  s_1371486a2c8eba::t_b5c11901b4e345 32,58,62,66,74,106-111
+packages/kernel/src/hooks.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 227-229
+tests/gateway/native-coding-model-catalog.test.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 67,82-86
+tests/proxy/funded-relay-cloud-run.test.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 1-142
+packages/gateway/src/chat/coding-provider-adapter.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 18-21,397,497,531-539,547,626
+tests/gateway/provider-settings-managed-catalog.test.ts
+  s_1371486a2c8eba::t_b5c11901b4e345 1-208
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "0384dc662e5ff6b536faf6833590eae8a7dfc3b8",
+  "prompts": {},
+  "sessions": {
+    "s_1371486a2c8eba": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f3ccb4884ffepkYmSaMEnGsOmZ",
+        "model": "unknown"
+      },
+      "human_author": "Sundaram Kumar Jha <jhasundaram@outlook.com>"
+    }
+  }
+}
