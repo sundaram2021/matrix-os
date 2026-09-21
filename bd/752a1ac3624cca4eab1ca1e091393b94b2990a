@@ -1,0 +1,53 @@
+packages/gateway/src/domains/observability/system-info.ts
+  s_1371486a2c8eba::t_0954bc4f27a6cb 2,377,464-467
+.github/workflows/platform-cloud-run.yml
+  s_4d657b2ab3ef2a::t_06d3c9fdc27d4e 740
+packages/gateway/src/collaboration/wiring.ts
+  s_4d657b2ab3ef2a::t_4b68a16463d6ca 2,51-59,343-379
+packages/gateway/src/server.ts
+  s_4d657b2ab3ef2a::t_88f16cc4114563 195,197,199,201-202,923-930,952-956,972-974,976-990,992-995,997-1000,1002-1015,1017-1030,1161-1162,1164-1178,4434-4442
+packages/platform/src/collaboration/bootstrap.ts
+  s_4d657b2ab3ef2a::t_aad68ea308f7fb 13,16-17,30-35,38-40,42,44
+packages/platform/src/collaboration/wiring.ts
+  s_4d657b2ab3ef2a::t_2795fcba0439e8 9-11,23-27,29-35,39-41,45-47,55,58,60-62,65-68,71,189-190
+packages/platform/src/main.ts
+  s_4d657b2ab3ef2a::t_9d73fdcbe6005a 132,258
+packages/platform/src/platform-startup.ts
+  s_4d657b2ab3ef2a::t_701d9fd714f273 64,205
+tests/gateway/collaboration-wiring.test.ts
+  s_4d657b2ab3ef2a::t_60767210855e9b 41
+tests/gateway/system-info.test.ts
+  s_4d657b2ab3ef2a::t_2ecf2070a2a6d8 16,18-23,26,29-30,33-42,44,46-50
+tests/platform/collaboration-bootstrap.test.ts
+  s_4d657b2ab3ef2a::t_627a826669dcd3 2,32-34,39-47,50-51,57-58,72-74
+tests/platform/collaboration-deployment.test.ts
+  s_4d657b2ab3ef2a::t_832f72ea663f74 8,12,24
+tests/platform/collaboration-wiring.test.ts
+  s_4d657b2ab3ef2a::t_5a25576ee973f7 28
+tests/platform/customer-vps-cloud-init.test.ts
+  s_4d657b2ab3ef2a::t_df1e584e03ce86 229,412
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "bd752a1ac3624cca4eab1ca1e091393b94b2990a",
+  "prompts": {},
+  "sessions": {
+    "s_1371486a2c8eba": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f3ccb4884ffepkYmSaMEnGsOmZ",
+        "model": "unknown"
+      },
+      "human_author": "Sundaram Kumar Jha <jhasundaram@outlook.com>"
+    },
+    "s_4d657b2ab3ef2a": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f3ff6fc19ffeQqj21L477YXL43",
+        "model": "unknown"
+      },
+      "human_author": "Sundaram Kumar Jha <jhasundaram@outlook.com>"
+    }
+  }
+}
